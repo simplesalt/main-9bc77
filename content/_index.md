@@ -15,7 +15,7 @@ sections:
       Furthermore, the practices that make products and organizations excellent
       tend to also generate strong security.  I'd like to share these with you.
     actions:
-      - label: Let's chat
+      - label: Hit me up
         url: /contact
         style: button
   - section_id: recent-posts
