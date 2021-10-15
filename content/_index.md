@@ -11,9 +11,10 @@ sections:
     type: section_content
     title: About
     content: >
-      Security is misunderstood.  At its core, it really doesn't need to be. 
-      Furthermore, the practices that make products and organizations excellent
-      tend to also generate strong security.  I'd like to share these with you.
+      Security is misunderstood.  It's not as complicated as it seems, and
+      there's a lot of common sense available if you want it.  Furthermore, the
+      practices that make products and organizations excellent tend to also
+      generate strong security.  I'd like to share these with you.
     actions:
       - label: Hit me up
         url: /contact
