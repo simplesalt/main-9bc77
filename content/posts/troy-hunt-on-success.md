@@ -1,10 +1,7 @@
 ---
 title: Troy Hunt on success
 excerpt: >-
-  Hiking can sometimes involves bushwhacking and hiking is sometimes referred to
-  as such. This specifically refers to difficult walking through dense forest,
-  undergrowth, or bushes, where forward progress requires pushing vegetation
-  aside.
+  I enjoyed this recent piece by Troy Hunt, the celebrity creator of havibeenpwned.  He departs from his usual technical topics, instead discussing the skills he's had to practice in the last year to stay effective while under more stress.  
 date: '2020-07-02'
 seo:
   title: Troy Hunt on success
