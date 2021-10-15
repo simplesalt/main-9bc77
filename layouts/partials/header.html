@@ -3,6 +3,7 @@
     <div class="site-header-inside">
 
       <div class="site-branding">
+        {{ template "_internal/google_analytics.html" . }}
         {{ if .Site.Data.config.header.profile_img }}
         <p class="profile">
           <a href='{{ "/" | relURL }}'><img src="{{ $.Site.Data.config.header.profile_img | relURL }}"

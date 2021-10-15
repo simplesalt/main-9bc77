@@ -32,12 +32,26 @@ seo:
 layout: page
 ---
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+I want to help you find the most effective ways to solve your security problems.  I believe strongly in well-chosen metrics, continuous improvement, and doing simple things well.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+My mission is to persuade the people around me that they are valuable, worth loving, and are capable of good.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+I find technical concepts easy, and pride myself on explaining hard things simply.  I believe that scalable excellence depends on an honest assessment of the current state, so believe strongly in hard truths over pleasant lies.  I enjoy collaboration, high-trust environments, building people up, and long-term success.
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+## Credentials
 
-*Thank You for reading!*
+*   PMP
+
+*   CISSP
+
+*   AWS Solutions Architect – Professional
+
+*   AWS Security - Specialty
+
+*   Microsoft Certified: Azure Solutions Architect Expert
+
+*   Microsoft Certified: Azure Security Engineer Associate
+
+*   6Sigma Green Belt, Medtronic Quality Center of Excellence
+
+*   BA Math and Chemistry, St. Olaf College
