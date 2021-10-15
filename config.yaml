@@ -10,3 +10,5 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+disqusShortname: saltyonsecurity-net
+googleAnalytics: G-WFY115RLD3
