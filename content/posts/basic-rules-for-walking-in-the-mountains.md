@@ -7,7 +7,7 @@ thumb_img_alt: Hikers on the trail
 content_img_path: images/6.jpg
 content_img_alt: Hikers on the trail
 seo:
-  title: Basic Rules For Walking In The Mountains
+  title: Troy Hunt on success
   description: >-
     Hiking refers to difficult walking through dense forest, undergrowth, or
     bushes.
