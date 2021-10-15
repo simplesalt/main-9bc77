@@ -10,11 +10,10 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      Security is misunderstood.  At its core, it really doesn't need to be. 
+      Furthermore, the practices that make products and organizations excellent
+      tend to also generate strong security.  I'd like to share these with you.
     actions:
       - label: Contact Me
         url: /contact
