@@ -1,6 +1,6 @@
 ---
 title: About Dylan
-subtitle: This is a short page about me and my work.
+subtitle: I'm here to help
 img_path: images/dylan-headshot-90e78b7b.webp
 img_alt: Portrait of a man with beard and mustache
 seo:
