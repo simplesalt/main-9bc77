@@ -12,6 +12,7 @@ sections:
         name: Name
         label: You
         is_required: true
+        default_value: Name
       - input_type: email
         name: email
         label: Email
