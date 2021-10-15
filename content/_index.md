@@ -5,9 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: Salty On Security
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |
+      Opinions about security and organization health.
   - section_id: about
     type: section_content
     title: About
