@@ -11,7 +11,6 @@ sections:
       - input_type: text
         name: You
         label: You
-        default_value: Your name
         is_required: true
       - input_type: email
         name: email
