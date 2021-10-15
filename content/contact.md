@@ -1,10 +1,12 @@
 ---
-title: Contact
+title: Hit me up
 hide_title: false
 sections:
   - section_id: contact-form
     type: section_form
-    content: To get in touch please fill the form below.
+    content: >
+      Wanna tell me I'm full of it?  Interested in something?  Whatever it is,
+      I'd love to hear it.  
     form_id: contactForm
     form_action: /thank-you
     form_fields:
