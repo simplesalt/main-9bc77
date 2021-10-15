@@ -2,7 +2,7 @@
 title: CIS 1 Explained
 excerpt: >-
   The CIS Controls say the most important thing to do to secure your computers is to have a list of all your stuff. They’re a little unclear by what this means and how it helps.
-  date: '2020-07-02'
+  date: '2020-12-10'
 seo:
   title: CIS 1 Explained
   description: >-
