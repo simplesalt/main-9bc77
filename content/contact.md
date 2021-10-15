@@ -9,7 +9,7 @@ sections:
     form_action: /thank-you
     form_fields:
       - input_type: text
-        name: You
+        name: Name
         label: You
         is_required: true
       - input_type: email
