@@ -103,8 +103,8 @@ Assigning ownership can reduce blind spots in an organization.
 See other posts for detailed techniques to build and _maintain_ an accurate and dependable **Inventory of IT Stuff**, including:
 
 *   [CIS 1: Why?](/cis1/)
-*   [The Mission (CIS 1.1)](/cis1.1/)
-*   [Discovery (CIS 1.1-1.3)](/cis1.1)
-*   [Useful Information (CIS 1.5)](/cis1.5)
-*   [Standard Work (CIS 1.6)](/cis1.6)
-*   [NAC (CIS 1.7-1.8)](/cis1.7)
+*   [The Mission (CIS 1.1)](/cis1_1/)
+*   [Discovery (CIS 1.1-1.3)](/cis1_1)
+*   [Useful Information (CIS 1.5)](/cis1_5)
+*   [Standard Work (CIS 1.6)](/cis1_6)
+*   [NAC (CIS 1.7-1.8)](/cis1_7)
