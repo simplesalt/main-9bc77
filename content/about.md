@@ -31,12 +31,11 @@ seo:
       relativeUrl: true
 layout: page
 ---
-
 I want to help you find the most effective ways to solve your security problems.  I believe strongly in well-chosen metrics, continuous improvement, and doing simple things well.
 
 My mission is to persuade the people around me that they are valuable, worth loving, and are capable of good.
 
-I find technical concepts easy, and pride myself on explaining hard things simply.  I believe that scalable excellence depends on an honest assessment of the current state, so believe strongly in hard truths over pleasant lies.  I enjoy collaboration, high-trust environments, building people up, and long-term success.
+I am smart and get things done.  I find complicated, technical things easy and enjoy explaining them simply.  I believe that scalable excellence depends on an honest assessment of the current state, so believe strongly in hard truths over pleasant lies.  I enjoy collaboration, high-trust environments, building people up, and long-term success.  
 
 ## Credentials
 
