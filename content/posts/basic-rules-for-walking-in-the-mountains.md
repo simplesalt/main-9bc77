@@ -1,7 +1,7 @@
 ---
 title: Troy Hunt on success
 excerpt: "I enjoyed this recent piece by Troy Hunt, the celebrity creator of havibeenpwned.\_ He departs from his usual technical topics, instead discussing the skills he's had to practice in the last year to stay effective while under more stress.\_ "
-date: '2018-01-09'
+date: '2018-07-09'
 thumb_img_path: images/6.jpg
 thumb_img_alt: Hikers on the trail
 content_img_path: images/6.jpg
