@@ -100,10 +100,10 @@ If devices have never had an owner, it usually means that ownership doesn’t ta
 
 Assigning ownership can reduce blind spots in an organization.
 
-Future posts will describe the overall themes to build and _maintain_ an accurate and dependable **Inventory of IT Stuff**, including:
+See other posts for detailed techniques to build and _maintain_ an accurate and dependable **Inventory of IT Stuff**, including:
 
 *   [CIS 1: Why?](/cis1/)
-*   [The Mission (CIS 1.4)](/cis1.4)
+*   [The Mission (CIS 1.1)](/cis1.1/)
 *   [Discovery (CIS 1.1-1.3)](/cis1.1)
 *   [Useful Information (CIS 1.5)](/cis1.5)
 *   [Standard Work (CIS 1.6)](/cis1.6)
