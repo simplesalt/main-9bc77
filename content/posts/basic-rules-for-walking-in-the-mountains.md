@@ -1,31 +1,25 @@
 ---
-title: Basic Rules For Walking In The Mountains
+title: Troy Hunt on success
 excerpt: >-
   Hiking can sometimes involves bushwhacking and hiking is sometimes referred to
   as such. This specifically refers to difficult walking through dense forest,
   undergrowth, or bushes, where forward progress requires pushing vegetation
   aside.
-date: '2018-01-09'
-thumb_img_path: images/6.jpg
-thumb_img_alt: Hikers on the trail
-content_img_path: images/6.jpg
-content_img_alt: Hikers on the trail
+date: '2020-07-02'
 seo:
-  title: Basic Rules For Walking In The Mountains
+  title: Troy Hunt on success
   description: >-
-    Hiking refers to difficult walking through dense forest, undergrowth, or
-    bushes.
+    I enjoyed this recent piece by Troy Hunt
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Basic Rules For Walking In The Mountains
+      value: Troy Hunt on success
       keyName: property
     - name: 'og:description'
       value: >-
-        Hiking refers to difficult walking through dense forest, undergrowth, or
-        bushes.
+        I enjoyed this recent piece by Troy Hunt
       keyName: property
     - name: 'og:image'
       value: images/6.jpg
@@ -34,18 +28,15 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Basic Rules For Walking In The Mountains
+      value: Troy Hunt on success
     - name: 'twitter:description'
       value: >-
-        Hiking refers to difficult walking through dense forest, undergrowth, or
-        bushes.
+        I enjoyed this recent piece by Troy Hunt
     - name: 'twitter:image'
       value: images/6.jpg
       relativeUrl: true
 layout: post
 ---
-
-Photo by [David Marcu.](https://unsplash.com/photos/wcHCzgo0_mQ)
 
 I enjoyed [this recent piece](https://www.troyhunt.com/sustaining-performance-under-extreme-stress/) by Troy Hunt, the celebrity creator of havibeenpwned.  He departs from his usual technical topics, instead discussing the skills he's had to practice in the last year to stay effective while under more stress.  Call it confirmation bias if you want, but I already believe in the strategies he describes - being goal oriented, thinking of setbacks and failure as normal, and stable routines.  
 
