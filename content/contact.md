@@ -18,14 +18,6 @@ sections:
         label: Email
         default_value: Your email
         is_required: true
-      - input_type: text
-        name: subject
-        label: Subject
-        default_value: Please select
-        options:
-          - Error on the site
-          - Sponsorship
-          - Other
       - input_type: textarea
         name: message
         label: Message
