@@ -1,10 +1,10 @@
 ---
-title: CSC 1.1: the Mission
+title: CIS 1.1 -  the Mission
 excerpt: >-
   CIS 1.1 contains the core mission of CIS 1: have an accurate Inventory of IT Stuff.  The other CIS 1 controls are just supporting ways that help deliver that core mission. 
 date: '2020-12-10'
 seo:
-  title: CSC 1.1: the Mission
+  title: CIS 1.1 -  the Mission
   description: >-
     CIS 1.1 contains the core mission of CIS 1: have an accurate Inventory of IT Stuff. 
   extra:
@@ -12,7 +12,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: CSC 1.1: the Mission
+      value: CIS 1.1 -  the Mission
       keyName: property
     - name: 'og:description'
       value: >-
@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: CSC 1.1: the Mission
+      value: CIS 1.1 -  the Mission
     - name: 'twitter:description'
       value: >-
         CIS 1.1 contains the core mission of CIS 1: have an accurate Inventory of IT Stuff. 

@@ -1,5 +1,5 @@
 ---
-title: CIS 1.2: Standard Work
+title: CIS 1.2 -  Standard Work
 excerpt: >-
   There are several standard processes that most organizations will need to keep the inventory healthy and credible.  Some can be integrated with existing processes, but none can be totally eliminated.  CIS 1.2 proscribes the largest and most important kind of standard work: triage.  
 date: '2020-12-10'
@@ -12,7 +12,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: CIS 1.2: Standard Work
+      value: CIS 1.2 -  Standard Work
       keyName: property
     - name: 'og:description'
       value: >-
@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: CIS 1.2: Standard Work
+      value: CIS 1.2 -  Standard Work
     - name: 'twitter:description'
       value: >-
         CIS 1.2 proscribes the largest and most important kind of standard work: triage. 
