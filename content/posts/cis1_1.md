@@ -36,9 +36,9 @@ layout: post
 ---
 > Establish and maintain an accurate, detailed, and up-to-date inventory of all enterprise assets with the potential to store or process data, to include: end-user devices (including portable and mobile), network devices, non-computing/IoT devices, and servers. Ensure the inventory records the network address (if static), hardware address, machine name, enterprise asset owner, department for each asset, and whether the asset has been approved to connect to the network. For mobile end-user devices, MDM type tools can support this process, where appropriate. This inventory includes assets connected to the infrastructure physically, virtually, remotely, and those within cloud environments. Additionally, it includes assets that are regularly connected to the enterprise’s network infrastructure, even if they are not under control of the enterprise. Review and update the inventory of all enterprise assets bi-annually, or more frequently.
 
-CIS 1.4 contains the core mission of CIS 1: have an accurate **Inventory of IT Stuff**.  The other CIS 1 controls are just supporting ways that help deliver that core mission. 
+CIS 1.1 contains the core mission of CIS 1: have an accurate **Inventory of IT Stuff**.  The other CIS 1 controls are just supporting ways that help deliver that core mission. 
 
-We’ve already covered the vagueness of “assets” in the overview of CIS 1.  The scariest part of 1.4, and the most important part, is the word “maintain”.  If this inventory is going to be the starting place for many security capabilities, it needs to be accurate, otherwise you’ll waste your and your friends’ time on chasing bum leads for old or wrong asset records.  From personal experience, this can be enormously frustrating.
+We’ve already covered the vagueness of “assets” in the overview of CIS 1.  The scariest part of 1.1, and the most important part, is the word “maintain”.  If this inventory is going to be the starting place for many security capabilities, it needs to be accurate, otherwise you’ll waste your and your friends’ time on chasing bum leads for old or wrong asset records.  From personal experience, this can be enormously frustrating.
 
 This is the biggest challenge: how do you keep an inventory accurate?  You’ve got scanners and all sorts of people feeding you all sorts of data, and you are responsible for mushing it together into something dependable. 
 
@@ -97,8 +97,7 @@ I disagree with CIS’ statement that the inventory must contain all hardware as
 See other posts for detailed techniques to build and _maintain_ an accurate and dependable **Inventory of IT Stuff**, including:
 
 *   [CIS 1: Why?](/cis1/)
-*   [The Mission (CIS 1.1)](/cis1_1)
-*   [Discovery (CIS 1.1-1.3)](/cis1_1)
-*   [Useful Information (CIS 1.5)](/cis1_5)
-*   [Standard Work (CIS 1.6)](/cis1_6)
-*   [NAC (CIS 1.7-1.8)](/cis1_7)
+*   [The Mission (CIS 1.1)](/cis1_1/)
+*   [Discovery (CIS 1.3-1.5)](/cis1_3-5/)
+*   [Useful Information (CIS 1.1, part 2)](/cis1_1_2/)
+*   [Standard Work (CIS 1.2)](/cis1_2/)

@@ -2,7 +2,7 @@
 title: About Dylan
 subtitle: I'm here to help.
 img_path: images/dylan-headshot-90e78b7b.webp
-img_alt: Portrait of a man with beard and mustache
+img_alt: Dylan Evans Headshot
 seo:
   title: About Me
   description: This is the about me page

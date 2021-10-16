@@ -84,15 +84,16 @@ There are some good rules of thumb.
 
 # Owners
 
-Ownership can also get complicated. Often teams will divide computers by layer:
+Ownership can also get complicated. Often teams will divide computings by layer:
 
 *   Bob and his team might own an ESX cluster and its component rackmounts and SAN.
 *   Jane and her team manage the 10 Linux VMs (all hosted on Bob's cluster)
 *   Edith’s team develops and supports 4 JVMs hosted on 10 of those Linux VMs using Tomcat
 *   Sanjay owns the reverse proxy, caching server, and WAF that present those web applications at a public address (all hosted on Bob’s cluster).
-*   Gloria manages the customer service team that answers questions from the Sales Reps that use it.
+*   Gloria manages the customer service team that help the Sales Reps and customers that use a CRM hosted by each of the IT teams above.
+*   Chad is the Executive VP of Sales, sponsored the CRM buildout, and manages the sales team.
 
-Who “owns” the resulting web application or overall sales capability it helps deliver?
+Who “owns” the resulting CRM application or overall capability it helps deliver?
 
 Many security teams will ignore the way teams have organized ownership and blindly assign security problems to those who maintain the bottom or top of the stack. Security teams need to educate themselves on how their IT customers organize themselves and engage them only in areas they can affect.
 
@@ -104,7 +105,6 @@ See other posts for detailed techniques to build and _maintain_ an accurate and
 
 *   [CIS 1: Why?](/cis1/)
 *   [The Mission (CIS 1.1)](/cis1_1/)
-*   [Discovery (CIS 1.1-1.3)](/cis1_1)
-*   [Useful Information (CIS 1.5)](/cis1_5)
-*   [Standard Work (CIS 1.6)](/cis1_6)
-*   [NAC (CIS 1.7-1.8)](/cis1_7)
+*   [Discovery (CIS 1.3-1.5)](/cis1_3-5/)
+*   [Useful Information (CIS 1.1, part 2)](/cis1_1_2/)
+*   [Standard Work (CIS 1.2)](/cis1_2/)
