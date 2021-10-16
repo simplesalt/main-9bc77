@@ -28,14 +28,14 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: Stackbit Fresh Theme
+  title: Salty On Security
   description: The preview of the Fresh theme
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Fresh Theme
+      value: Salty On Security
       keyName: property
     - name: 'og:description'
       value: The preview of the Fresh theme
@@ -47,7 +47,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Fresh Theme
+      value: Salty On Security
     - name: 'twitter:description'
       value: The preview of the Fresh theme
     - name: 'twitter:image'
