@@ -29,7 +29,7 @@ sections:
         style: button
 seo:
   title: Salty On Security
-  description: The preview of the Fresh theme
+  description: Opinions about security and organization health.
   extra:
     - name: 'og:type'
       value: website
@@ -38,10 +38,10 @@ seo:
       value: Salty On Security
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: Opinions about security and organization health.
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: images/knowing-is-half.webp
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -49,9 +49,9 @@ seo:
     - name: 'twitter:title'
       value: Salty On Security
     - name: 'twitter:description'
-      value: The preview of the Fresh theme
+      value: Opinions about security and organization health.
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: images/knowing-is-half.webp
       relativeUrl: true
 layout: advanced
 ---

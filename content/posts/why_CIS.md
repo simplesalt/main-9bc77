@@ -41,7 +41,7 @@ For example, the first CIS control is “know what computers you use.”   CI
 *   “The first step is admitting you have a problem”
 *   The Dunning-Kruger Effect
 
-![Dunning Kruger effect graph](/images/dunning-kruger.jpg)
+![Dunning Kruger effect graph](/images/dunning-kruger.webp)
 
 Another example: CIS is structured to start with the easiest wins.  It advertises that, “80% of compromises would have been prevented by doing the top 4 controls.”   By starting with the most important ideas, it naturally gives priority and makes security less overwhelming: "If you do nothing else, do this".  It reinforces this by explaining that lower controls often depend on doing higher controls: "If you do pen tests but haven't patched your vulnerabilities, you are wasting your time."
 

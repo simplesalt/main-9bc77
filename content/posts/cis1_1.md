@@ -19,7 +19,7 @@ seo:
         CIS 1.1 contains the core mission of CIS 1: have an accurate Inventory of IT Stuff. 
       keyName: property
     - name: 'og:image'
-      value: images/6.jpg
+      value: images/knowing-is-half.webp
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -30,7 +30,7 @@ seo:
       value: >-
         CIS 1.1 contains the core mission of CIS 1: have an accurate Inventory of IT Stuff. 
     - name: 'twitter:image'
-      value: images/6.jpg
+      value: images/knowing-is-half.webp
       relativeUrl: true
 layout: post
 ---

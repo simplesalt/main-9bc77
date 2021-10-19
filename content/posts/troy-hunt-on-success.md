@@ -19,7 +19,7 @@ seo:
         I enjoyed this recent piece by Troy Hunt
       keyName: property
     - name: 'og:image'
-      value: images/6.jpg
+      value: images/knowing-is-half.webp
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -30,7 +30,7 @@ seo:
       value: >-
         I enjoyed this recent piece by Troy Hunt
     - name: 'twitter:image'
-      value: images/6.jpg
+      value: images/knowing-is-half.webp
       relativeUrl: true
 layout: post
 ---

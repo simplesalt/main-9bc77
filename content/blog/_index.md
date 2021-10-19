@@ -2,7 +2,7 @@
 title: Blog
 seo:
   title: Blog
-  description: This is the blog page
+  description: Opinions about security and organization health.
   extra:
     - name: 'og:type'
       value: website
@@ -11,10 +11,10 @@ seo:
       value: Blog
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: Opinions about security and organization health.
       keyName: property
     - name: 'og:image'
-      value: images/1.jpg
+      value: images/dylan-headshot.webp
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -22,9 +22,9 @@ seo:
     - name: 'twitter:title'
       value: Blog
     - name: 'twitter:description'
-      value: This is the blog page
+      value: Opinions about security and organization health.
     - name: 'twitter:image'
-      value: images/1.jpg
+      value: images/dylan-headshot.webp
       relativeUrl: true
 layout: blog
 ---

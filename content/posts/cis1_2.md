@@ -19,7 +19,7 @@ seo:
         CIS 1.2 proscribes the largest and most important kind of standard work: triage. 
       keyName: property
     - name: 'og:image'
-      value: images/6.jpg
+      value: images/knowing-is-half.webp
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -30,7 +30,7 @@ seo:
       value: >-
         CIS 1.2 proscribes the largest and most important kind of standard work: triage. 
     - name: 'twitter:image'
-      value: images/6.jpg
+      value: images/knowing-is-half.webp
       relativeUrl: true
 layout: post
 ---

@@ -19,7 +19,7 @@ seo:
         The CIS Controls say the most important thing to do to secure your computers is to have a list of all your stuff.
       keyName: property
     - name: 'og:image'
-      value: images/6.jpg
+      value: images/knowing-is-half.webp
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -30,7 +30,7 @@ seo:
       value: >-
         The CIS Controls say the most important thing to do to secure your computers is to have a list of all your stuff.
     - name: 'twitter:image'
-      value: images/6.jpg
+      value: images/knowing-is-half.webp
       relativeUrl: true
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: Thank You!
-img_path: images/thank-you.jpg
-img_alt: Thank You Led Signage
+img_path: images/dylan-headshot.webp
+img_alt: Dylan face
 layout: page
 ---
 
