@@ -1,10 +1,10 @@
 ---
-title: Sample CICD flow
+title: Agile in a Nutshell
 excerpt: >-
   Agile in a nutshell
 date: '2019-10-29'
 seo:
-  title: Sample CICD flow
+  title: Agile in a Nutshell
   description: >-
     Agile in a nutshell 
   extra:
@@ -12,7 +12,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Sample CICD flow
+      value: Agile in a Nutshell
       keyName: property
     - name: 'og:description'
       value: >-
@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Sample CICD flow
+      value: Agile in a Nutshell
     - name: 'twitter:description'
       value: >-
         Agile in a nutshell 
