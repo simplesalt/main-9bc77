@@ -37,17 +37,17 @@ seo:
       relativeUrl: true
 layout: post
 ---
-An *Inventory of IT Stuff* is a helpful thing: it's a necessary starting point for lots of other technical security work.
+An ***Inventory of IT Stuff*** is a helpful thing: it's a necessary starting point for lots of other technical security work.
 
 But you know what would be even more helpful?  *Knowing what each thing does.* Zowie! *That* would be wild.
 
 CIS 2 goes after the easiest-to-detect aspect of what those things do: what software is running on them.  You will notice a lot of similarities with CIS 1; most of the strategies are analogous.  The biggest difference is that the data quality of your software inventory is just going to be lower - there's gonna be lots more one-offs.
 
-We also start to see some cracks in the otherwise pristine, black-and-white perspective that makes CIS so seductive. There will be judgement calls and compromises that you and your customers will have to make. Your software inventory will be messier than your *Inventory of IT Stuff*. Remember, this messiness is not a problem; it's intrinsic to the data and CIS's strategy still adds tremendous value.  Just keep the overall goals for the Software Inventory in mind and don't get hung up on making it perfect.
+We also start to see some cracks in the otherwise pristine, black-and-white perspective that makes CIS so seductive. There will be judgement calls and compromises that you and your customers will have to make. Your software inventory will be messier than your ***Inventory of IT Stuff***. Remember, this messiness is not a problem; it's intrinsic to the data and CIS's strategy still adds tremendous value.  Just keep the overall goals for the Software Inventory in mind and don't get hung up on making it perfect.
 
 # Why?
 
-There are four big benefits to knowing what software is on your Stuff.
+There are four big benefits to knowing what software is on your **Stuff**.
 
 *   It is a prerequisite for managing vulnerabilities at scale (CIS 7).  Getting solid on CIS 7 gets the best bang/buck ratios for organizations with a lot of brownfield IT.
 *   It is a strong step toward proscriptively managing configuration (CIS 4).
