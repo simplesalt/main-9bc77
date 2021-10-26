@@ -38,8 +38,7 @@ layout: post
 
 I'll be straight with you: the specifics in version 8 on this control are bananas and I don't see how most of the details help the security objectives it's designed to deliver. I suspect that the writers walked back some of the vision behind this control after feedback that it was too hard. They switched the vision from "an automatically-populated list of discovered software" to "a high-level list of Big Systems in use". Consider the previous wording in v7:
 
-> Maintain an up-to-date list of all authorized software that is required in the enterprise for any business purpose on any business system. (CIS 2.1)
-> The software inventory system should be tied into the hardware asset inventory so all devices and associated software are tracked from a single location. (CIS 2.5)
+> Maintain an up-to-date list of all authorized software that is required in the enterprise for any business purpose on any business system. (CIS 2.1) The software inventory system should be tied into the hardware asset inventory so all devices and associated software are tracked from a single location. (CIS 2.5)
 
 Pretty different, no?
 
