@@ -6,7 +6,7 @@ date: '2020-12-10'
 seo:
   title: CIS 2.1 - the Mission
   description: >-
-    CIS 1.1 contains the core mission of CIS 2: have an accurate Software Inventory. 
+    CIS 2.1 contains the core mission of CIS 2: have an accurate Software Inventory. 
   extra:
     - name: 'og:type'
       value: article
@@ -16,7 +16,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        CIS 1.1 contains the core mission of CIS 1: have an accurate Software Inventory. 
+        CIS 2.1 contains the core mission of CIS 1: have an accurate Software Inventory. 
       keyName: property
     - name: 'og:image'
       value: images/knowing-is-half.webp
@@ -28,7 +28,7 @@ seo:
       value: CIS 2.1 - the Mission
     - name: 'twitter:description'
       value: >-
-        CIS 1.1 contains the core mission of CIS 1: have an accurate Software Inventory. 
+        CIS 2.1 contains the core mission of CIS 1: have an accurate Software Inventory. 
     - name: 'twitter:image'
       value: images/knowing-is-half.webp
       relativeUrl: true
