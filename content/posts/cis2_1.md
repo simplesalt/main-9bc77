@@ -70,7 +70,7 @@ We'll leave the mechanics of generating and maintaining the **Software Inventory
 
 ## Manually Maintained Lists
 
-The problem with this new vision is that it must be manually maintained, and the required details hint at this: you must capture "business purpose", and it mentions that you should "review and update it biannually".  
+The problem with this new vision is that it must be manually maintained, and the required details hint at this: you must capture "business purpose", and it mentions that you should "review and update it biannually". 
 
 There's some solid value you can get out of manually maintained lists.  App Tiering is a great example: it's helpful to create several categories of resiliency requirements, then bucket apps into each.  If you're having a conversation with your VP of Sales, your VP of Customer Service, someone from IT Infrastructure, and the ecommerce product manager about a CRM platform, the conversation will be more successful if you're able to say, "Is this CRM important enough to warrant Tier 1 resiliency?"  Each rep will have heard the term before and have a feeling for what that means for their capability. 
 
