@@ -97,42 +97,42 @@ While it's technically always true, I advise you to disregard CIS's suggestion t
 
 Most of the software metadata described also doesn't help this capability meet our goals. Here's what will be most important:
 
-#### A unique identifier  
-You want a universal identifier that uniquely describes each piece of software you want to track.  For instance, if you find Adobe Indesign on one computer, you should be able to tie it back to the idea of "Adobe Indesign" so you can cross-reference it with Adobe Indesign you find on other computers.  Do not make this version-specific, you'll want to be able to say, "Here's all the computers that have Indesign".  Use other fields (such as a version string) to add more context relevant to your security goals.  
+#### A unique identifier 
+You want a universal identifier that uniquely describes each piece of software you want to track. For instance, if you find Adobe Indesign on one computer, you should be able to tie it back to the idea of "Adobe Indesign" so you can cross-reference it with Adobe Indesign you find on other computers. Do not make this version-specific, you'll want to be able to say, "Here's all the computers that have Indesign". Use other fields (such as a version string) to add more context relevant to your security goals. 
 
-In a sense, Title sounds like a good unique identifier.  Any DBA will tell you that's a bad idea, though: use an easily indexed, truly unique field and then just display the software name in the UI.  This will also avoid problems when two pieces of software have the same name because their marketing teams were insufficiently original.
+In a sense, Title sounds like a good unique identifier. Any DBA will tell you that's a bad idea, though: use an easily indexed, truly unique field and then just display the software name in the UI. This will also avoid problems when two pieces of software have the same name because their marketing teams were insufficiently original.
 
 #### Configuration Compliance
 
-This is not included in CIS's required fields, but because your software inventory will be so foundational to Configuration Management (CIS 4), you'll usually want to indicate whether the software on a particular machine conforms to the configuration baseline you've set for it.  Depending on how much your Config Assurance teams work in the Software Inventory vs a dedicated config tool (ansible, SCCM, native AWS, etc), you may want extra contextual configuration fields as well to help them track status.  
+This is not included in CIS's required fields, but because your software inventory will be so foundational to Configuration Management (CIS 4), you'll usually want to indicate whether the software on a particular machine conforms to the configuration baseline you've set for it. Depending on how much your Config Assurance teams work in the Software Inventory vs a dedicated config tool (ansible, SCCM, native AWS, etc), you may want extra contextual configuration fields as well to help them track status. 
 
 #### Proscriptive fields
-Some data isn't helpful at the IT Asset level - once it's installed, the download link doesn't really matter.  You should maintain this and other information in your **Software Inventory**, mostly to help the relevant IT Operations teams consistently install it whenever they need to. Wwe'll get into this more in CIS 2.3.  
+Some data isn't helpful at the IT Asset level - once it's installed, the download link doesn't really matter. You should maintain this and other information in your **Software Inventory**, mostly to help the relevant IT Operations teams consistently install it whenever they need to. Wwe'll get into this more in CIS 2.3. 
 
 #### Everything else
 
-The rest of the fields don't really help this control satisfy its security objectives.  Publisher, initial install/use date, licensing, and decommission date may be helpful to IT Operations staff, but they don't help security.  
+The rest of the fields don't really help this control satisfy its security objectives. Publisher, initial install/use date, licensing, and decommission date may be helpful to IT Operations staff, but they don't help security. 
 
 ### Bundles of software
-It's often helpful to bundle together software if you want to manage them together. The most common example may be a standard desktop image.  Such an image would contain the operating system, endpoint security software, required clients for enterprise systems (Citrix, SAP, Chrome, Office, etc), and all the configuration for each.  
+It's often helpful to bundle together software if you want to manage them together. The most common example may be a standard desktop image. Such an image would contain the operating system, endpoint security software, required clients for enterprise systems (Citrix, SAP, Chrome, Office, etc), and all the configuration for each. 
 
-You may have different bundles that mix and match different software components.  Many companies maintain bundles for webservers, kiosks, database servers, and mobile devices.  
+You may have different bundles that mix and match different software components. Many companies maintain bundles for webservers, kiosks, database servers, and mobile devices. 
 
-Many organizations consider a bundle to deserve its own entry in the Software Inventory.  Some organizations even structure their software inventories to include dependency information, so bundles can be defined by groups of references to other items in the authorized software inventory, with potential extra configuration baselines for each defined at the bundle level to make it all work together.  
+Many organizations consider a bundle to deserve its own entry in the Software Inventory. Some organizations even structure their software inventories to include dependency information, so bundles can be defined by groups of references to other items in the authorized software inventory, with potential extra configuration baselines for each defined at the bundle level to make it all work together. 
 
-Linux uses this model natively to manage software, with yum and apt delivering the software and ansible, chef, terraform, or puppet delivering configuration assurance.  Many other vendors are also promoting that design, including Microsoft through it's DSC platform.  The basic model has also been extended in cloud infrastructure; see Terraform, Cloudformation, Google Deployment Manager, and Azure Resource Manager.  
+Linux uses this model natively to manage software, with yum and apt delivering the software and ansible, chef, terraform, or puppet delivering configuration assurance. Many other vendors are also promoting that design, including Microsoft through it's DSC platform. The basic model has also been extended in cloud infrastructure; see Terraform, Cloudformation, Google Deployment Manager, and Azure Resource Manager. 
 
 ### Containers
 
-Containers are an easy way to easily define bundles.  You define them through a yaml file, then tell some compute engine (usually kubernetes or some branded equivalent) to run as many of them as needed to meet performance and resiliency targets. It just creates or deletes instances to match your targets.  Load balancing and near-perfect segmentation happen automagically, and if something weird happens with a running instance, you just delete it and spin up a new one off your recipe file.  
+Containers are an easy way to easily define bundles. You define them through a yaml file, then tell some compute engine (usually kubernetes or some branded equivalent) to run as many of them as needed to meet performance and resiliency targets. It just creates or deletes instances to match your targets. Load balancing and near-perfect segmentation happen automagically, and if something weird happens with a running instance, you just delete it and spin up a new one off your recipe file. 
 
-CIS isn't yet very container literate - it still assumes you're running workloads on servers with some persistence.  This makes containers a bit of an odd duck.  
+CIS isn't yet very container literate - it still assumes you're running workloads on servers with some persistence. This makes containers a bit of an odd duck. 
 
-I find it makes most sense to include authoritative, production-ready container images in the software inventory, and then as they're deployed, consider the set of running instances to be an "IT Asset".  There's no sense tracking each one individually - they should all be the same anyway.  If they're not, the best cure is deletion and re-provisioning.  
+I find it makes most sense to include authoritative, production-ready container images in the software inventory, and then as they're deployed, consider the set of running instances to be an "IT Asset". There's no sense tracking each one individually - they should all be the same anyway. If they're not, the best cure is deletion and re-provisioning. 
 
 ### Other Weird stuff
 
-There's a variety of edge cases - WAPs IP phones and network appliances and all manners of IoT doohickeys.  Technically, all of them run software.  Practically, though, there's a limit: does it change often enough to warrant its own entry in the Software Inventory?  Remember the value we expect this **Software Inventory** to deliver: 
+There's a variety of edge cases - WAPs IP phones and network appliances and all manners of IoT doohickeys. Technically, all of them run software. Practically, though, there's a limit: does it change often enough to warrant its own entry in the Software Inventory? Remember the value we expect this **Software Inventory** to deliver: 
 
 1.  Managing vulnerabilities at scale (CIS 7).  
 2.  Proscriptively managing configuration (CIS 4).
