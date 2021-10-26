@@ -52,7 +52,7 @@ Create a list (**Software Inventory**)of all the software installed and running 
 
 Next, augment each item on the **Software Inventory** with some helpful data, including some kind of vetting (CIS 2.2, 2.3). When you're mature with those, lock down operating systems to only permit software vetted in the **Software Inventory** to run (CIS 2.5-2.7).
 
-This vision is harder than the **Inventory of IT Stuff** if you're *only satisfied with perfection*.  But perfection is a myth that you shouldn't even strive for, especially in security.  Doing CIS 2 to an **adequate** quality is incredibly valuable.
+This vision is harder than the **Inventory of IT Stuff** if you're *only satisfied with perfection*.  But perfection is a myth that you shouldn't even strive for, especially in security.  Doing CIS 2 to an *adequate* quality is incredibly valuable.
 
 # The Specifics of 2.1
 
