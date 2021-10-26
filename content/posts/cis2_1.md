@@ -61,7 +61,7 @@ When you're mature with those, lock down operating systems to only permit softwa
 # The Specifics of 2.1
 
 Your Software Inventory [is useful](/cis2/) mostly as a foundation for other security processes:
-1.  Managing vulnerabilities at scale (CIS 7).  
+1.  Managing vulnerabilities at scale (CIS 7). 
 2.  Proscriptively managing configuration (CIS 4).
 3.  Contributes to your picture of IT tools.
 4.  Allows you to remove localadmin on worker endpoints.
