@@ -143,7 +143,7 @@ Many edge cases won't help much with these goals if added to your **Software Inv
 
 ## Partners
 
-Some other teams may be interested in a **Software Inventory**.  Here's a short list:
+Some other teams may be interested in a **Software Inventory**. Here's a short list:
 *   License Management
 *   Desktop Engineering
 *   Server Engineering
