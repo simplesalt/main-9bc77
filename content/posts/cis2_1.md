@@ -111,7 +111,7 @@ Some data isn't helpful at the IT Asset level - once it's installed, the downloa
 
 #### Everything else
 
-The rest of the fields don't really help this control satisfy it's security objectives.  Publisher, initial install/use date, licensing, and decommission date may be helpful to IT Operations staff, but they don't help security.  
+The rest of the fields don't really help this control satisfy its security objectives.  Publisher, initial install/use date, licensing, and decommission date may be helpful to IT Operations staff, but they don't help security.  
 
 ### Bundles of software
 It's often helpful to bundle together software if you want to manage them together. The most common example may be a standard desktop image.  Such an image would contain the operating system, endpoint security software, required clients for enterprise systems (Citrix, SAP, Chrome, Office, etc), and all the configuration for each.  
