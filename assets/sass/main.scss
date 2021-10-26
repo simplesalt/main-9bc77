@@ -1,8 +1,9 @@
 
 // Font.
 $font: (
-  primary: ("Roboto",Helvetica,sans-serif),
-  monospace: (Consolas,Monaco,"Andale Mono","Ubuntu Mono",monospace)
+  primary: ("Source Sans Pro","Roboto",Helvetica,sans-serif),
+  secondary: ("Source Serif Pro"serif)
+  monospace: ("Source Code Pro",Consolas,Monaco,"Andale Mono","Ubuntu Mono",monospace)
 );
 
 // Palette.
@@ -13,7 +14,7 @@ $palette: (
   border:        lighten(#555e69, 55%),
   bg:            lighten(#555e69, 60%),
   accent:        #1de2bc,
-  accent-blue:   #10bcf9,
+  accent-blue:   #499194,
   accent-violet: #9371e6,
   accent-orange: #fc6e51
 );
