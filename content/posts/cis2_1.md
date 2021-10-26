@@ -6,32 +6,32 @@ date: '2020-12-10'
 seo:
  title: CIS 2.1 - the Mission
  description: >-
- CIS 2.1 contains the core mission of CIS 2: have an accurate Software Inventory. 
+  CIS 2.1 contains the core mission of CIS 2: have an accurate Software Inventory. 
  extra:
- - name: 'og:type'
-  value: article
-  keyName: property
- - name: 'og:title'
-  value: CIS 2.1 - the Mission
-  keyName: property
- - name: 'og:description'
-  value: >-
-  CIS 2.1 contains the core mission of CIS 1: have an accurate Software Inventory. 
-  keyName: property
- - name: 'og:image'
-  value: images/knowing-is-half.webp
-  keyName: property
-  relativeUrl: true
- - name: 'twitter:card'
-  value: summary_large_image
- - name: 'twitter:title'
-  value: CIS 2.1 - the Mission
- - name: 'twitter:description'
-  value: >-
-  CIS 2.1 contains the core mission of CIS 1: have an accurate Software Inventory. 
- - name: 'twitter:image'
-  value: images/knowing-is-half.webp
-  relativeUrl: true
+  - name: 'og:type'
+   value: article
+   keyName: property
+  - name: 'og:title'
+   value: CIS 2.1 - the Mission
+   keyName: property
+  - name: 'og:description'
+   value: >-
+    CIS 2.1 contains the core mission of CIS 1: have an accurate Software Inventory. 
+   keyName: property
+  - name: 'og:image'
+   value: images/knowing-is-half.webp
+   keyName: property
+   relativeUrl: true
+  - name: 'twitter:card'
+   value: summary_large_image
+  - name: 'twitter:title'
+   value: CIS 2.1 - the Mission
+  - name: 'twitter:description'
+   value: >-
+    CIS 2.1 contains the core mission of CIS 1: have an accurate Software Inventory. 
+  - name: 'twitter:image'
+   value: images/knowing-is-half.webp
+   relativeUrl: true
 layout: post
 ---
 > Establish and maintain a detailed inventory of all licensed software installed on enterprise assets. The software inventory must document the title, publisher, initial install/use date, and business purpose for each entry; where appropriate, include the Uniform Resource Locator (URL), app store(s), version(s), deployment mechanism, and decommission date. Review and update the software inventory bi-annually, or more frequently.
@@ -80,7 +80,7 @@ But what Tier 1 actually means is a judgement call, and is best determined by th
 
 As written, this control tries to straddle being a manually maintained list and a Big Data appproach. While I think both have value, I advise you to disregard the manual side of this objective and focus on getting a solid list of what is installed where, using automatic tools. The standard work proscribed in CIS 2.3, the automatic collection in 2.4, and switching to proscriptive software management in 2.5-2.7 are much more compatible with the Big Data approach anyway.
 
-You should maintain manual lists of systems, apps and software, but they each should be audience-specific and purpose-built to answer a persistent question in your organization. CIS focuses on how to _deliver_ security results, and that focus makes it great. Manual lists are best for explaining and educating about the value of security. Do them, but not as part of CIS. 
+You should maintain manual lists of systems, apps and software, but they each should be audience-specific and purpose-built to answer a persistent question in your organization. CIS focuses on how to _deliver_ security results, and that focus makes it great. Manual lists are best for explaining and educating about the value of security. Do them, but not as part of CIS.  
 
 ## Other Goofiness
 
@@ -97,7 +97,7 @@ While it's technically always true, I advise you to disregard CIS's suggestion t
 
 Most of the software metadata described also doesn't help this capability meet our goals. Here's what will be most important:
 
-#### A unique identifier 
+#### A unique identifier  
 You want a universal identifier that uniquely describes each piece of software you want to track. For instance, if you find Adobe Indesign on one computer, you should be able to tie it back to the idea of "Adobe Indesign" so you can cross-reference it with Adobe Indesign you find on other computers. Do not make this version-specific, you'll want to be able to say, "Here's all the computers that have Indesign". Use other fields (such as a version string) to add more context relevant to your security goals. 
 
 In a sense, Title sounds like a good unique identifier. Any DBA will tell you that's a bad idea, though: use an easily indexed, truly unique field and then just display the software name in the UI. This will also avoid problems when two pieces of software have the same name because their marketing teams were insufficiently original.
@@ -139,15 +139,15 @@ There's a variety of edge cases - WAPs IP phones and network appliances and all 
 3. Contributes to your picture of IT tools.
 4. Allows you to remove localadmin on worker endpoints.
 
-Many edge cases won't help much with these goals if added to your **Software Inventory**. Usually, your **Inventory of IT Stuff** meaningfully satisfies Goal #3 and Goal #4 is rarely affected. Depending on the type of weird thing, you may find value for Goal #1 and #2, but often these edge cases have their own dedicated patching and configuration management solution that doesn't integrate well with a central system. For instance, you _can_ manage patching and configuration management of [Cisco] (https://developer.cisco.com/automation-ansible/) or [Juniper](https://www.juniper.net/documentation/us/en/software/junos-ansible/ansible/topics/topic-map/junos-ansible-configuration-loading-committing.html) network equipment with ansible, but it doesn't deliver as much value as server software, and may require your network team to completely transform their operations. Further, it's definitely not practical to centrally manage the patch levels of TVs in your conference rooms or your [MRI machines](https://www.gehealthcare.com/en-US/security), so its probably not worth tracking them in your **Software Inventory**. 
+Many edge cases won't help much with these goals if added to your **Software Inventory**. Usually, your **Inventory of IT Stuff** meaningfully satisfies Goal #3 and Goal #4 is rarely affected. Depending on the type of weird thing, you may find value for Goal #1 and #2, but often these edge cases have their own dedicated patching and configuration management solution that doesn't integrate well with a central system. For instance, you _can_ manage patching and configuration management of [Cisco] (https://developer.cisco.com/automation-ansible/) or [Juniper](https://www.juniper.net/documentation/us/en/software/junos-ansible/ansible/topics/topic-map/junos-ansible-configuration-loading-committing.html) network equipment with ansible, but it doesn't deliver as much value as server software, and may require your network team to completely transform their operations.  Further, it's definitely not practical to centrally manage the patch levels of TVs in your conference rooms or your [MRI machines](https://www.gehealthcare.com/en-US/security), so its probably not worth tracking them in your **Software Inventory**. 
 
 ## Partners
 
 Some other teams may be interested in a **Software Inventory**. Here's a short list:
-* License Management
-* Desktop Engineering
-* Server Engineering
-* Service Desk/Tech Support
+*  License Management
+*  Desktop Engineering
+*  Server Engineering
+*  Service Desk/Tech Support
 
 Often, the best automated tooling for populating your list will come from other teams anyway. [Snow](https://www.snowsoftware.com/) and [Flexera](https://www.flexera.com) make great software inventory tools (see CIS 2.2: Automatic Discovery for more), but their marketing is focused on helping companies optimize their licensing and support operations. This is ok: keeping an accurate **Software Inventory** is one of the best security objectives to let other leaders sponsor. Most of these groups' needs will overlap with yours, so the only influence you should need to apply is if they go off the rails. 
 
