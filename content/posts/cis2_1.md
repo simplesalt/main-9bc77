@@ -44,7 +44,7 @@ Pretty different, no?
 
 I advise you to ignore this new compromise, and go after the vision described in version 7:
 
-Know what software is installed or running on each thing in your **Inventory of IT Stuff**, and tie each record back to a central **Software Inventory**._
+_Know what software is installed or running on each thing in your **Inventory of IT Stuff**, and tie each record back to a central **Software Inventory**._
 
 Let's talk about why and what it looks like.
 
