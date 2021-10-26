@@ -134,7 +134,7 @@ I find it makes most sense to include authoritative, production-ready container 
 
 There's a variety of edge cases - WAPs IP phones and network appliances and all manners of IoT doohickeys. Technically, all of them run software. Practically, though, there's a limit: does it change often enough to warrant its own entry in the Software Inventory? Remember the value we expect this **Software Inventory** to deliver: 
 
-1.  Managing vulnerabilities at scale (CIS 7).  
+1.  Managing vulnerabilities at scale (CIS 7). 
 2.  Proscriptively managing configuration (CIS 4).
 3.  Contributes to your picture of IT tools.
 4.  Allows you to remove localadmin on worker endpoints.
