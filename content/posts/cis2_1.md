@@ -107,7 +107,7 @@ In a sense, Title sounds like a good unique identifier.  Any DBA will tell you t
 This is not included in CIS's required fields, but because your software inventory will be so foundational to Configuration Management (CIS 4), you'll usually want to indicate whether the software on a particular machine conforms to the configuration baseline you've set for it.  Depending on how much your Config Assurance teams work in the Software Inventory vs a dedicated config tool (ansible, SCCM, native AWS, etc), you may want extra contextual configuration fields as well to help them track status.  
 
 #### Proscriptive fields
-Some data isn't helpful at the IT Asset level - once it's installed, the download link doesn't really matter.  You should maintain this and other information in your **Software Inventory** - we'll get into this more in CIS 2.2.  
+Some data isn't helpful at the IT Asset level - once it's installed, the download link doesn't really matter.  You should maintain this and other information in your **Software Inventory** - we'll get into this more in CIS 2.3.  
 
 #### Everything else
 
