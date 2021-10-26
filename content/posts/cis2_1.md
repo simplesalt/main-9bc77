@@ -36,7 +36,7 @@ layout: post
 ---
 > Establish and maintain a detailed inventory of all licensed software installed on enterprise assets. The software inventory must document the title, publisher, initial install/use date, and business purpose for each entry; where appropriate, include the Uniform Resource Locator (URL), app store(s), version(s), deployment mechanism, and decommission date. Review and update the software inventory bi-annually, or more frequently.
 
-I'll be straight with you: the specifics in version 8 on this control are bananas and I don't see how most of the details help the security objectives it's designed to deliver.  I suspect that the writers walked back some of the vision behind this control after feedback that it was too hard.  They switched the vision from "an automatically-populated list of discovered software" to "a high-level list of Big Systems in use". Consider the previous wording in v7:
+I'll be straight with you: the specifics in version 8 on this control are bananas and I don't see how most of the details help the security objectives it's designed to deliver. I suspect that the writers walked back some of the vision behind this control after feedback that it was too hard. They switched the vision from "an automatically-populated list of discovered software" to "a high-level list of Big Systems in use". Consider the previous wording in v7:
 
 > Maintain an up-to-date list of all authorized software that is required in the enterprise for any business purpose on any business system. (CIS 2.1)
 
@@ -46,15 +46,15 @@ Pretty different, no?
 
 I advise you to ignore this new compromise, and go after the vision described in version 7:
 
-> Know what software is installed or running on each thing in your **Inventory of IT Stuff**, and tie each record back to a central **Software Inventory**.  
+> Know what software is installed or running on each thing in your **Inventory of IT Stuff**, and tie each record back to a central **Software Inventory**. 
 
 Let's talk about why and what it looks like.
 
 # The Basic Approach
 
-Create a list (**Software Inventory**)of all the software installed and running in your environment (CIS 2.1).  The easiest way is to use discovery tools (CIS 2.4), then deduplicate across them to get a single list.  Use your discovery tools to create and maintain a list for each IT Asset. Store all the lists in your CMDB and use some data quality management to keep them usefully accurate.  
+Create a list (**Software Inventory**)of all the software installed and running in your environment (CIS 2.1). The easiest way is to use discovery tools (CIS 2.4), then deduplicate across them to get a single list. Use your discovery tools to create and maintain a list for each IT Asset. Store all the lists in your CMDB and use some data quality management to keep them usefully accurate. 
 
-Next, augment each item on the **Software Inventory** with some helpful data, including some kind of vetting (CIS 2.2, 2.3).  
+Next, augment each item on the **Software Inventory** with some helpful data, including some kind of vetting (CIS 2.2, 2.3). 
 
 When you're mature with those, lock down operating systems to only permit software vetted in the **Software Inventory** to run (CIS 2.5-2.7).
 
