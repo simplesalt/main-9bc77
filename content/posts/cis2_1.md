@@ -80,24 +80,24 @@ But what Tier 1 actually means is a judgement call, and is best determined by th
 
 As written, this control tries to straddle being a manually maintained list and a Big Data appproach. While I think both have value, I advise you to disregard the manual side of this objective and focus on getting a solid list of what is installed where, using automatic tools. The standard work proscribed in CIS 2.3, the automatic collection in 2.4, and switching to proscriptive software management in 2.5-2.7 are much more compatible with the Big Data approach anyway.
 
-You should maintain manual lists of systems, apps and software, but they each should be audience-specific and purpose-built to answer a persistent question in your organization. CIS focuses on how to _deliver_ security results, and that focus makes it great. Manual lists are best for explaining and educating about the value of security. Do them, but not as part of CIS.  
+You should maintain manual lists of systems, apps and software, but they each should be audience-specific and purpose-built to answer a persistent question in your organization. CIS focuses on how to _deliver_ security results, and that focus makes it great. Manual lists are best for explaining and educating about the value of security. Do them, but not as part of CIS. 
 
 ## Other Goofiness
 
 ### "Licensed" Software
 
-In the US legal code (and probably most other Common Law legal codes), there's an assumption that everything is owned by someone or entity.  This applies to tangible objects (eg pizzas, cows, real estate), and intangible constructs (books, patents, source code, contractual rights).  There are exceptions that restrict an owner's ability to license, rent, or sell their property (eminent domain, public domain, fair use), but these are all structured as implied, universal addendums to standard licenses.
+In the US legal code (and probably most other Common Law legal codes), there's an assumption that everything is owned by someone or entity. This applies to tangible objects (eg pizzas, cows, real estate), and intangible constructs (books, patents, source code, contractual rights). There are exceptions that restrict an owner's ability to license, rent, or sell their property (eminent domain, public domain, fair use), but these are all structured as implied, universal addendums to standard licenses.
 
 Long story short, all software is categorically owned and your use of it is always only permitted under license. 
 
-While it's technically always true, I advise you to disregard CIS's suggestion to only include licensed software in your inventory.  Any software can be a source of vulnerabilities or a hiding place for malware, regardless of how you acquired it or the contract that governs your use of it.
+While it's technically always true, I advise you to disregard CIS's suggestion to only include licensed software in your inventory. Any software can be a source of vulnerabilities or a hiding place for malware, regardless of how you acquired it or the contract that governs your use of it.
 
 ### Required Fields
 > title, publisher, initial install/use date, and ... where appropriate, include the Uniform Resource Locator (URL), app store(s), version(s), deployment mechanism, and decommission date. 
 
 Most of the software metadata described also doesn't help this capability meet our goals. Here's what will be most important:
 
-#### A unique identifier   
+#### A unique identifier  
 You want a universal identifier that uniquely describes each piece of software you want to track.  For instance, if you find Adobe Indesign on one computer, you should be able to tie it back to the idea of "Adobe Indesign" so you can cross-reference it with Adobe Indesign you find on other computers.  Do not make this version-specific, you'll want to be able to say, "Here's all the computers that have Indesign".  Use other fields (such as a version string) to add more context relevant to your security goals.  
 
 In a sense, Title sounds like a good unique identifier.  Any DBA will tell you that's a bad idea, though: use an easily indexed, truly unique field and then just display the software name in the UI.  This will also avoid problems when two pieces of software have the same name because their marketing teams were insufficiently original.
