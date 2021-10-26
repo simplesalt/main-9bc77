@@ -90,7 +90,7 @@ In the US legal code (and probably most other Common Law legal codes), there's a
 
 Long story short, all software is categorically owned and your use of it is always only permitted under license. 
 
-WHile it's technically always true, I advise you to disregard CIS's suggestion to only include licensed software in your inventory.  Any software can be a source of vulnerabilities or a hiding place for malware, regardless of how you acquired it or the contract that governs your use of it.
+While it's technically always true, I advise you to disregard CIS's suggestion to only include licensed software in your inventory.  Any software can be a source of vulnerabilities or a hiding place for malware, regardless of how you acquired it or the contract that governs your use of it.
 
 ### Required Fields
 > title, publisher, initial install/use date, and ... where appropriate, include the Uniform Resource Locator (URL), app store(s), version(s), deployment mechanism, and decommission date. 
