@@ -1,7 +1,6 @@
 ---
 title: About Dylan
 subtitle: I'm here to help.
-img_path: images/dylan-headshot-90e78b7b.webp
 img_alt: Dylan Evans Headshot
 seo:
   title: About Me
