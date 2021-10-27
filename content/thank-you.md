@@ -1,6 +1,5 @@
 ---
 title: Thank You!
-img_path: images/dylan-headshot.webp
 img_alt: Dylan face
 layout: page
 ---
