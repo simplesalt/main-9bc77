@@ -4,7 +4,7 @@ excerpt: >-
   An Inventory of IT Stuff is a helpful thing: it's a necessary starting point
   for lots of other technical security work. But you know what would be even
   more helpful?  Knowing what each thing does. Zowie! That would be wild.
-date: '2020-12-10'
+date: '2021-10-20'
 seo:
   title: CIS 2 Explained
   description: What is more helpful than a list of IT Stuff? Knowing what each thing does!

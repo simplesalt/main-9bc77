@@ -1,20 +1,20 @@
 ---
-title: About Dylan
-subtitle: I'm here to help.
+title: Recommended Reading
+subtitle: Thinkers and projects that have influenced me.
 img_path: images/dylan-headshot-90e78b7b.webp
 img_alt: Dylan Evans Headshot
 seo:
-  title: About Me
-  description: This is the about me page
+  title: Recommended Reading
+  description: Thinkers and projects that have influenced me.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Me
+      value: Recommended Reading
       keyName: property
     - name: 'og:description'
-      value: This is the about me page
+      value: Thinkers and projects that have influenced me.
       keyName: property
     - name: 'og:image'
       value: images/dylan-headshot.webp
@@ -23,9 +23,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Me
+      value: Recommended Reading
     - name: 'twitter:description'
-      value: This is the about me page
+      value: Thinkers and projects that have influenced me.
     - name: 'twitter:image'
       value: images/dylan-headshot.webp
       relativeUrl: true

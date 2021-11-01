@@ -2,7 +2,7 @@
 title: CIS 2.1 - the Mission
 excerpt: >-
   CIS 2.1 contains the core mission of CIS 2: have an accurate Software Inventory.  The other CIS 2 controls are just supporting ways that help deliver that core mission. 
-date: '2020-12-10'
+date: '2021-10-27'
 seo:
   title: CIS 2.1 - the Mission
   description: >-
