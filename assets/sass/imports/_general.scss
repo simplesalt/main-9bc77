@@ -34,6 +34,7 @@ h4,
 h5,
 h6 {
   color: _palette(secondary);
+    font-family: _font(secondary);
   font-weight: bold;
   line-height: 1.2;
   margin: 1.66667rem 0 0.83333rem;
@@ -113,11 +114,11 @@ blockquote {
   border-bottom: 1px solid _palette(secondary);
   font-family: _font(monospace);
   border-top: 3px solid _palette(secondary);
-//  font-size: 1.88889em;
+  font-size: .7em;
 //  line-height: 1.25;
-  margin: 2rem 0;
-  padding-bottom: 1.66667rem;
-  padding-top: 1.33333rem;
+//  margin: 2rem 0;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
 
   &:first-child {
     margin-top: 0
