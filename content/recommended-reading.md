@@ -124,9 +124,9 @@ sections:
       the metrics you choose. If you choose poorly, they may reduce what you
       actually want in favor of what you measure. This is especially true of
       continuous improvement the Deming way: the foundation of improvement is
-      measurement. Hubbard
-
-      followed up with a more targeted book: [How to Measure Anything in
+      measurement. This book guides you toward how to measure your true goals.
+      There are many practical examples and exercises. Hubbard followed up with
+      a more targeted book: [How to Measure Anything in
       Cybersecurity](https://www.google.com/books/edition/How_to_Measure_Anything_in_Cybersecurity/8gulDAAAQBAJ),
       which also has excellent examples and also slightly rebukes the security
       industry: apparently we need special, remedial education.
