@@ -21,6 +21,14 @@
                 "style": "link"
             },
             {
+                "label": "Influences",
+                "url": "/recommended-reading",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
                 "label": "About",
                 "url": "/about/",
                 "style": "link"
@@ -29,14 +37,6 @@
                 "label": "Contact",
                 "url": "/contact/",
                 "style": "link"
-            },
-            {
-                "label": "Influences",
-                "url": "/recommended-reading",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false
             }
         ],
         "has_social": true,
