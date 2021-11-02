@@ -11,7 +11,7 @@ sections:
 
 
       I’ve found the following thinkers and projects influential to how I
-      approach my work and life. 
+      approach my work and life.
 
 
       Usually, the practices that generate excellent security also generate
@@ -21,24 +21,22 @@ sections:
       technical and fundamentally transient: the most important security issues
       of 10 years ago rarely apply today, and there’s no reason to think that
       the challenges and accompanying strategies of today will apply in 10
-      years. The only enduring patterns deeply coincide with good design. 
+      years. The only enduring patterns deeply coincide with good design.  
 
 
       ## People
 
 
-      [Joel Spolsky](https://www.joelonsoftware.com/) –
-
-      Although he doesn’t post much anymore, his thoughts on leading technical
-      teams are as true now as they were 20 years ago. I read two of his
-      [recommended](https://www.google.com/books/edition/Peopleware/DVlsAQAAQBAJ)[books](https://www.google.com/books/edition/\_/20zXQQAACAAJ)
-      and also recommend them. I especially appreciate his guide to UI/UX
-      design, which share a lot in common with Shingo’s ideas about
-      mistake-proofing. 
+      [Joel Spolsky](https://www.joelonsoftware.com/) – Although he doesn’t post
+      much anymore, his thoughts on leading technical teams are as true now as
+      they were 20 years ago. I read two of his
+      [recommended](https://www.google.com/books/edition/Peopleware/DVlsAQAAQBAJ)[
+      books](https://www.google.com/books/edition/\_/20zXQQAACAAJ) and also
+      recommend them. I especially appreciate his guide to UI/UX design, which
+      share a lot in common with Shingo’s ideas about mistake-proofing.
 
 
       [Richard
-
       Feynman](https://en.wikipedia.org/wiki/Surely_You%27re_Joking,\_Mr.\_Feynman!)
       – The celebrated [sex
       symbol](https://calisphere.org/item/10bedb2c1485caf64e851f4e75fe0214/) of
@@ -47,17 +45,16 @@ sections:
       the most compelling arguments about how science can control a fundamental
       human failing: to lie to ourselves. His commentary on cargo cults also
       highlights the pitfalls of prioritizing the shape of a solution over its
-      function. 
+      function.
 
 
       [Alcoholics
-
       Anonymous](https://www.aa.org/pages/en_US/read-the-big-book-and-twelve-steps-and-twelve-traditions)
       – AA addresses the same temptation toward self-deception that Feynman
       discusses. Unlike science, its solution is best at addressing lies that
       are not objective or easily measured. Like Deming and SPC, its model for
       success is an ongoing effort: it starts with a frank assessment of the
-      problem and iteratively addresses root causes in order of importance. 
+      problem and iteratively addresses root causes in order of importance.
 
 
       ## Process
@@ -75,7 +72,7 @@ sections:
       self-deception on their part. He also addresses another opportunity for
       lies: after an improvement project is complete, you must check whether it
       has delivered the improvements you expected in a statistically significant
-      way. 
+      way.
 
 
       [Shigeo Shingo](https://en.wikipedia.org/wiki/Shigeo_Shingo) – Shigeo
@@ -88,7 +85,7 @@ sections:
 
       improvement. Second, mistake-proofing (Poka Yoke) processes can invisibly
       reduce decisions and failures, which collectively improves quality and
-      efficiency. 
+      efficiency.
 
 
       [Phoenix
@@ -104,18 +101,17 @@ sections:
       people performing tasks perfectly, then it is a poorly designed system and
       the only rational fix is to change the system to be resilient to
       individual failure. The lessons in this book are not IT-specific – they
-      can be equally applied to any team paid to think. 
+      can be equally applied to any team paid to think.
 
 
-      [Go](https://golang.org/doc/faq#principles) – Go
-
-      is a computer language created by some computer science rockstars. It has
-      many technical advantages that get most of the press, but its biggest
-      advantage is a human one: it encourages people to write code that others
-      can easily understand. This is subtly the most important because in a
-      product which consists solely of instructions, understanding it comprises
-      the biggest share of the work in changing it. Making it easier to change
-      enables the only reliable path to excellence: continuous improvement. 
+      [Go](https://golang.org/doc/faq#principles) – Go is a computer language
+      created by some computer science rockstars. It has many technical
+      advantages that get most of the press, but its biggest advantage is a
+      human one: it encourages people to write code that others can easily
+      understand. This is subtly the most important because in a product which
+      consists solely of instructions, understanding it comprises the biggest
+      share of the work in changing it. Making it easier to change enables the
+      only reliable path to excellence: continuous improvement.
 
 
       ## Quantitative Thinking
@@ -133,25 +129,22 @@ sections:
       followed up with a more targeted book: [How to Measure Anything in
       Cybersecurity](https://www.google.com/books/edition/How_to_Measure_Anything_in_Cybersecurity/8gulDAAAQBAJ),
       which also has excellent examples and also slightly rebukes the security
-      industry: apparently we need special, remedial education. 
+      industry: apparently we need special, remedial education.
 
 
-      [Envisioning
-
-      Information](https://www.edwardtufte.com/tufte/books_ei) – Equally
-      important to choosing metrics is communicating them. People are wildly
-      different in how they receive and process information, and most aren’t
-      natively fluent in math. Tufte wrote this book in the 70s; it’s full of
-      examples for presenting complicated information visually for a variety of
-      audiences. 
-
+      [Envisioning Information](https://www.edwardtufte.com/tufte/books_ei) –
+      Equally important to choosing metrics is communicating them. People are
+      wildly different in how they receive and process information, and most
+      aren’t natively fluent in math. Tufte wrote this book in the 70s; it’s
+      full of examples for presenting complicated information visually for a
+      variety of audiences.
 
 
       [Google SRE](https://sre.google/books/) – Google’s resiliency engineering
       team has written several books applying strategies to measure and
       communicate the resilience of its applications. The series is an excellent
       case study – they explain challenges, approaches, and options for
-      improving performance in a domain dominated by two metrics, RTO and RPO. 
+      improving performance in a domain dominated by two metrics, RTO and RPO.
     actions: []
     type: section_content
 seo:
