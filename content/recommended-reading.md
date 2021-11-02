@@ -21,7 +21,7 @@ sections:
       technical and fundamentally transient: the most important security issues
       of 10 years ago rarely apply today, and there’s no reason to think that
       the challenges and accompanying strategies of today will apply in 10
-      years. The only enduring patterns deeply coincide with good design.  
+      years. The only enduring patterns deeply coincide with good design.
 
 
       ## People
@@ -144,7 +144,8 @@ sections:
       team has written several books applying strategies to measure and
       communicate the resilience of its applications. The series is an excellent
       case study – they explain challenges, approaches, and options for
-      improving performance in a domain dominated by two metrics, RTO and RPO.
+      improving performance in a domain dominated for 30 years by two (bad)
+      metrics.
     actions: []
     type: section_content
 seo:
