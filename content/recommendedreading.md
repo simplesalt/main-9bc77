@@ -1,7 +1,6 @@
 ---
 title: Recommended Reading
 subtitle: Thinkers and projects that have influenced me.
-img_path: images/dylan-headshot-90e78b7b.webp
 img_alt: Dylan Evans Headshot
 seo:
   title: Recommended Reading
