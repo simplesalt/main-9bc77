@@ -143,9 +143,9 @@ sections:
       [Google SRE](https://sre.google/books/) – Google’s resiliency engineering
       team has written several books applying strategies to measure and
       communicate the resilience of its applications. The series is an excellent
-      case study – they explain challenges, approaches, and options for
-      improving performance in a domain dominated for 30 years by two (bad)
-      metrics.
+      case study for the principles described in the first two books of this
+      section – they explain challenges, approaches, and options for improving
+      performance in a domain dominated for 30 years by two (bad) metrics.
     actions: []
     type: section_content
 seo:
