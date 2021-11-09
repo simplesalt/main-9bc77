@@ -21,6 +21,14 @@
                 "style": "link"
             },
             {
+                "label": "Influences",
+                "url": "/recommended-reading",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
                 "label": "About",
                 "url": "/about/",
                 "style": "link"

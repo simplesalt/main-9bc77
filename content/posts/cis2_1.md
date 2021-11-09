@@ -48,7 +48,7 @@ Let's talk about why and what it looks like.
 
 # The Basic Approach
 
-Create a list (**Software Inventory**)of all the software installed and running in your environment (CIS 2.1). The easiest way is to use discovery tools (CIS 2.4), then deduplicate across them to get a single list. Use your discovery tools to create and maintain a list for each IT Asset. Store all the lists in your CMDB and use some data quality management to keep them usefully accurate.
+Create a list (**Software Inventory**) of all the software installed and running in your environment (CIS 2.1). The easiest way is to use discovery tools (CIS 2.4), then deduplicate across them to get a single list. Use your discovery tools to create and maintain a list for each IT Asset. Store all the lists in your CMDB and use some data quality management to keep them usefully accurate.
 
 Next, augment each item on the **Software Inventory** with some helpful data, including some kind of vetting (CIS 2.2, 2.3). When you're mature with those, lock down operating systems to only permit software vetted in the **Software Inventory** to run (CIS 2.5-2.7).
 
@@ -63,7 +63,7 @@ Your Software Inventory [is useful](/cis2/) mostly as a foundation for other sec
 3.  Contributes to your picture of IT tools.
 4.  Allows you to remove localadmin on worker endpoints.
 
-We'll leave the mechanics of generating and maintaining the **Software Inventory** to subsequent articles and focus on particulars of the approach, specific responses to the recommendations in this version, and why I still suggest following the vision of CIS version 7 for Software Inventory.
+We'll leave the mechanics of generating and maintaining the **Software Inventory** to subsequent articles and focus on particulars of the approach, specific responses to v8, and why I recommend ignoring it.
 
 ## Manually Maintained Lists
 
@@ -75,7 +75,7 @@ But what Tier 1 actually means is a judgement call, and is best determined by th
 
 ## Splitting the Difference
 
-As written, this control tries to straddle being a manually maintained list and a Big Data appproach. While I think both have value, I advise you to disregard the manual side of this objective and focus on getting a solid list of what is installed where, using automatic tools. The standard work proscribed in CIS 2.3, the automatic collection in 2.4, and switching to proscriptive software management in 2.5-2.7 are much more compatible with the Big Data approach anyway.
+As written, this control tries to straddle being a manually maintained list and a Big Data approach. While I think both have value, I advise you to disregard the manual side of this objective and focus on getting a solid list of what is installed where, using automatic tools. The standard work proscribed in CIS 2.3, the automatic collection in 2.4, and switching to proscriptive software management in 2.5-2.7 are much more compatible with the Big Data approach anyway.
 
 You should maintain manual lists of systems, apps and software, but they each should be audience-specific and purpose-built to answer a persistent question in your organization. CIS focuses on how to *deliver* security results, and that focus makes it great. Manual lists are best for explaining and educating about the value of security. Do them, but not as part of CIS.
 
@@ -87,13 +87,13 @@ In the US legal code (and probably most other Common Law legal codes), there's a
 
 Long story short, all software is categorically owned and your use of it is always only permitted under license.
 
-While it's technically always true, I advise you to disregard CIS's suggestion to only include licensed software in your inventory. Any software can be a source of vulnerabilities or a hiding place for malware, regardless of how you acquired it or the contract that governs your use of it.
+Disregard CIS's suggestion to only include licensed software in your inventory, it's useless at best and misleading at worst: any software can be a source of vulnerabilities or a hiding place for malware, regardless of how you acquired it or the contract that governs your use of it.
 
 ### Required Fields
 
 > ...title, publisher, initial install/use date, and ... where appropriate, include the Uniform Resource Locator (URL), app store(s), version(s), deployment mechanism, and decommission date.
 
-Most of the software metadata described also doesn't help this capability meet our goals. Here's what will be most important:
+Most of the software metadata described doesn't help our goals. Here's what will be most important:
 
 #### A Unique Identifier
 
@@ -107,9 +107,9 @@ This is not included in CIS's required fields, but because your software invento
 
 #### Proscriptive Fields
 
-Some data isn't helpful at the IT Asset level - once it's installed, the download link doesn't really matter. You should maintain this and other information in your **Software Inventory**, mostly to help the relevant IT Operations teams consistently install it whenever they need to. Wwe'll get into this more in CIS 2.3.
+Some data isn't helpful at the IT Asset level - for example, once it's installed, the download link doesn't really matter. You should maintain this and other information in your **Software Inventory**, mostly to help the relevant IT Operations teams consistently install it whenever they need to. Wwe'll get into this more in CIS 2.3.
 
-#### Everything else
+#### Everything Else
 
 The rest of the fields don't really help this control satisfy its security objectives. Publisher, initial install/use date, licensing, and decommission date may be helpful to IT Operations staff, but they don't help security.
 
@@ -121,7 +121,7 @@ You may have different bundles that mix and match different software components.
 
 Many organizations consider a bundle to deserve its own entry in the Software Inventory. Some organizations even structure their software inventories to include dependency information, so bundles can be defined by groups of references to other items in the authorized software inventory, with potential extra configuration baselines for each defined at the bundle level to make it all work together.
 
-Linux uses this model natively to manage software, with yum and apt delivering the software and ansible, chef, terraform, or puppet delivering configuration assurance. Many other vendors are also promoting that design, including Microsoft through it's DSC platform. The basic model has also been extended in cloud infrastructure; see Terraform, Cloudformation, Google Deployment Manager, and Azure Resource Manager.
+Linux uses this model natively to manage software, with yum and apt delivering the software and ansible, chef, terraform, or puppet delivering configuration assurance. Many other vendors are also promoting that design, including Microsoft through it's DSC platform. The basic model has also been extended in cloud infrastructure; see Terraform, CloudFormation, Google Deployment Manager, and Azure Resource Manager.
 
 ### Containers
 
@@ -133,14 +133,14 @@ I find it makes most sense to include authoritative, production-ready container 
 
 ### Other Weird stuff
 
-There's a variety of edge cases - WAPs IP phones and network appliances and all manners of IoT doohickeys. Technically, all of them run software. Practically, though, there's a limit: does it change often enough to warrant its own entry in the Software Inventory? Remember the value we expect this **Software Inventory** to deliver:
+There's a variety of edge cases - WAPs, IP phones, network appliances, and all manners of IoT doohickeys. Technically, all of them run software. Practically, though, there's a limit: does it change often enough to warrant its own entry in the Software Inventory? Remember the value we expect this **Software Inventory** to deliver:
 
 1.  Managing vulnerabilities at scale (CIS 7).
 2.  Proscriptively managing configuration (CIS 4).
 3.  Contributes to your picture of IT tools.
 4.  Allows you to remove localadmin on worker endpoints.
 
-Many edge cases won't help much with these goals if added to your **Software Inventory**. Usually, your **Inventory of IT Stuff** meaningfully satisfies Goal #3 and Goal #4 is rarely affected. Depending on the type of weird thing, you may find value for Goal #1 and #2, but often these edge cases have their own dedicated patching and configuration management solution that doesn't integrate well with a central system. For instance, you *can* manage patching and configuration management of \[Cisco] (https://developer.cisco.com/automation-ansible/) or [Juniper](https://www.juniper.net/documentation/us/en/software/junos-ansible/ansible/topics/topic-map/junos-ansible-configuration-loading-committing.html) network equipment with ansible, but it doesn't deliver as much value as server software, and may require your network team to completely transform their operations. Further, it's definitely not practical to centrally manage the patch levels of TVs in your conference rooms or your [MRI machines](https://www.gehealthcare.com/en-US/security), so its probably not worth tracking them in your **Software Inventory**.
+Many edge cases won't help much with these goals if added to your **Software Inventory**. Usually, your **Inventory of IT Stuff** meaningfully satisfies Goal #3.  Goal #4 is rarely relevant to these edge cases. Depending on the type of weird thing, you may find value for Goal #1 and #2, but often these edge cases have their own dedicated patching and configuration management solution that doesn't integrate well with a central system. For instance, you *can* manage [Cisco](https://developer.cisco.com/automation-ansible) or [Juniper](https://www.juniper.net/documentation/us/en/software/junos-ansible/ansible/topics/topic-map/junos-ansible-configuration-loading-committing.html) network equipment with ansible, but it doesn't deliver as much value as server software, and may require your network team to completely transform their operations. Further, it's definitely not practical to centrally manage the patch levels of TVs in your conference rooms or your [MRI machines](https://www.gehealthcare.com/en-US/security), so its probably not worth tracking them in your **Software Inventory**.
 
 ## Partners
 
