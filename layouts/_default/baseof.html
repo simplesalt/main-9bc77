@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html amp lang="en">
     <head>    
 
         <title>{{ if .Params.seo.title }}{{ $.Params.seo.title }}{{ else }}{{ print print $.Title " | " $.Site.Data.config.title }}{{ end }}</title>
@@ -30,7 +30,7 @@
         {{ if .Site.Data.config.favicon }}
         <link rel="icon" href="{{ $.Site.Data.config.favicon | relURL }}">
         {{ end }}
-        
+        <script async src="https://cdn.ampproject.org/v0.js"></script>
     </head>
     <body>
         
