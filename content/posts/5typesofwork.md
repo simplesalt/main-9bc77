@@ -4,10 +4,10 @@ subtitle: Extending the Phoenix Project
 date: '2021-11-11'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: 10 years ago, The Phoenix Project took the IT world by storm. It spoke to the deep dysfunction in many teams, of a million departments blamed for when things go wrong but never credit when things go right.
 seo:
-  title: ''
-  description: ''
+  title: 'The 5 Types of Work'
+  description: 'Extending the Phoenix Project to address fundamental dysfunction'
   robots: []
   extra: []
 layout: post
@@ -16,7 +16,6 @@ layout: post
 
 The solutions it proposed also sparked a fire: that the resulting conservative approaches to change wouldn’t help, and that the principles of Lean, Six Sigma, and Statistical Process Control could help.
 
-<<<<<<< HEAD
 10 years ago, [The Phoenix Project](https://itrevolution.com/the-phoenix-project/) took the IT world by storm. It spoke to the deep dysfunction in many teams, of a million departments blamed for when things go wrong but never credit when things go right.
 
 The solutions it proposed also sparked a fire: that the resulting conservative approaches to change wouldn&#39;t help, and that the principles of Lean, Six Sigma, and Statistical Process Control could help.
