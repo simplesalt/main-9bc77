@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: The 5 Types of Work
 subtitle: lorem-ipsum
 date: '2021-11-11'
 thumb_img_alt: lorem-ipsum
