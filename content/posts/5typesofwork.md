@@ -1,6 +1,6 @@
 ---
 title: The 5 Types of Work
-subtitle: lorem-ipsum
+subtitle: Extending the Phoenix Project
 date: '2021-11-11'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
