@@ -60,7 +60,7 @@ There is a fundamental assumption in the Phoenix Project: that everyone is motiv
 
 Performative Work can show up in a lot of ways: changing something just to be able to say you helped, attending meetings [just to be involved](https://www.youtube.com/watch?v=MswwLs1e2qc), talking about how great you are, or saying [positive platitudes](https://www.forbes.com/sites/ericjackson/2012/06/19/89-business-cliches-that-will-get-any-mba-promoted-to-middle-management-and-make-them-totally-useless/?sh=30d09069500f) to be thought of as a leader.
 
-!\[Dilbert's bungee boss]\(/images/bungeeboss.gif)
+![Dilbert's bungee boss](/images/bungeeboss.gif)
 
 Performative Work is often unexamined; many people do it without realizing it. If you see it, recognize that it may be automatic, and approach it as a learning or growth opportunity.
 
