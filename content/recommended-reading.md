@@ -114,7 +114,7 @@ sections:
     actions: []
     type: section_content
   - title: About quantitative thinking
-    section_id: lorem-ipsum
+    section_id: quantitative
     image_alt: lorem-ipsum
     content: >
       [How to Measure
