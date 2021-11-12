@@ -19,7 +19,7 @@ content_img_path: images/phoenix_project.png
 ---
 10 years ago, [The Phoenix Project](https://itrevolution.com/the-phoenix-project/) took the IT world by storm. It spoke to the deep dysfunction in many teams, of a million departments blamed for when things go wrong but never credit when things go right.
 
-The solutions it proposed also sparked a fire: that the resulting conservative approaches to change wouldn't help, and that the principles of Lean, Six Sigma, and Statistical Process Control could help.
+The solutions it proposed also sparked a fire: that the resulting conservative approaches to change management wouldn't help, and that the principles of Lean, Six Sigma, and Statistical Process Control could.
 
 The book offered a huge insight: thought is just another work product. IT work has almost no physical aspect: there's no inventory, no giant molds or presses, and no distribution centers. The output of IT is just thought, carefully written down. Once you consider the resulting thought as inventory or Work in Progress, you can apply the tried-and-true process engineering approaches: reducing waste, Just In Time inventory, kanbans, etc.
 
