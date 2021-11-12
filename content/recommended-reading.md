@@ -116,17 +116,36 @@ sections:
   - title: About quantitative thinking
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      [How to Measure
+      Anything](https://www.google.com/books/edition/How_to_Measure_Anything/693e2X6XV3MC)
+      – Often we have a hard time choosing how to measure success. This is a
+      critical decision: if you incent them, your teams will work to optimize to
+      the metrics you choose. If you choose poorly, they may reduce what you
+      actually want in favor of what you measure. This is especially true of
+      continuous improvement the Deming way: the foundation of improvement is
+      measurement. This book guides you toward how to measure your true goals.
+      There are many practical examples and exercises. Hubbard followed up with
+      a [more targeted book for
+      security](https://www.google.com/books/edition/How_to_Measure_Anything_in_Cybersecurity/8gulDAAAQBAJ),
+      which also has excellent examples and also slightly rebukes the security
+      industry: apparently we need special, remedial education.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      [Envisioning Information](https://www.edwardtufte.com/tufte/books_ei) –
+      Equally important to choosing metrics is communicating them. People are
+      wildly different in how they receive and process information, and most
+      aren’t natively fluent in math. Tufte wrote this book in the 70s; it’s
+      full of examples for presenting complicated information visually for a
+      variety of audiences.
 
 
-      - Lorem ipsum
-
-      - dolor sit amet
+      [Google SRE](https://sre.google/books/) – Google’s resiliency engineering
+      team has written several books applying strategies to measure and
+      communicate the resilience of its applications. The series is an excellent
+      case study for the principles described in the first two books of this
+      section – they explain challenges, approaches, and options for improving
+      performance in a domain dominated for 30 years by two (bad) metrics.
     actions: []
     type: section_content
 seo:
