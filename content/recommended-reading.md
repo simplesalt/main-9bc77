@@ -3,7 +3,7 @@ title: Recommended Reading
 hide_title: true
 excerpt: lorem-ipsum
 sections:
-  - title: Re
+  - title: Recommended Reading
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
