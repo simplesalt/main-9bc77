@@ -2,7 +2,7 @@
 title: The 5 Types of Work
 subtitle: Extending the Phoenix Project
 date: '2021-11-11'
-content_img_alt: lorem-ipsum
+content_img_alt: The Phoenix Project
 excerpt: >-
   10 years ago, The Phoenix Project took the IT world by storm. It spoke to the
   deep dysfunction in many teams, of a million departments blamed for when
