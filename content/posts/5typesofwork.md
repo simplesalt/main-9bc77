@@ -46,8 +46,6 @@ Often personal unplanned work is caused by:
 *   **people wanting special treatment**. If you have a two-week backlog of standard work, people may try to jump the line and ask you directly.
 *   **inadequate process**. Perhaps people are interrupting you with requests because that's the only way they know to ask for what they need.
 
-##
-
 The book has many solutions at the team and organizational level, and I'll augment them with a few others I've learned.
 
 *   **Set boundaries**. If you comply with requests to skip the line, you will teach people that the line is optional. Use emergencies as an opportunity to educate people about the value of your team and their existing work: "What would you do if this didn't get done until Friday?" or "Is your request more important than these other projects?" Lencioni had some great thoughts about how poor personal boundaries can spiral into [deep dysfunction](https://www.google.com/books/edition/The_Five_Dysfunctions_of_a_Team).
@@ -70,7 +68,7 @@ Some people also have rationalized that it's a necessary component to delivering
 
 ![](images/ibm%2070s.jpg)
 
-There is absolutely no correlation between ability and what style of fabric is currently adorning your body. However, the culture at IBM prioritized suits so much that if you didn't wear one, it would negatively impact your peers and bosses' perception of your competence. They would then devalue your work, effectively limiting your ability to contribute. 
+There is absolutely no correlation between ability and what style of fabric is currently adorning your body. However, the culture at IBM prioritized suits so much that if you didn't wear one, it would negatively impact your peers and bosses' perception of your competence. They would then devalue your work, effectively limiting your ability to contribute.
 
 > It's hard to help if everything you do gets thrown away.
 
