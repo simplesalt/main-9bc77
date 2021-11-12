@@ -7,9 +7,6 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
-      # Recommended Reading
-
-
       I’ve found the following thinkers and projects influential to how I
       approach my work and life.
 
