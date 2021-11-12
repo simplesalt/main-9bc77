@@ -22,7 +22,7 @@ sections:
     actions: []
     type: section_content
   - title: About People
-    section_id: lorem-ipsum
+    section_id: people
     image_alt: lorem-ipsum
     content: >
       [Joel Spolsky](https://www.joelonsoftware.com/) – Although he doesn’t post
