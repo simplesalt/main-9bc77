@@ -13,7 +13,7 @@ seo:
   robots: []
   extra: []
 layout: post
-thumb_img_path: images/bungeeboss.gif
+thumb_img_path: images/phoenix_project.png
 thumb_img_alt: The Phoenix Project
 content_img_path: images/phoenix_project.png
 ---
