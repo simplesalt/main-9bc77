@@ -14,6 +14,7 @@ seo:
   robots: []
   extra: []
 layout: post
+thumb_img_path: images/bungeeboss.gif
 ---
 10 years ago, [The Phoenix Project](https://itrevolution.com/the-phoenix-project/) took the IT world by storm. It spoke to the deep dysfunction in many teams, of a million departments blamed for when things go wrong but never credit when things go right.
 
