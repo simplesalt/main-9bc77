@@ -23,7 +23,7 @@ The solutions it proposed also sparked a fire: that the resulting conservative a
 
 The book offered a huge insight: thought is just another work product. IT work has almost no physical aspect: there's no inventory, no giant molds or presses, and no distribution centers. The output of IT is just thought, carefully written down. Once you consider the resulting thought as inventory or Work in Progress, you can apply the tried-and-true process engineering approaches: reducing waste, Just In Time inventory, kanbans, etc.
 
-If you work in IT and haven't read it, I recommend. Even if you don't work in tech or IT, the lessons apply to similar disciplines. Marketing, Finance, HR, and Legal match the same pattern, and even services such as medical care or management consulting. Heck, it probably works for psychics and math teachers too.
+If you haven't read it, I recommend. Even if you don't work in tech, the lessons apply to similar disciplines. Marketing, Finance, HR, and Legal match the same pattern, and even services such as medical care or management consulting. Heck, it probably works for psychics and math teachers too.
 
 The Phoenix Project categorizes work into four categories, which I'll summarize below:
 
