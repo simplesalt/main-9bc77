@@ -89,7 +89,7 @@ sections:
       problem and iteratively addresses root causes in order of importance.
     actions: []
     type: section_content
-  - title: lorem-ipsum
+  - title: About process
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
