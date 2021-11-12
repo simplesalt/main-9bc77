@@ -21,7 +21,7 @@ sections:
       years. The only enduring patterns deeply coincide with good design.
 
 
-      ## People
+      ## About People
 
 
       [Joel Spolsky](https://www.joelonsoftware.com/) – Although he doesn’t post
@@ -54,7 +54,7 @@ sections:
       problem and iteratively addresses root causes in order of importance.
 
 
-      ## Process
+      ## About Process
 
 
       [W. Edward Deming](https://www.youtube.com/watch?v=7pXu0qxtWPg) – Widely
@@ -111,7 +111,7 @@ sections:
       only reliable path to excellence: continuous improvement.
 
 
-      ## Quantitative Thinking
+      ## About Quantitative Thinking
 
 
       [How to Measure
