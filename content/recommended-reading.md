@@ -1,14 +1,8 @@
 ---
 title: Recommended Reading
+subtitle: Thinkers and Projects influential to me and my work.
 hide_title: true
-excerpt: Thinkers and Projects influential to me and my work.
-    actions: []
-    type: section_content
-seo:
-  title: 'Recommended Reading'
-  description: 'Thinkers and Projects influential to me and my work.'
-  robots: []
-  extra: []
+
 layout: advanced
 sections:
   - title: Intro
@@ -52,3 +46,8 @@ sections:
 
     [Google SRE](https://sre.google/books/) – Google’s resiliency engineering team has written several books applying strategies to measure and communicate the resilience of its applications. The series is an excellent case study for the principles described in the first two books of this section – they explain challenges, approaches, and options for improving performance in a domain dominated for 30 years by two (bad) metrics.
 ---
+seo:
+  title: Recommended Reading
+  description: Thinkers and Projects influential to me and my work.
+  robots: []
+  extra: []
