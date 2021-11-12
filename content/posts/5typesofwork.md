@@ -2,7 +2,6 @@
 title: The 5 Types of Work
 subtitle: Extending the Phoenix Project
 date: '2021-11-11'
-thumb_img_alt: lorem-ipsum
 content_img_alt: The Phoenix Project
 excerpt: >-
   10 years ago, The Phoenix Project took the IT world by storm. It spoke to the
@@ -14,6 +13,9 @@ seo:
   robots: []
   extra: []
 layout: post
+thumb_img_path: images/phoenix_project.png
+thumb_img_alt: The Phoenix Project
+content_img_path: images/phoenix_project.png
 ---
 10 years ago, [The Phoenix Project](https://itrevolution.com/the-phoenix-project/) took the IT world by storm. It spoke to the deep dysfunction in many teams, of a million departments blamed for when things go wrong but never credit when things go right.
 
@@ -66,7 +68,7 @@ Performative Work is often unexamined; many people do it without realizing it. I
 
 Some people also have rationalized that it's a necessary component to delivering value. To a degree, this is true: you must operate within the culture of the organization you find yourself in to succeed. Consider dress codes: if you worked at IBM in the 70s, [you needed](https://www.ibm.com/ibm/history/exhibits/waywewore/waywewore\_1.html) to wear a suit and tie every day (I'm generalizing to men's dress because IBM didn't hire a lot of women in the 70s).
 
-![IBM Workers with suits](/images/ibm70s.jpg)
+
 
 There is absolutely no correlation between ability and what style of fabric is currently adorning your body. However, the culture at IBM prioritized suits so much that if you didn't wear one, it would negatively impact your peers and bosses' perception of your competence. They would then devalue your work, effectively limiting your ability to contribute. It's hard to help if everything you do gets thrown away.
 
