@@ -113,7 +113,7 @@ sections:
       only reliable path to excellence: continuous improvement.
     actions: []
     type: section_content
-  - title: lorem-ipsum
+  - title: About quantitative thinking
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
