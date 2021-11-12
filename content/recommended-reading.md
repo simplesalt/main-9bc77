@@ -117,7 +117,7 @@ sections:
       performance in a domain dominated for 30 years by two (bad) metrics.
     actions: []
     type: section_content
-  - title: lorem-ipsum
+  - title: About People
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
