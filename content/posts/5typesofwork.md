@@ -19,24 +19,24 @@ content_img_path: images/phoenix_project.png
 ---
 10 years ago, [The Phoenix Project](https://itrevolution.com/the-phoenix-project/) took the IT world by storm. It spoke to the deep dysfunction in many teams, of a million departments blamed for when things go wrong but never credit when things go right.
 
-The solutions it proposed also sparked a fire: that the resulting conservative approaches to change wouldn't help, and that the principles of Lean, Six Sigma, and Statistical Process Control could help.
+The solutions it proposed also sparked a fire: that the resulting conservative approaches to change management wouldn't help, and that the principles of Lean, Six Sigma, and Statistical Process Control could.
 
 The book offered a huge insight: thought is just another work product. IT work has almost no physical aspect: there's no inventory, no giant molds or presses, and no distribution centers. The output of IT is just thought, carefully written down. Once you consider the resulting thought as inventory or Work in Progress, you can apply the tried-and-true process engineering approaches: reducing waste, Just In Time inventory, kanbans, etc.
 
-If you work in IT and haven't read it, I recommend. Even if you don't work in tech or IT, the lessons apply to similar disciplines. Marketing, Finance, HR, and Legal match the same pattern, and even services such as medical care or management consulting. Heck, it probably works for psychics and math teachers too.
+If you haven't read it, I recommend. Even if you don't work in tech, the lessons apply to similar disciplines. Marketing, Finance, HR, and Legal match the same pattern, and even services such as medical care or management consulting. Heck, it probably works for psychics and math teachers too.
 
 The Phoenix Project categorizes work into four categories, which I'll summarize below:
 
 *   **Standard work** is the work you're paid to deliver. Maybe it's typing out scans of handwritten doctor's notes. Maybe it's doing three-way matches for vendor invoices. Maybe it's leading yoga classes.
-*   **Project work** is the effort you apply to improve the standard work. Maybe you reduce the hours each delivery takes. Maybe you reduce turnaround time. Maybe you reduce the variability of a dependency.
+*   **Project work** is the effort you apply to improve standard work. Maybe you reduce the hours each delivery takes. Maybe you reduce turnaround time. Maybe you reduce the variability of a dependency.
 *   **Customer projects** are done to improve the value of what your standard work delivers. Maybe you're adding features. Maybe you're improving the consistency of the work product.
 *   **Unplanned work** adds no direct value. These are the fires and the emergencies that prevent you from doing the first three. The book spends a lot of time on unplanned work, explaining that you often get the most productivity gains on a team from just reducing unplanned work. I have noticed independently that unplanned work is the most tiring and demoralizing, so suspect that reducing it also makes teams happier and reduces burnout.
 
 ## It Goes Deeper
 
-After I read the Phoenix project, I started seeing work in those categories. It inspired me to change my work habits to reduce the impact unplanned work has on me and my teams. In the book, unplanned work is usually described at the team level – usually system outages (because IT). I think the spirit of it is even more subtle: unplanned work is when someone says, "stop what you're doing, please do this thing for me now."
+After I read the Phoenix project, I started seeing work in those categories. It inspired me to change my work habits to reduce the impact unplanned work has on me and my teams. In the book, unplanned work is usually described at the team level – usually system outages (because IT). The spirit is even more subtle: unplanned work happens anytime someone says, "stop what you're doing, please do this thing for me now."
 
-Unplanned work is an interruption, with [all the implications](https://www.google.com/books/edition/Peopleware/TVQUAAAAQBAJ?hl=en\&gbpv=0) about the costs of context switching. Personally, it also risks disrespect: whenever it happens, the requester is implicitly saying that their request is more important than whatever they displaced. It takes away autonomy, planning, and self-management. When most work is unplanned, you lose the ability to prioritize, will be less efficient, and most importantly, cannot optimize. That can be a dark place.
+Unplanned work is an interruption, with [all the implications](https://www.google.com/books/edition/Peopleware/TVQUAAAAQBAJ?hl=en\&gbpv=0) about the costs of context switching. Personally, it also risks disrespect: the requester implies that their request is more important than whatever they displaced. It takes away autonomy, planning, and self-management. When most work is unplanned, you lose the ability to prioritize, will be less efficient, and most importantly, cannot optimize. That can be a dark place.
 
 ![rugrats on losing control of your life](/images/lost_control.jpg)
 
@@ -46,13 +46,11 @@ Often personal unplanned work is caused by:
 *   **people wanting special treatment**. If you have a two-week backlog of standard work, people may try to jump the line and ask you directly.
 *   **inadequate process**. Perhaps people are interrupting you with requests because that's the only way they know to ask for what they need.
 
-##
-
 The book has many solutions at the team and organizational level, and I'll augment them with a few others I've learned.
 
 *   **Set boundaries**. If you comply with requests to skip the line, you will teach people that the line is optional. Use emergencies as an opportunity to educate people about the value of your team and their existing work: "What would you do if this didn't get done until Friday?" or "Is your request more important than these other projects?" Lencioni had some great thoughts about how poor personal boundaries can spiral into [deep dysfunction](https://www.google.com/books/edition/The_Five_Dysfunctions_of_a_Team).
-*   **Create processes**. [This](https://itrevolution.com/book/making-work-visible/) has [so many](https://www.google.com/search?q=cmmi)[names](https://www.google.com/search?q=sipoc), but the core concept is simple: figure out what your team does, then create standard processes to deliver them, then advertise to internal consumers how you want them to request them. The first two steps are the subject of countless books and a [consulting industry](https://www.google.com/search?q=six+sigma+consulting) worth billions.
-*   **Marketing**. The last step is often neglected and often the key to success. If you want people to use your process, they have to know about it and it must be easier for them than whatever they've been doing. There are so many ways to do this, but they all boil down to good marketing. You must convince people to use the intakes you've designed instead of bothering you. This allows you to scale: instead of triaging each problem as it comes in, you can explain up front what you do, then let them figure out how they want help. Common approaches include searchable webpages explaining your team's services, regular presentations to potential consuming groups, and Call To Action buttons to make it easier for them to get started.
+*   **Create processes**. [This](https://itrevolution.com/book/making-work-visible/) has [so many](https://www.google.com/search?q=cmmi) [names](https://www.google.com/search?q=sipoc), but the core concept is simple: figure out what your team does, then create standard processes to deliver them. Process Engineering is the subject of countless books and a [consulting industry](https://www.google.com/search?q=six+sigma+consulting) worth billions.
+*   **Marketing**. If you want people to use your process, they have to know about it and it must be easier than whatever they've been doing. There are many ways to achieve this and they all boil down to good marketing. You must convince people to use the intakes you've designed instead of bothering you. This allows you to scale: instead of triaging each problem as it comes in, you can explain up front what you do, then let them figure out how they want help. Common approaches include searchable webpages explaining your team's services, regular presentations to potential consuming groups, and Call To Action buttons to make it easier for them to get started.
 
 ## The Fifth Type of Work
 
@@ -70,7 +68,7 @@ Some people also have rationalized that it's a necessary component to delivering
 
 ![](images/ibm%2070s.jpg)
 
-There is absolutely no correlation between ability and what style of fabric is currently adorning your body. However, the culture at IBM prioritized suits so much that if you didn't wear one, it would negatively impact your peers and bosses' perception of your competence. They would then devalue your work, effectively limiting your ability to contribute. 
+There is absolutely no correlation between ability and what style of fabric is currently adorning your body. However, the culture at IBM prioritized suits so much that if you didn't wear one, it would negatively impact your peers and bosses' perception of your competence. They would then devalue your work, effectively limiting your ability to contribute.
 
 > It's hard to help if everything you do gets thrown away.
 

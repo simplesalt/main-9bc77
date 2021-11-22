@@ -3,13 +3,10 @@ title: Recommended Reading
 hide_title: true
 excerpt: lorem-ipsum
 sections:
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
+  - title: Recommended Reading
+    section_id: people
     image_alt: lorem-ipsum
     content: >
-      # Recommended Reading
-
-
       I’ve found the following thinkers and projects influential to how I
       approach my work and life.
 
@@ -22,11 +19,12 @@ sections:
       of 10 years ago rarely apply today, and there’s no reason to think that
       the challenges and accompanying strategies of today will apply in 10
       years. The only enduring patterns deeply coincide with good design.
-
-
-      ## People
-
-
+    actions: []
+    type: section_content
+  - title: About People
+    section_id: people
+    image_alt: lorem-ipsum
+    content: >
       [Joel Spolsky](https://www.joelonsoftware.com/) – Although he doesn’t post
       much anymore, his thoughts on leading technical teams are as true now as
       they were 20 years ago. I read two of his
@@ -55,11 +53,12 @@ sections:
       are not objective or easily measured. Like Deming and SPC, its model for
       success is an ongoing effort: it starts with a frank assessment of the
       problem and iteratively addresses root causes in order of importance.
-
-
-      ## Process
-
-
+    actions: []
+    type: section_content
+  - title: About process
+    section_id: lorem-ipsum
+    image_alt: lorem-ipsum
+    content: >
       [W. Edward Deming](https://www.youtube.com/watch?v=7pXu0qxtWPg) – Widely
       considered the forefather of Lean, Six Sigma, Statistical Process Control,
       Toyota Production System, and modern process engineering, Deming’s
@@ -112,11 +111,12 @@ sections:
       consists solely of instructions, understanding it comprises the biggest
       share of the work in changing it. Making it easier to change enables the
       only reliable path to excellence: continuous improvement.
-
-
-      ## Quantitative Thinking
-
-
+    actions: []
+    type: section_content
+  - title: About quantitative thinking
+    section_id: quantitative
+    image_alt: lorem-ipsum
+    content: >
       [How to Measure
       Anything](https://www.google.com/books/edition/How_to_Measure_Anything/693e2X6XV3MC)
       – Often we have a hard time choosing how to measure success. This is a
