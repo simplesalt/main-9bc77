@@ -54,7 +54,7 @@ Alternately, even the authoritative source for a piece of software can be a sour
 
 Desktops accumulate all sorts of junk. When people need to solve a new problem, their first instinct is to find a program that fixes it.
 
-![](images/messydesktops.png)
+![People often end up with a mess of software on their desktops](images/messydesktops.png)
 
 As much as we'd like them to care about the indicators of risky software, they won't, and it's unreasonable to expect them to. The specific knowledge that makes for an excellent Manufacturing Quality Engineer has no overlap with the knowledge to assess the risk of downloaded software.
 
