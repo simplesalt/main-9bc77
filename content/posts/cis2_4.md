@@ -1,7 +1,7 @@
 ---
 title: CIS 2.4 - Discovery
 excerpt: >-
-  The biggest risk from software is vulnerabilities and packaged malware. The best way to start addressing that is to know what software is out there.  
+  The biggest risk from software is vulnerabilities and packaged malware. The best way to start addressing that is to know what software is out there 
 date: '2021-11-22'
 seo:
   title: CIS 2.4 - Discovery
