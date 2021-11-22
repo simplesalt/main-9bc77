@@ -36,6 +36,7 @@ seo:
       relativeUrl: true
 layout: post
 thumb_img_path: images/messydesktops.png
+thumb_img_alt: Messy desktops
 ---
 > CIS 2.4: Utilize software inventory tools, when possible, throughout the enterprise to automate the discovery and documentation of installed software.
 
