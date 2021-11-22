@@ -151,8 +151,8 @@ Some other teams may be interested in a **Software Inventory**. Here's a short l
 *   Server Engineering
 *   Service Desk/Tech Support
 
-Often, the best automated tooling for populating your list will come from other teams anyway. [Snow](https://www.snowsoftware.com/) and [Flexera](https://www.flexera.com) make great software inventory tools (see CIS 2.2: Automatic Discovery for more), but their marketing is focused on helping companies optimize their licensing and support operations. This is ok: keeping an accurate **Software Inventory** is one of the best security objectives to let other leaders sponsor. Most of these groups' needs will overlap with yours, so the only influence you should need to apply is if they go off the rails.
+Often, the best automated tooling for populating your list will come from other teams anyway. [Snow](https://www.snowsoftware.com/) and [Flexera](https://www.flexera.com) make great software inventory tools (see [CIS 2.4: Discovery](https://saltyonsecurity.net/posts/cis2\_4/) for more), but their marketing is focused on helping companies optimize their licensing and support operations. This is ok: keeping an accurate **Software Inventory** is one of the best security objectives to let other leaders sponsor. Most of these groups' needs will overlap with yours, so the only influence you should need to apply is if they go off the rails.
 
-As with an **Inventory of IT Stuff**, the biggest risk to a **Software Inventory**'s success is bad process. Many technical teams aren't good at user experience and end up designing heavy forms or governance that people then try to avoid. More on this in CIS 2.4: Discovery.
+As with an **Inventory of IT Stuff**, the biggest risk to a **Software Inventory**'s success is bad process. Many technical teams aren't good at user experience and end up designing heavy forms or governance that people then try to avoid. More on this in CIS 2.3: Standard Work.
 
 What are you experiences in building a **Software Inventory**? What have you found most important? Can you better explain why CIS changed its vision? I'd love to hear your thoughts: leave a comment below or [hit me up](/contact/).
