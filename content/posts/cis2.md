@@ -54,4 +54,4 @@ There are four big benefits to knowing what software is on your **Stuff**.
 *   It gives you a valuable picture of what people need and do across your organization, which can help inform IT strategy and consolidation.  Consolidating onto fewer platforms often can reduce cost and improve quality, but there are security benefits as well: there are fewer things to secure!
 *   Having strong and lean software management processes eliminates biggest need for localadmin on worker endpoints.  Removing localadmin (CIS 5.4) can be one of the best ways to make your worker endpoints more resistant to malware and compromise.
 
-Ready?  We'll dive into [CIS 2.1](saltyonsecurity.net/post/cis2\_1) next week.
+Ready?  We'll dive into [CIS 2.1](saltyonsecurity.net/posts/cis2\_1) next week.
