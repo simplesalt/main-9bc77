@@ -36,7 +36,7 @@ seo:
       relativeUrl: true
 layout: post
 thumb_img_path: images/implications.png
-thumb_img_alt: Messy desktops
+thumb_img_alt: This Control Contains Implications
 ---
 > CIS 2.3: Ensure that unauthorized software is either removed from use on enterprise assets or receives a documented exception. Review monthly, or more frequently.
 
