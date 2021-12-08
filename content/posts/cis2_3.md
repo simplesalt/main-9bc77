@@ -1,7 +1,8 @@
 ---
 title: CIS 2.3 - Unauthorized Software
 excerpt: >-
-  The biggest risk from software is vulnerabilities and packaged malware. CIS 2.3 tells you to get rid of the worst stuff.  
+  The biggest risk from software is vulnerabilities and packaged malware. CIS
+  2.3 tells you to get rid of the worst stuff.  
 date: '2021-12-08'
 seo:
   title: CIS 2.4 - Discovery
@@ -34,7 +35,7 @@ seo:
       value: images/messydesktops.png
       relativeUrl: true
 layout: post
-thumb_img_path: images/messydesktops.png
+thumb_img_path: images/implications.png
 thumb_img_alt: Messy desktops
 ---
 > CIS 2.3: Ensure that unauthorized software is either removed from use on enterprise assets or receives a documented exception. Review monthly, or more frequently.
