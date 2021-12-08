@@ -54,4 +54,3 @@ I am smart and get things done.  I find complicated, technical things easy and e
 
 *   BA Math and Chemistry, St. Olaf College
 
-[Resume](/images/Dylan%20Evans%20Resume.pdf)
