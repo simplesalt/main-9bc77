@@ -5,7 +5,7 @@ excerpt: >-
   2.3 tells you to get rid of the worst stuff.  
 date: '2021-12-08'
 seo:
-  title: CIS 2.4 - Discovery
+  title: CIS 2.3 - Discovery
   description: What is more helpful than a list of IT Stuff? Knowing what each thing does!
   extra:
     - name: 'og:type'
