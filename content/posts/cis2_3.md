@@ -41,7 +41,11 @@ content_img_path: images/implications.png
 ---
 > CIS 2.3: Ensure that unauthorized software is either removed from use on enterprise assets or receives a documented exception. Review monthly, or more frequently.
 
-CIS 2.3 contains multitudes. At the core, it says that detecting and removing bad software is helpful in reducing security risk. It looks simple, but even if you have built processes and can execute on them consistently and efficiently, there's a lot more going on than meets the eye. Luckily, it doesn't have to be hard if you build it right.
+CIS 2.3 contains multitudes. It looks simple, but even if you have built processes and can execute on them consistently and efficiently, there's a lot more going on than meets the eye. Luckily, it doesn't have to be hard if you build it right. If you don't want to read all the linguistic analysis and commentary, here's the Salty version:
+
+> Eliminate bad software.
+
+with common sense answering the where/when/why/how.  This article builds on the foundations and vision described in the [CIS 2](/posts/cis2) and [CIS 2.1](/posts/cis\_2.1) articles.
 
 ## Implication 1: Enterprise Assets
 
@@ -67,7 +71,7 @@ Writing extensively about GRC isn't on my shortlist. If you're interested, [hit 
 
 ### Fine, what do I do?
 
-If you don't have an exception process, it's easy to build. You can do it with 6 columns in an excel worksheet. Assign someone to manage them, publish an intake, and write a barebones procedure. Your worker will assess the scariness ("risk") of each exception and socialize it appropriately – if it's very scary, more senior executives need to be aware. Your exception manager also needs to follow up periodically – maybe they are now following policy. CIS is stupidly aggressive on this – nobody changes their mind after a month.  For most organizations, a yearly review cycle is about right. 
+If you don't have an exception process, it's easy to build. You can do it with 6 columns in an excel worksheet. Assign someone to manage them, publish an intake, and write a barebones procedure. Your worker will assess the scariness ("risk") of each exception and socialize it appropriately – if it's very scary, more senior executives need to be aware. Your exception manager also needs to follow up periodically – maybe they are now following policy. CIS is stupidly aggressive on this – nobody changes their mind after a month.  For most organizations, a yearly review cycle is about right.
 
 ## Implication 3: Unauthorized Software
 
