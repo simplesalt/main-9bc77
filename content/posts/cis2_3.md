@@ -105,4 +105,4 @@ As you get rid of the easy bad software, you'll start to tackle applications use
 
 Next week, we'll talk about an Authorized Software Inventory, CIS 2.2, and other next steps in progressing you toward that shining utopia of CIS 2.5-2.7, proscriptive allowlists.
 
-CIS 2.3's mission of whacking bad junk can help you start your journey of governing software. Coupled with the [discovery engine you plumbed](/cis2\_4) in CIS 2.4 and the other continuous improvement ideas we'll describe in CIS 2.2, it can really help reduce risk of compromise on your worker endpoints.
+CIS 2.3's mission of whacking bad junk can help you start your journey of governing software. Coupled with the [discovery engine you plumbed](/posts/cis2\_4) in CIS 2.4 and the other continuous improvement ideas we'll describe in CIS 2.2, it can really help reduce risk of compromise on your worker endpoints.
