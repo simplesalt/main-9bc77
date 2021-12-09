@@ -45,7 +45,7 @@ CIS 2.3 contains multitudes. It looks simple, but even if you have built process
 
 > Eliminate bad software.
 
-with common sense answering the where/when/why/how.  This article builds on the foundations and vision described in the [CIS 2](/posts/cis2) and [CIS 2.1](/posts/cis\_2.1) articles.  Still want to read more?  Let's dig in.
+with common sense answering the where/when/why/how.  This article builds on the foundations and vision described in the [CIS 2](/posts/cis2) and [CIS 2.1](/posts/cis2\_1) articles.  Still want to read more?  Let's dig in.
 
 ## Implication 1: Enterprise Assets
 
