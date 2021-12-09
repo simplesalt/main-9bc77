@@ -63,11 +63,11 @@ Many GRC thought leaders and talking heads rail against exceptions, often becaus
 
 But here's the thing: Policies are inherently compromises. If proscriptive, there will be more situations they don't fit, and thus incur more exceptions. If they are less proscriptive, they won't be as useful in communicating security's priorities and vision. If they are proscriptive and but deeply granular, they'll be longer, fewer people will read them, and they'll be less useful. In a healthy exception and policy process, the only difference between an exception and a carve-out in policy is just marketing.
 
-Writing extensively about indicators for GRC team effectiveness isn't on my shortlist, so if you're interested, [hit me up](/contact).
+Writing extensively about GRC isn't on my shortlist. If you're interested, [hit me up](/contact).
 
 ### Fine, what do I do?
 
-If you don't have an exception process, it's easy to build. You can do it with 6 columns in an excel worksheet. Assign someone to manage them, an intake, and probably a barebones procedure. Your worker will assess the scariness ("risk") of each exception and socialize it appropriately – if it's very scary, more senior executives need to be aware that it's happening. Your exception manager also needs to follow up periodically – maybe they figured it out and are now following policy. CIS is aggressive on this – don't do it monthly; a year is usually about right. Nobody changes their mind on a decision to not follow policy within a month.
+If you don't have an exception process, it's easy to build. You can do it with 6 columns in an excel worksheet. Assign someone to manage them, publish an intake, and write a barebones procedure. Your worker will assess the scariness ("risk") of each exception and socialize it appropriately – if it's very scary, more senior executives need to be aware. Your exception manager also needs to follow up periodically – maybe they are now following policy. CIS is stupidly aggressive on this – nobody changes their mind after a month.  For most organizations, a yearly review cycle is about right. 
 
 ## Implication 3: Unauthorized Software
 
@@ -81,11 +81,11 @@ It can be overwhelming. Where do you start?
 
 You could interpret "Unauthorized Software" as any software that hasn't been approved. This is the default interpretation of many hard-nosed security engineers. It's in that spirit of "I need to look at everything you do to make sure it's not bad" approach that pervades the security industry.
 
-Vetting every piece of software before it's allowed to be used is a huge effort, and not really the point of this control – that is delivered by CIS 2.5-2.7.
+Vetting every piece of software before use is a huge effort and not the point of this control – that is delivered by CIS 2.5-2.7.
 
-The true meaning of Unauthorized in CIS 2.3 is to maintain a list of bad software and use your discovery engine to find and squash any installs (with exceptions as warranted, per above). In this vision, you continually improve the security and health of your worker endpoints by adding bad software to the list and eliminating any associated installs. This allows you to start small and gradually expand your list of bad software as you drive people to your recommended options.
+Unauthorized in CIS 2.3 means maintaining a list of bad software and using your discovery engine to find and squash any installs (with exceptions as warranted, per above). In this vision, you continually improve the security and health of your worker endpoints by gradually expanding your list of bad software as you drive people to better options.
 
-The software you want to start with is the possibly illegal or malicious stuff: TOR browsers, freeware packaged with adware or malware, downloads from cnet or a torrent. From there, you'll want to work on EOL apps with major and common vulnerabilities: old java, proprietary browser plugins that only work with IE6, IE6 itself, etc. You may also consider adding software that allows people to bypass security controls such as Type 2 Hypervisors.  You can even go crazy and disallow some software by function: maybe fancy powershell consoles are Unauthorized for everyone except IT.  
+The software you want to start with is the possibly illegal or malicious stuff: TOR browsers, freeware packaged with adware or malware, downloads from cnet or a torrent. From there, you'll want to work on EOL apps with major and common vulnerabilities: old java, IE6, etc. You may also consider adding software that allows people to bypass security controls such as Type 2 Hypervisors.  You can even go crazy and disallow some software by function: maybe fancy powershell consoles are Unauthorized for everyone except IT.
 
 ## Implication 4: The Challenge
 
