@@ -85,9 +85,7 @@ Vetting every piece of software before it's allowed to be used is a huge effort,
 
 The true meaning of Unauthorized in CIS 2.3 is to maintain a list of bad software and use your discovery engine to find and squash any installs (with exceptions as warranted, per above). In this vision, you continually improve the security and health of your worker endpoints by adding bad software to the list and eliminating any associated installs. This allows you to start small and gradually expand your list of bad software as you drive people to your recommended options.
 
-The software you want to start with is the possibly illegal or malicious stuff: TOR browsers, freeware packaged with adware or malware, downloads from cnet or a torrent. From there, you'll want to work on EOL apps with major and common vulnerabilities: old java, proprietary browser plugins that only work with IE6, etc. You may also consider adding software that allows people to bypass security controls such as Type 2 Hypervisors.
-
-This approach is a great next step toward governing software throughout your organization. It's much less effort than the allowlisting and with CIS 2.2, delivers most of the value.
+The software you want to start with is the possibly illegal or malicious stuff: TOR browsers, freeware packaged with adware or malware, downloads from cnet or a torrent. From there, you'll want to work on EOL apps with major and common vulnerabilities: old java, proprietary browser plugins that only work with IE6, IE6 itself, etc. You may also consider adding software that allows people to bypass security controls such as Type 2 Hypervisors.  You can even go crazy and disallow some software by function: maybe fancy powershell consoles are Unauthorized for everyone except IT.  
 
 ## Implication 4: The Challenge
 
@@ -99,8 +97,8 @@ As you add items to your list of unauthorized software and start telling people 
 
 # The Bigger Picture
 
-CIS 2.3's mission of whacking bad junk can help you start your journey of governing software. Coupled with the [discovery engine you plumbed](/cis2\_4) in CIS 2.4, it can really help reduce risk of compromise on your worker endpoints like desktops and laptops.
-
 As you get rid of the easy bad software, you'll start to tackle applications used by larger groups of people, and for some of them, you'll decide that their application is the best fit for their use case. What then?
 
 Next week, we'll talk about an Authorized Software Inventory, CIS 2.2, and other next steps in progressing you toward that shining utopia of CIS 2.5-2.7, proscriptive allowlists.
+
+CIS 2.3's mission of whacking bad junk can help you start your journey of governing software. Coupled with the [discovery engine you plumbed](/cis2\_4) in CIS 2.4 and the other continuous improvement ideas we'll describe in CIS 2.2, it can really help reduce risk of compromise on your worker endpoints.
