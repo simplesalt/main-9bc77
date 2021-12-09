@@ -45,13 +45,13 @@ CIS 2.3 contains multitudes. It looks simple, but even if you have built process
 
 > Eliminate bad software.
 
-with common sense answering the where/when/why/how.  This article builds on the foundations and vision described in the [CIS 2](/posts/cis2) and [CIS 2.1](/posts/cis\_2.1) articles.
+with common sense answering the where/when/why/how.  This article builds on the foundations and vision described in the [CIS 2](/posts/cis2) and [CIS 2.1](/posts/cis\_2.1) articles.  Still want to read more?  Let's dig in.
 
 ## Implication 1: Enterprise Assets
 
 Let's start with scope: where do we need to govern software? CIS says, "enterprise assets". By context, "asset" is almost certainly one of the things in your **Inventory of IT Stuff.**
 
-Enterprise is harder. It usually indicates that the capability or thing is managed by an all-organization shared service. Examples include Enterprise HR, Enterprise Marketing, or Enterprise Finance, and contrasts to an embedded function: "segment Finance" or "\&lt;Business Unit\&gt; Marketing". IT even has its own term for capabilities it doesn't control: "Shadow IT".
+Enterprise is harder. It usually indicates that the capability or thing is managed by an all-organization shared service. Examples include Enterprise HR, Enterprise Marketing, or Enterprise Finance, and contrasts to an embedded function: "segment Finance" or "\<Business Unit> Marketing". IT even has its own term for capabilities it doesn't control: "Shadow IT".
 
 It could also mean "belonging to or managed by your enterprise". This interpretation is a bit redundant - what are you gonna do, manage assets in someone else's enterprise? Even so, this is a more sensical path: CIS 1 was all about getting a handle on *all* the IT assets. CIS isn't gonna turn around and say, "now that you've gotten your big list of Everything Everywhere, just govern the parts managed by Shared Service teams."
 
@@ -71,7 +71,7 @@ Writing extensively about GRC isn't on my shortlist. If you're interested, [hit 
 
 ### Fine, what do I do?
 
-If you don't have an exception process, it's easy to build. You can do it with 6 columns in an excel worksheet. Assign someone to manage them, publish an intake, and write a barebones procedure. Your worker will assess the scariness ("risk") of each exception and socialize it appropriately – if it's very scary, more senior executives need to be aware. Your exception manager also needs to follow up periodically – maybe they are now following policy. CIS is stupidly aggressive on this – nobody changes their mind after a month.  For most organizations, a yearly review cycle is about right.
+If you don't have an exception process, it's easy to build. You can do it with 6 columns in an excel worksheet. Assign someone to manage them, publish an intake, and write a barebones procedure. Your worker will assess the scariness ("risk") of each exception and socialize it appropriately – if it's very scary, more senior executives need to be aware. Your exception manager also needs to follow up periodically – maybe they are now following policy. CIS is weirdly aggressive on this – nobody changes their mind after a month.  For most organizations, a yearly review cycle is about right.
 
 ## Implication 3: Unauthorized Software
 
