@@ -6,7 +6,7 @@ excerpt: >-
 date: '2021-12-08'
 seo:
   title: CIS 2.3 - Unauthorized Software
-  description: What is more helpful than a list of IT Stuff? Knowing what each thing does!
+  description: Get rid of the bad stuff.
   extra:
     - name: 'og:type'
       value: article
