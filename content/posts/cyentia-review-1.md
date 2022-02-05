@@ -3,14 +3,14 @@ title: 'Telling a security story well - example #22'
 excerpt: "Cyentia offers consistently high-quality insights about the security value proposition.\_They recently did statistical analysis of major incidents in the last 10 years.  Some highlights:"
 date: '2020-07-02'
 seo:
-  title: 'Telling a security story well - example #22'
+  title: 'Telling a security story well \- example \#22'
   description: "Cyentia offers consistently high-quality insights about the security value proposition.\_"
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: 'Telling a security story well - example #22'
+      value: 'Telling a security story well \- example \#22'
       keyName: property
     - name: 'og:description'
       value: "Cyentia offers consistently high-quality insights about the security value proposition.\_"
@@ -22,7 +22,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: 'Telling a security story well - example #22'
+      value: 'Telling a security story well \- example \#22'
     - name: 'twitter:description'
       value: "Cyentia offers consistently high-quality insights about the security value proposition.\_"
     - name: 'twitter:image'
