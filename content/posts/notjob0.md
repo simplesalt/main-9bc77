@@ -12,7 +12,6 @@ seo:
 layout: post
 thumb_img_path: images/picardnomistakes.jpg
 thumb_img_alt: Picard
-content_img_path: images/picardnomistakes.jpg
 ---
 # Security is Not Job 0
 
