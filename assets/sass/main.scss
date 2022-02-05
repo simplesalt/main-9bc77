@@ -1,9 +1,7 @@
 
-// Font.
-$font: (
-  primary: ("Roboto",Helvetica,sans-serif),
-  monospace: (Consolas,Monaco,"Andale Mono","Ubuntu Mono",monospace)
-);
+$font-heading: {{ $.Site.Params.heading_font | default "'Roboto', sans-serif" }};
+$font-body: {{ $.Site.Params.body_font | default "'Roboto', sans-serif" }};
+$font-code: {{ $.Site.Params.code_font | default "'Roboto', sans-serif"}}
 
 // Palette.
 $palette: (
