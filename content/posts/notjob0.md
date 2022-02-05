@@ -79,7 +79,7 @@ For example, consider legal: say you want to improve contractual defensibility a
 
 OR???
 
-1. Everyone at your organization with a budget and signing authority
+2. Everyone at your organization with a budget and signing authority
 
 ![You know this](/images/youknowthis.png)
 
