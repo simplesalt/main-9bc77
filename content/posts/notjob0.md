@@ -13,7 +13,6 @@ layout: post
 thumb_img_path: images/picardnomistakes.jpg
 thumb_img_alt: Picard
 ---
-# Security is Not Job 0
 
 It&#39;s a popular canard: security is the most important thing to get right. You hear it directly: some of the hippest of tech firms make [pretentious pronouncements](https://aws.amazon.com/blogs/enterprise-strategy/security-at-aws/). You hear it via implication through the security industry: how Security Awareness and Education is so important, that all those people just _need to_ understand security. All the security problems are because people are uneducated. &quot;If they all understood what I do and cared about what I care about, we just wouldn&#39;t have these problems!!1!&quot; the security industry preaches to itself.
 
