@@ -13,7 +13,6 @@ seo:
 layout: post
 thumb_img_path: images/declaration1.png
 thumb_img_alt: Stealing the best ideas from sales and marketing.
-content_img_path: images/declaration1.png
 ---
 # Security Marketing and Sales
 
