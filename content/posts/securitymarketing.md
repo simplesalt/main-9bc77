@@ -4,7 +4,7 @@ subtitle: How to explain your value and build the foundations of a successful se
 date: '2022-02-18'
 content_img_alt: Stealing the best ideas from sales and marketing.
 excerpt: >-
-  Today, I explore strategies to explain the value of security. This will be a key pre-requisite in credibly pushing your organization toward standard solutions. Luckily, there&#39;s already best practices in this space: educating people about value at scale is called Marketing and educating them about value individually is called Sales.
+  Today, I explore strategies to explain the value of security. This will be a key pre-requisite in credibly pushing your organization toward standard solutions. Luckily, there are already best practices in this space: educating people about value at scale is called Marketing and educating them about value individually is called Sales.
 seo:
   title: Security Marketing and Sales
   description: How to explain your value and build the foundations of a successful security program
@@ -78,26 +78,33 @@ With all marketing, you balance concision with helpfulness. On one hand, it need
 To deliver on this strategy, it can be helpful to write a little charter for each piece of marketing, consisting of:
 
 - **The Chosen Audience**. Examples:
+
   - Developers
   - IT builders
   - New hires
   - People managers
   - Auditors
   - Customers
+
 - **Media/Presentation style**. Everybody [learns differently](https://vark-learn.com/). If a message is important for many people to understand, consider delivering it in different ways:
+
   - &quot;Sales Slick&quot; style: lots of white space, color, and pictures. This works best for the most people, and should be your standby for diverse groups such as new employees and distracted executives.
   - Presentation style: The &quot;video&quot; version of the Sales Slick, the same design approach should apply.
   - &quot;Policy&quot; style: sometimes you just have a lot to say, and the words you use are important. Lawyers, auditors, and perfectionist IT engineers usually eat this up.
   - &quot;Demo&quot; style: Demonstrating what you want people to do using a concrete example can make it real in ways a policy never can. Recorded or live.
   - Q&amp;A style: Usually best paired with a live presentation or demo. Encouraging people to ask questions about can really increase understanding and buy-in. Even better, it often identifies flaws so you can improve.
-- **The main message**. Examples:
+
+- **The main message**. 
+
   - &quot;Summarize for customers how our security is strong so they should trust us.&quot;
   - &quot;Explain remote work expectations to work-from-home employees.&quot;
   - &quot;explain to the contract review team what kinds of clauses are unacceptable&quot;
   - &quot;Explain to developers why they should pay attention to SAST&quot;
   - &quot;Explain to developers why good CI/CD governance helps average release quality and fewer security bugs.&quot;
   - &quot;Explain to workers how and why to report a phishing attempt.&quot;
+
 - _Bonus_: **What does success look like**?
+
   - &quot;More assets in the CMDB will have accurate metadata.&quot;
   - &quot;More servers will be patched before the vulnerability scans start.&quot;
   - &quot;Fewer lost deals where our security was a factor&quot;
@@ -131,7 +138,7 @@ I&#39;ve noticed that effective leaders often automatically assess the goals of 
 
 **Further Note** : this is sensitive information; and awkward conversations may occur if those people see your notes about them. If there is not a strong expectation of privacy in your organization, you may want to store these notes outside your organization&#39;s control: maybe in your desk drawer or on a personal phone.
 
-For some in security, information outside security&#39;s control may sound like heresy. However, it&#39;s [not the only](https://www.dol.gov/general/topics/whistleblower)[valid](https://www.eeoc.gov/harassment)[use-case](https://en.wikipedia.org/wiki/Wells_Fargo_account_fraud_scandal). If these examples don&#39;t sound like a real need, realize you may be part of the cultural problem that caused those federal protections to be instituted.
+For some, information outside security&#39;s control may sound like heresy. However, it&#39;s [not the only](https://www.dol.gov/general/topics/whistleblower) [valid](https://www.eeoc.gov/harassment) [use-case](https://en.wikipedia.org/wiki/Wells_Fargo_account_fraud_scandal). If these examples don&#39;t sound like a real need, realize you may be part of the cultural problem that caused those federal protections to be instituted.
 
 ### Step 2: Connect
 
