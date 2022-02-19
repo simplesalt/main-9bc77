@@ -22,7 +22,7 @@
           {{ else }}
             <meta {{ $key_name }}="{{ $meta.name }}" content="{{ $meta.value }}">
           {{ end }}
-        {{ else }}
+        {{ end }}
         <link href="https://fonts.googleapis.com/css?family='Source+Serif+Pro':400,400i,700,700i&display=swap" rel="stylesheet"> 
         <link rel="stylesheet" href="{{ (resources.Get "sass/main.scss" | resources.ToCSS (dict "indentWidth" 4 "outputStyle" "nested" "precision" 10 "targetPath" "css/main.css")).Permalink }}">
         {{ if .Site.Data.config.favicon }}
