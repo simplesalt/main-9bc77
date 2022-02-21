@@ -5,7 +5,7 @@ img_path: images/dylan-headshot-90e78b7b.webp
 img_alt: Dylan Evans Headshot
 seo:
   title: About Me
-  description: This is the about me page
+  description: My approach and priorities
   extra:
     - name: 'og:type'
       value: website
@@ -14,7 +14,7 @@ seo:
       value: About Me
       keyName: property
     - name: 'og:description'
-      value: This is the about me page
+      value: My approach and priorities
       keyName: property
     - name: 'og:image'
       value: images/dylan-headshot.webp
@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:title'
       value: About Me
     - name: 'twitter:description'
-      value: This is the about me page
+      value: My approach and priorities
     - name: 'twitter:image'
       value: images/dylan-headshot.webp
       relativeUrl: true
