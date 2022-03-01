@@ -1,21 +1,19 @@
 ---
-title: Security Marketing and Sales 2 - Baggage
-subtitle: Your barriers and how to overcome them
+title: "Security Marketing and Sales, Part 2: Baggage"
+subtitle: Common barriers and how to overcome them.
 date: '2022-03-01'
-content_img_alt: Your barriers and how to overcome them
+content_img_alt: Common barriers and how to overcome them.
 excerpt: >-
   Today, I expand on the challenges most security leaders face when explaining the value of security: usually people already don't like you. We discuss what you can do about it, focusing on how you can make your services and platforms support your message of helpfulness.
 seo:
-  title: Security Marketing and Sales 2 - Baggage
-  description: Your barriers and how to overcome them
+  title: "Security Marketing and Sales 2: Baggage"
+  description: Common barriers and how to overcome them.
   robots: []
   extra: []
 layout: post
 thumb_img_path: 
-thumb_img_alt: Your barriers and how to overcome them
+thumb_img_alt: Common barriers and how to overcome them.
 ---
-# Security Marketing and Sales 2: Baggage
-
 Most IT professionals are familiar with [greenfield and brownfield](https://en.wikipedia.org/wiki/Greenfield_project) and know that greenfield projects are always more fun. Greenfield and Brownfield also applies to relationships when joining an organization. Unfortunately, relational greenfield is a myth: you inherit everyone&#39;s perceptions and associations about your team, predecessor, and labels. 
 
 # Security&#39;s Brownfield Problem
@@ -50,7 +48,7 @@ If the interface doesn&#39;t always work the way users expect, that quickly buil
 
 ## Whether it was fast
 
-[People are](https://www.nngroup.com/articles/response-times-3-important-limits/)[sensitive](https://designingforperformance.com/performance-is-ux/) to[performance](https://services.google.com/fh/files/blogs/google_delayexp.pdf); they [resent](https://www.researchgate.net/publication/228975627_Frustration_A_common_user_experience) time spent waiting. Also consider fulfillment time if the system fronts a service. If people think that engaging a team through your ticketing system is slower than emailing them, they will blame that experience on the ticketing system and try to avoid filing tickets.
+[People are](https://www.nngroup.com/articles/response-times-3-important-limits/) [sensitive](https://designingforperformance.com/performance-is-ux/) to [performance](https://services.google.com/fh/files/blogs/google_delayexp.pdf); they [resent](https://www.researchgate.net/publication/228975627_Frustration_A_common_user_experience) time spent waiting. Also consider fulfillment time if the system fronts a service. If people think that engaging a team through your ticketing system is slower than emailing them, they will blame that experience on the ticketing system and try to avoid filing tickets.
 
 User Stories are one of the best methods for finding and prioritizing opportunities in lowering these barriers. Next week, we&#39;ll explore how that&#39;s done.
 
@@ -76,7 +74,7 @@ Higher cost or risk to change a system exponentially discourages improvements. T
 
 Consider: if it takes 5 minutes to adjust the wording on a landing page and you have high confidence that your change will not break anything else, you won&#39;t think twice. You don&#39;t need change tickets, you don&#39;t need outage windows, you don&#39;t need reversion plans or hypercare or communication or even testing. You just do it.
 
-![Rihanna thinks you can do it!](images\workworkworkjustdoit.jpg)
+![Rihanna thinks you can do it!](/images/workworkworkjustdoit.jpg)
 
 Think of the further savings if little skill is needed: the person who wants the change can do it themselves. They don&#39;t need to find someone to build it, they don&#39;t need to propose funding for paying that person, they don&#39;t need to submit their proposal to a queue and wait for their ticket, their builder doesn&#39;t need to write functional and technical specs, and nobody needs UAT. You get to skip arguments about where blame should fall if the requester isn&#39;t happy with the deliverables. Everybody avoids the risk that the requester forgot what they wanted by the time it was delivered.
 
@@ -92,4 +90,4 @@ As you [listen carefully](https://saltyonsecurity.net/posts/securitymarketing/#s
 
 Next week, we&#39;ll start to explore some concrete lessons from the world of UI/UX design that can help reduce frustration, pain, and avoidance with your services and platforms, allowing you to change hearts and minds. Woo.
 
-![Change Hearts and Minds just like the Shockmaster!](\images\heartsandminds.png)
+![Change Hearts and Minds just like the Shockmaster!](/images/heartsandminds.png)
