@@ -12,7 +12,7 @@ seo:
   extra: []
 layout: post
 thumb_img_path: /images/publictrust.jpg
-thumb_img_alt: Security Teams .
+thumb_img_alt: Security Teams could be more trusted.
 ---
 Most IT professionals are familiar with [greenfield and brownfield](https://en.wikipedia.org/wiki/Greenfield_project) and know that greenfield projects are always better; dealing with old mistakes and compromises made by other people is not fun. The patterns of Greenfield and brownfield also apply to relationships: partnerships and trust are a capability like any other, with tools, operational excellence, and KPIs to match. Unfortunately, when joining an organization, relational greenfield is mostly a myth. Most leaders get brownfield, inheriting everyone&#39;s perceptions and associations about their team, predecessor, and industry. 
 
