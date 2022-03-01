@@ -14,7 +14,7 @@ layout: post
 thumb_img_path: /images/publictrust.jpg
 thumb_img_alt: Security Teams could be more trusted.
 ---
-Most IT professionals are familiar with [greenfield and brownfield](https://en.wikipedia.org/wiki/Greenfield_project) and know that greenfield projects are always better; dealing with old mistakes and compromises made by other people is not fun. The patterns of Greenfield and brownfield also apply to relationships: partnerships and trust are a capability like any other, with tools, operational excellence, and KPIs to match. Unfortunately, when joining an organization, relational greenfield is mostly a myth. Most leaders get brownfield, inheriting everyone&#39;s perceptions and associations about their team, predecessor, and industry. 
+Most IT professionals are familiar with [greenfield and brownfield](https://en.wikipedia.org/wiki/Greenfield_project) and know that greenfield projects are always better; dealing with old mistakes and compromises made by other people is not fun. The patterns of greenfield and brownfield also apply to relationships: partnerships and trust are a capability like any other, with tools, operational excellence, and KPIs to match. Unfortunately, when joining an organization, relational greenfield is mostly a myth. Most leaders get brownfield, inheriting everyone&#39;s perceptions and associations about their team, predecessor, and industry. 
 
 # Security&#39;s Brownfield Problem
 
@@ -30,7 +30,7 @@ The root cause is the lack of trust for the security team, the belief that they 
 
 Here are some common barriers to achieving that:
 
-## Finding Options
+## Finding options
 
 The sooner you can get your solution in front of people with a problem, the less invested they&#39;ll be in their way of doing it. [Advertise](https://saltyonsecurity.net/posts/securitymarketing/) your standard solutions: a searchable, linked landing page explaining how and when (and why!) to use a particular standard goes a long way.
 
