@@ -11,10 +11,10 @@ seo:
   robots: []
   extra: []
 layout: post
-thumb_img_path: 
-thumb_img_alt: Common barriers and how to overcome them.
+thumb_img_path: /images/publictrust.jpg
+thumb_img_alt: Security Teams .
 ---
-Most IT professionals are familiar with [greenfield and brownfield](https://en.wikipedia.org/wiki/Greenfield_project) and know that greenfield projects are always more fun. Greenfield and Brownfield also applies to relationships when joining an organization. Unfortunately, relational greenfield is a myth: you inherit everyone&#39;s perceptions and associations about your team, predecessor, and labels. 
+Most IT professionals are familiar with [greenfield and brownfield](https://en.wikipedia.org/wiki/Greenfield_project) and know that greenfield projects are always better; dealing with old mistakes and compromises made by other people is not fun. The patterns of Greenfield and brownfield also apply to relationships: partnerships and trust are a capability like any other, with tools, operational excellence, and KPIs to match. Unfortunately, when joining an organization, relational greenfield is mostly a myth. Most leaders get brownfield, inheriting everyone&#39;s perceptions and associations about their team, predecessor, and industry. 
 
 # Security&#39;s Brownfield Problem
 
