@@ -24,6 +24,8 @@ If this is your narrative, it&#39;s clear that avoiding Security is your best be
 
 There is an ugly cycle here: a team tries to avoid the Security team, builds an insecure capability, then Security finds out and escalates to Legal, the CIO, or the CFO. The team is then forced to bolt-on some security measures to their already-in-use product that makes it annoying. They resent Security and feel even more strongly that Security only causes problems. Security resents them for unnecessarily exposing the organization to risk that Security will have to step in and rescue them from, especially because the bolt-on measures will never be as strong as a capability built with security in mind. Everyone loses in this scenario.
 
+![Trust in Security teams is sometimes low](/images/publictrust.jpg)
+
 # It doesn&#39;t have to be this way
 
 The root cause is the lack of trust for the security team, the belief that they are against progress and good. The solution to this is [security marketing and sales](https://saltyonsecurity.net/posts/securitymarketing/), but those measures go a lot farther if you have concrete examples of providing benefit. Your best approach is [building out standard](https://saltyonsecurity.net/posts/notjob0/#the-winning-strategy), secure solutions that work for most people. Success in this strategy is showing your customers that an existing solution meets their needs and provides unexpected value over the solution they&#39;re considering without demeaning them or their judgement.
