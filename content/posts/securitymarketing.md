@@ -134,9 +134,15 @@ You may want to enlist help from marketing professionals; there&#39;s an art to 
 
 I&#39;ve noticed that effective leaders often automatically assess the goals of everyone they talk to; many have developed the ability to have a map in the back of their head of what key partners want. Whether this is automatic or a practiced skill for you, I recommend writing it down. It&#39;s easy, it keeps you organized, and helps free you to focus on other topics. &quot;Writing down useful information about people you&#39;re selling to&quot; is such a universal capability that it&#39;s been commoditized to a product category, CRM.
 
+<<<<<<< HEAD
 **Note** : Most CRMs are overbuilt for the purposes we&#39;ll address today; I suggest you just use a pen.
 
 **Further Note** : this is sensitive information; and awkward conversations may occur if those people see your notes about them. If there is not a strong expectation of privacy in your organization, you may want to store these notes outside your organization&#39;s control: maybe in your desk drawer or on a personal phone.
+=======
+**Note**: Most CRMs are overbuilt for the purposes we&#39;ll address today; I suggest you just use a pen.
+
+**Further Note**: this is sensitive information; and awkward conversations may occur if those people see your notes about them. If there is not a strong expectation of privacy in your organization, you may want to store these notes outside your organization&#39;s control: maybe in your desk drawer or on a personal phone.
+>>>>>>> preview
 
 For some, information outside security&#39;s control may sound like heresy. However, it&#39;s [not the only](https://www.dol.gov/general/topics/whistleblower) [valid](https://www.eeoc.gov/harassment) [use-case](https://en.wikipedia.org/wiki/Wells_Fargo_account_fraud_scandal). If these examples don&#39;t sound like a real need, realize you may be part of the cultural problem that caused those federal protections to be instituted.
 
