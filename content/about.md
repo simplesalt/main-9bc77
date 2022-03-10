@@ -1,8 +1,6 @@
 ---
 title: About Dylan
 subtitle: I'm here to help.
-img_path: images/dylan-headshot-90e78b7b.webp
-img_alt: Dylan Evans Headshot
 seo:
   title: About Me
   description: My approach and priorities
@@ -51,6 +49,6 @@ I am smart and get things done.  I find complicated, technical things easy and e
 
 *   Microsoft Certified: Azure Security Engineer Associate
 
-*   6Sigma Green Belt, Medtronic Quality Center of Excellence
+*   6Sigma Black Belt, ASQ
 
 *   BA Math and Chemistry, St. Olaf College
