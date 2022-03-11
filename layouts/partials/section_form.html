@@ -7,7 +7,7 @@
     {{ if $section.content }}
     {{ partial "markdownify-block" $section.content }}
     {{ end }}
-    <form name="{{ $section.form_id }}" id="{{ $section.form_id }}" {{ if $section.form_action }} action="{{ $section.form_action }}" {{ end }}method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
+    <form name="{{ $section.form_id }}" id="{{ $section.form_id }}" {{ if $section.form_action }} action="{{ $section.form_action }}" {{ end }}method="POST" >
       <div class="screen-reader-text">
         <label>Don't fill this out if you're human: <input name="bot-field" /></label>
       </div>

@@ -8,7 +8,7 @@ sections:
       Wanna tell me I'm full of it?  Interested in something?  Whatever it is,
       I'd love to hear it.  
     form_id: contactForm
-    form_action: /thank-you
+    form_action: /api/contactform
     form_fields:
       - input_type: text
         name: Name
