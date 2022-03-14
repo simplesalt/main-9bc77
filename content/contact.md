@@ -21,9 +21,5 @@ seo:
       value: This is the contact page
 layout: page
 hide_title: false
-sections:
-  - section_id: contact-me
-    content: >
-      Interested in something? Wanna tell me I'm full of it? Whatever it is, I'd [love to hear from you](mailto:dylan@saltyonsecurity.net).  
-
 ---
+Interested in something? Wanna tell me I'm full of it? Whatever it is, I'd [love to hear from you](mailto:dylan@saltyonsecurity.net).  
