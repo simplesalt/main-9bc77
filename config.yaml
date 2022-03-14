@@ -3,7 +3,6 @@ baseURL: /
 taxonomies:
   stub: stub
 disableKinds:
-  - RSS
   - taxonomy
   - taxonomyTerm
 markup:
@@ -11,4 +10,5 @@ markup:
     renderer:
       unsafe: true
 disqusShortname: saltyonsecurity-net
-googleAnalytics: G-WFY115RLD3
+googleAnalyticsID: G-WFY115RLD3
+domain: saltyonsecurity.net
