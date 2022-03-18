@@ -26,6 +26,11 @@
                 "style": "link"
             },
             {
+                "label": "Influences",
+                "url": "/influences/",
+                "style": "link"
+            },
+            {
                 "label": "Contact",
                 "url": "/contact/",
                 "style": "link"
