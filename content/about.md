@@ -1,8 +1,6 @@
 ---
 title: About Dylan
 subtitle: I'm here to help.
-img_path: images/dylan-headshot-90e78b7b.webp
-img_alt: Dylan Evans Headshot
 seo:
   title: About Me
   description: My approach and priorities
@@ -35,9 +33,11 @@ I want to help you find the most effective ways to solve your security problems.
 
 My mission is to persuade the people around me that they are valuable, worth loving, and are capable of good.
 
-I am smart and get things done.  I find complicated, technical things easy and enjoy explaining them simply.  I believe that scalable excellence depends on an honest assessment of the current state, so believe strongly in hard truths over pleasant lies.  I enjoy collaboration, high-trust environments, building people up, and long-term success.  
+I am smart and get things done.  I find complicated technical things easy and enjoy explaining them simply.  I believe that scalable excellence depends on an honest assessment of the current state, so believe strongly in hard truths over pleasant lies. I enjoy collaboration, high-trust environments, building people up, and long-term success. 
 
 ## Credentials
+
+*   6Sigma Black Belt, ASQ
 
 *   PMP
 
@@ -50,7 +50,5 @@ I am smart and get things done.  I find complicated, technical things easy and e
 *   Microsoft Certified: Azure Solutions Architect Expert
 
 *   Microsoft Certified: Azure Security Engineer Associate
-
-*   6Sigma Green Belt, Medtronic Quality Center of Excellence
 
 *   BA Math and Chemistry, St. Olaf College

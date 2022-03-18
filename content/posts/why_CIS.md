@@ -1,10 +1,10 @@
 ---
-title: CIS 1 Explained
+title: Why CIS
 excerpt: >-
   The Critical Security Controls (CIS, aka CIS Top 20) is a great framework.  Many other people think so too; it’s exploded in popularity in the last 10 years.  There are 4 big reasons why.
 date: '2020-12-10'
 seo:
-  title: CIS 1 Explained
+  title: Why CIS
   description: >-
     The CIS Controls say the most important thing to do to secure your computers is to have a list of all your stuff.
   extra:
@@ -12,7 +12,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: CIS 1 Explained
+      value: Why CIS
       keyName: property
     - name: 'og:description'
       value: >-
@@ -21,7 +21,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: CIS 1 Explained
+      value: Why CIS
     - name: 'twitter:description'
 layout: post
 ---
@@ -51,15 +51,16 @@ The ideas in CIS Top 20 are specific and easy for technical people to understand
 
 <pre>Configure devices to not auto-run content from removable media.</pre>
 
-![autoplay GPO](/images/autoplay%20GPO.png)Most IT administrators know exactly how to do this.  For Windows computers, it’s a setting that they can go click, and is also available by GPO.  In Linux, it’s a setting within a configuration file, and enforceable with Ansible.  This idea boils down to, “make sure all the computers have the right box checked” in their settings.  Either it’s checked or it’s not.  
+![autoplay GPO](/images/autoplayGPO.png)
+Most IT administrators know exactly how to do this.  For Windows computers, it’s a setting that they can go click, and is also available by GPO.  In Linux, it’s a setting within a configuration file, and enforceable with Ansible.  This idea boils down to, “make sure all the computers have the right box checked” in their settings.  Either it’s checked or it’s not.  
 
 By contrast, consider ISO 27002 control 6.3f:
 
-<pre>When designing a backup plan, the following items should be taken into consideration:
-
-…
-
-f.  in situations where confidentiality is of importance, backups should be protected by means of encryption.</pre>
+> When designing a backup plan, the following items should be taken into consideration:
+>
+>…
+>
+> f.  in situations where confidentiality is of importance, backups should be protected by means of encryption.
 
 If you’re a backup admin and asked to do this control, there’s a lot of subjective decisions you need to make:
 
