@@ -1,7 +1,7 @@
 ---
 title: "Better Security through solid UX"
 subtitle: "Building influence the boring way: making people's lives better"
-date: '2022-03-01'
+date: '2022-03-21'
 excerpt: >-
   This week we dial up the crazy: If you want to improve perception of your team, put some real energy into improving user experience.  
 seo:

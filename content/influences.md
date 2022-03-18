@@ -7,12 +7,9 @@ seo:
   extra: []
 layout: page
 ---
-# Recommended Reading
-
 I’ve found the following thinkers and projects influential to how I approach my work and life.
 
-Usually, the practices that generate excellent security also generate efficient, consistent, high-quality products and services. While there are some best practices and knowledge unique to security, it is mostly technical and fundamentally transient: the most important security issues of 10 years ago rarely apply today, and there’s no reason to think that
-the challenges and accompanying strategies of today will apply in 10 years. The only enduring patterns deeply coincide with good design.
+Usually, the practices that generate excellent security also generate efficient, consistent, high-quality products and services. While there are some best practices and knowledge unique to security, it is mostly technical and fundamentally transient: the most important security issues of 10 years ago rarely apply today, and there’s no reason to think that the challenges and accompanying strategies of today will apply in 10 years. The only enduring patterns deeply coincide with good design.
 
 ## About People
 
