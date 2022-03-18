@@ -10,7 +10,7 @@ seo:
   robots: []
   extra: []
 layout: post
-thumb_img_path: /images/ilovecrazy.jpg
+thumb_img_path: /images/ilovecrazy.png
 thumb_img_alt: Dial up the crazy
 ---
 After [raining on your parade](https://saltyonsecurity.net/posts/notjob0/) and then telling you to be [a better marketer](https://saltyonsecurity.net/posts/securitymarketing/) and that [everyone already hates you](https://saltyonsecurity.net/posts/marketing2baggage/), we&#39;re gonna dial up the crazy this week and propose something that I&#39;ve never heard anyone in security seriously propose: put some real energy into good user experience.
@@ -31,7 +31,7 @@ Further, different people approaching the same task will find different designs 
 
 ## Your Mission
 
-![Mission Impossible](/images/mission impossible.webp)
+![Mission Impossible](/images/missionimpossible.webp)
 
 In User Experience Design, you tailor the product&#39;s features and design so that the intended use is as easy as possible. The UI/UX profession has standardized on User Stories as the best place to organize and methodically explore how different kinds of people might use the product so they can make sure the design decisions match.
 
