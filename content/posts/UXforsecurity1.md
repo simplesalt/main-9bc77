@@ -1,7 +1,7 @@
 ---
 title: "Better Security through solid UX"
 subtitle: "Building influence the boring way: making people's lives better"
-date: '2022-03-17'
+date: '2022-03-18'
 excerpt: >-
   This week we dial up the crazy: If you want to improve perception of your team, put some real energy into improving user experience.  
 seo:
@@ -41,7 +41,7 @@ A User Story starts with an archetype of a person. It details that person&#39;s 
 
 The most important part of each story is the &quot;why.&quot; What is their goal? What are their motivations?
 
-The UI designer then considers how easy it would be to achieve each User Story in the current product. **The product should** :
+The UI designer then considers how easy it would be to achieve each User Story in the current product. **The product should**:
 
 - Work in the way the user expects it. They shouldn&#39;t need a manual and negative points for surprises.
 - Organize information and options in the way they expect.
