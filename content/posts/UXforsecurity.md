@@ -68,7 +68,7 @@ As with any continuous improvement, don&#39;t spend resources collecting informa
 
 # Next Steps
 
-How have you modelled the experience of your users? What has been successful? What didn&#39;t work? I&#39;d love to hear about it; leave a comment below or drop me [a line](mailto:dylan@saltyonsecurity.net). Join me next week as we demo User Stories with a model product, then pull useful lessons for improvement from them.
+How have you modelled the experience of your users? What has been successful? What didn&#39;t work? I&#39;d love to hear about it; leave a comment below or drop me [a line](mailto:dylan@saltyonsecurity.net). Join me next time as we demo User Stories with a model product, then pull useful lessons for improvement from them.
 
 ## Further resources
 
