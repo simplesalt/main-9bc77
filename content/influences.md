@@ -17,7 +17,7 @@ the challenges and accompanying strategies of today will apply in 10 years. The 
 ## About People
 
 ### [Joel Spolsky](https://www.joelonsoftware.com/)
-Although he doesn’t post much anymore, his thoughts on leading technical teams are as true now as they were 20 years ago. I read two of his [recommended](https://www.google.com/books/edition/Peopleware/DVlsAQAAQBAJ)[books](https://www.google.com/books/edition/\_/20zXQQAACAAJ) and also recommend them. I especially appreciate his guide to UI/UX design, which share a lot in common with Shingo’s ideas about mistake-proofing.
+Although he doesn’t post much anymore, his thoughts on leading technical teams are as true now as they were 20 years ago. I read two of his [recommended](https://www.google.com/books/edition/Peopleware/DVlsAQAAQBAJ) [books](https://www.google.com/books/edition/\_/20zXQQAACAAJ) and also recommend them. I especially appreciate his guide to UI/UX design, which share a lot in common with Shingo’s ideas about mistake-proofing.
 
 ### [Richard Feynman](https://en.wikipedia.org/wiki/Surely_You%27re_Joking,\_Mr.\_Feynman!) 
 The celebrated [sex symbol](https://calisphere.org/item/10bedb2c1485caf64e851f4e75fe0214/) of theoretical physics, Dr. Feynman wrote two books that combine commentary on human nature with anecdotes from his crazy life. He has written one of the most compelling arguments about how science can control a fundamental human failing: to lie to ourselves. His commentary on cargo cults also highlights the pitfalls of prioritizing the shape of a solution over its function.
