@@ -1,7 +1,6 @@
 <!doctype html>
 <html lang="en">
     <head>    
-      {{ partial "analytics-gtag.html" . }}
         <title>{{ if .Params.seo.title }}{{ $.Params.seo.title }}{{ else }}{{ print print $.Title " | " $.Site.Data.config.title }}{{ end }}</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -28,6 +27,7 @@
         {{ end }}
         
     </head>
+    {{ if .Site.Params.googleAnalyticsID}}<noscript><iframe src="//www.googletagmanager.com/ns.html?id={{ .Site.Params.googleAnalyticsID }}" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>{{ end }}
     <body>
         
         <div id="page" class="site style-{{ .Site.Data.config.layout_style }} palette-{{ .Site.Data.config.palette }}">
