@@ -1,5 +1,42 @@
-title:  Salty On Security
 baseURL: /
+title: Salty On Security
+layout_style: overflow
+palette: blue
+header:
+  title: Salty On Security
+  tagline: Dylan Evans
+  profile_img: images/dylan-headshot.webp
+  profile_img_alt: Dylan Evans
+  background: light
+  has_nav: true
+  nav_links:
+    - label: Home
+      url: /
+      style: link
+    - label: Blog
+      url: /blog/
+      style: link
+    - label: About
+      url: /about/
+      style: link
+    - label: Influences
+      url: /influences/
+      style: link
+    - label: Contact
+      url: /contact/
+      style: link
+  has_social: true
+  social_links:
+    - label: LinkedIn
+      url: 'https://www.linkedin.com/in/dylanevans-makesecuritysimple/'
+      style: icon
+      icon_class: linkedin
+      new_window: true
+footer:
+  content: '&copy; Dylan Evans. All rights reserved. '
+  links: []
+domain: 'https://saltyonsecurity.net'
+
 taxonomies:
   stub: stub
 disableKinds:
@@ -12,7 +49,6 @@ markup:
 disqusShortname: saltyonsecurity-net
 gtm_id: G-WFY115RLD3
 domain: saltyonsecurity.net
-
 sitemap:
   changefreq: weekly
   filename: sitemap.xml
