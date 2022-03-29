@@ -12,6 +12,7 @@ markup:
 disqusShortname: saltyonsecurity-net
 googleAnalyticsID: G-WFY115RLD3
 domain: saltyonsecurity.net
+
 sitemap:
   changefreq: weekly
   filename: sitemap.xml
