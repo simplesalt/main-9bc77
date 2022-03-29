@@ -10,7 +10,7 @@ markup:
     renderer:
       unsafe: true
 disqusShortname: saltyonsecurity-net
-googleAnalyticsID: G-WFY115RLD3
+gtm_id: G-WFY115RLD3
 domain: saltyonsecurity.net
 
 sitemap:
