@@ -27,9 +27,9 @@
         {{ end }}
         
     </head>
-    {{ if .Site.Params.googleAnalyticsID}}<noscript><iframe src="//www.googletagmanager.com/ns.html?id={{ .Site.Params.googleAnalyticsID }}" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>{{ end }}
+    
     <body>
-        
+      {{ if .Site.Params.gtm_id}}<noscript><iframe src="//www.googletagmanager.com/ns.html?id={{ .Site.Params.gtm_id }}" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>{{ end }}
         <div id="page" class="site style-{{ .Site.Data.config.layout_style }} palette-{{ .Site.Data.config.palette }}">
           {{ partial "header.html" . }}
           <div id="content" class="site-content">
