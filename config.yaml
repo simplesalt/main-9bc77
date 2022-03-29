@@ -9,7 +9,6 @@ markup:
     renderer:
       unsafe: true
 disqusShortname: saltyonsecurity-net
-
 domain: saltyonsecurity.net
 sitemap:
   changefreq: weekly
