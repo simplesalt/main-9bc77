@@ -116,7 +116,7 @@ Other optimizations may not require meaningful capital expenditure – perhaps t
 
 There may also be intangible opportunities suggested by User Stories. A consistently bad authentication experience probably manifests through angry calls to the service desk for password resets or other help. If the service desk frequently blames &quot;Security&quot; to divert that anger and protect themselves, that could systematically reduce the credibility and influence of the Security Team. Security wouldn&#39;t even know: who has the time to listen in on Service Desk calls?
 
-In all cases, user stories should be prioritized. If Barry&#39;s first story is unique to only 5 people and is only needed several times a month, maybe optimizing for it should be at the bottom of the list. If Barry&#39;s second story applies to many people (Maybe a lot of Emmas have that problem too), it could be a top priority.
+In all cases, user stories should be prioritized. If Barry&#39;s first story is unique to only 5 people and is only needed several times a month, maybe optimizing for it should be at the bottom of the list. If Barry&#39;s second story applies to many people (Maybe a lot of Janets have that problem too), it could be a top priority.
 
 # Lessons
 
