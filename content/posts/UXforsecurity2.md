@@ -19,7 +19,7 @@ After defining your personas, you define user stories: what they would want to d
 
 # Product: Basic Requirements
 
-As security professionals, we know that for a moderately competent authentication stack, this must:
+As security professionals, we know that a moderately competent authentication stack must:
 
 - Capture some non-repudiatable, encrypted secret that uniquely identifies each person.
 - Capture data that could be transformed into quality indicators of compromise or risk – source IP, device fingerprinting, etc.
@@ -88,7 +88,7 @@ _As_ Emma, _I want to_ handle fewer password reset requests _so that_ fewer peop
 
 ### User Story 2.2
 
-_As_ Emma, _I want_ the CRM to be more resistant tocred-stuffing attacks _so that_ I worry less about the CRM getting compromised and the resulting firestorm of response work to me and my team.
+_As_ Emma, _I want_ the CRM to be more resistant to cred-stuffing attacks _so that_ I worry less about the CRM getting compromised and the resulting firestorm of response work to me and my team.
 
 # Identified Opportunities
 
