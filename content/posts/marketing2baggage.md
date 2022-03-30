@@ -14,15 +14,17 @@ layout: post
 thumb_img_path: /images/publictrust.jpg
 thumb_img_alt: Security Teams could be more trusted.
 ---
-Most IT professionals are familiar with [greenfield and brownfield](https://en.wikipedia.org/wiki/Greenfield_project) and know that greenfield projects are always better; dealing with old mistakes and compromises made by other people is not fun. The patterns of greenfield and brownfield also apply to relationships: partnerships and trust are a capability like any other, with tools, operational excellence, and KPIs to match. Unfortunately, when joining an organization, relational greenfield is mostly a myth. Most leaders get brownfield, inheriting everyone&#39;s perceptions and associations about their team, predecessor, and industry. 
+Last week, [I laid out an overview](https://saltyonsecurity.net/posts/securitymarketing/) of how you can use standard best practices of sales and marketing to achieve your security goals.  Today, we'll talk through some common barriers in that strategy and what you can do.  
 
 # Security&#39;s Brownfield Problem
+
+Most IT professionals are familiar with [greenfield and brownfield](https://en.wikipedia.org/wiki/Greenfield_project) and know that greenfield projects are always better; dealing with old mistakes and compromises made by other people is less fun. The patterns of greenfield and brownfield also apply to relationships: partnerships and trust are a capability like any other, with tools, operational excellence, and KPIs to match. Unfortunately, when joining an organization, relational greenfield is mostly a myth. Most leaders get brownfield, inheriting everyone&#39;s perceptions and associations about their team, predecessor, and industry. 
 
 Many people perceive security to be a barrier to progress. They have stories about how they wanted something good for them or their team, and Security said no. They have stories about how Security made them build more things they didn&#39;t need or buy a more expensive product or extend their project timeline for unclear reasons. They believe that Security is a bunch of anal-retentive, perfectionist, power-tripping idiots who would never make it in the real world.
 
 If this is your narrative, it&#39;s clear that avoiding Security is your best bet for success.
 
-There is an ugly cycle here: a team tries to avoid the Security team, builds an insecure capability, then Security finds out and escalates to Legal, the CIO, or the CFO. The team is then forced to bolt-on some security measures to their already-in-use product that makes it annoying. They resent Security and feel even more strongly that Security only causes problems. Security resents them for unnecessarily exposing the organization to risk that Security will have to step in and rescue them from, especially because the bolt-on measures will never be as strong as a capability built with security in mind. Everyone loses in this scenario.
+There is an ugly cycle here: a team tries to avoid the Security team, builds a vulnerable capability, then Security finds out and escalates to Legal, the CIO, or the CFO. The team is then forced to bolt-on some security measures to their already-in-use product that makes it annoying. They resent Security and feel even more strongly that Security only causes problems. Security resents them for unnecessarily exposing the organization to risk that Security will have to step in and rescue them from, especially because the bolt-on measures will never be as strong as a capability built with security in mind. Everyone loses in this scenario.
 
 ![Trust in Security teams is sometimes low](/images/publictrust.jpg)
 
