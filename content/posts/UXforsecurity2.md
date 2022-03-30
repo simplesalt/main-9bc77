@@ -82,11 +82,11 @@ Emma doesn&#39;t log in to the CRM, but gets a lot of calls from people who do. 
 | ![Emma's internal monologue when dealing with Sales](/images/CSRperspective.jpeg) |
 |:---:|
 | *Emma's internal monologue when dealing with Sales* |
-### User Story 2.1
+### User Story 3.1
 
 _As_ Emma, _I want to_ handle fewer password reset requests _so that_ fewer people will be grumpy at me and give me more time to work on interesting projects.
 
-### User Story 2.2
+### User Story 3.2
 
 _As_ Emma, _I want_ the CRM to be more resistant to cred-stuffing attacks _so that_ I worry less about the CRM getting compromised and the resulting firestorm of response work to me and my team.
 
