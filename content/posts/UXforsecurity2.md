@@ -51,7 +51,7 @@ _As_ Janet, _I want to_ log in quickly _so that_ I can update my customer record
 
 _As_ Janet, _I want to_ stay logged in _so that_ I don&#39;t have to waste time logging in again.
 
-### Persona 2: Barry
+## Persona 2: Barry
 
 Barry, 68, has worked for the company for 46 years; his only distractions from work are on TV; he loves the Broncos and true crime drama. He is an accountant and pulls sales forecasting data out of the CRM several times a month as part of his FP&amp;A work.
 
@@ -71,7 +71,7 @@ _As_ Barry, _I want to_ quickly access sales data _so that_ I can do sales repor
 
 _As_ Barry, _I want to_ avoid dealing with passwords _so that_ I waste less time on failed logins and the resets process.
 
-### Persona 3: Emma
+## Persona 3: Emma
 
 Emma, 26, loves knitting and true crime podcasts. She has worked for the company for 15 months, doing tier 1 security operations: password resets, virus alerts, and phishing reports. She wants to move to security engineering, and volunteers for special projects when they come up.
 
@@ -112,7 +112,7 @@ A CASB may also improve security through capturing high-quality indicators of co
 
 Other optimizations may not require meaningful capital expenditure – perhaps the 10-minute timeout was a system default that nobody considered when implementing and raising it to 30 minutes would smooth the experience for a fair number of users without adding much security risk.
 
-### Thread 3
+## Thread 3
 
 There may also be intangible opportunities suggested by User Stories. A consistently bad authentication experience probably manifests through angry calls to the service desk for password resets or other help. If the service desk frequently blames &quot;Security&quot; to divert that anger and protect themselves, that could systematically reduce the credibility and influence of the Security Team. Security wouldn&#39;t even know: who has the time to listen in on Service Desk calls?
 
