@@ -86,6 +86,7 @@ To deliver on this strategy, it can be helpful to write a little charter for eac
   - Auditors
   - Customers
 
+
 - **Media/Presentation style**. Everybody [learns differently](https://vark-learn.com/). If a message is important for many people to understand, consider delivering it in different ways:
 
   - &quot;Sales Slick&quot; style: lots of white space, color, and pictures. This works best for the most people, and should be your standby for diverse groups such as new employees and distracted executives.
@@ -93,6 +94,7 @@ To deliver on this strategy, it can be helpful to write a little charter for eac
   - &quot;Policy&quot; style: sometimes you just have a lot to say, and the words you use are important. Lawyers, auditors, and perfectionist IT engineers usually eat this up.
   - &quot;Demo&quot; style: Demonstrating what you want people to do using a concrete example can make it real in ways a policy never can. Recorded or live.
   - Q&amp;A style: Usually best paired with a live presentation or demo. Encouraging people to ask questions about can really increase understanding and buy-in. Even better, it often identifies flaws so you can improve.
+
 
 - **The main message**. 
 
@@ -102,6 +104,7 @@ To deliver on this strategy, it can be helpful to write a little charter for eac
   - &quot;Explain to developers why they should pay attention to SAST&quot;
   - &quot;Explain to developers why good CI/CD governance helps average release quality and fewer security bugs.&quot;
   - &quot;Explain to workers how and why to report a phishing attempt.&quot;
+
 
 - _Bonus_: **What does success look like**?
 
