@@ -40,6 +40,7 @@ Whenever she wants to use the CRM, she must log in. She occasionally mis-types h
 She often spends more than 10 minutes when on the phone with a customer, so usually gets logged out of the CRM. This frustrates her because she loses her train of thought once she&#39;s done with the call – the record she called isn&#39;t on the screen anymore because logging in returns her to the CRM home screen. This frequently leads to more LinkedIn doomscrolling.
 
 | ![Janet with her dogs](/images/janet.jpg) |
+|---|
 | *Janet and her dog* |
 
 ### User Story 1.1
@@ -59,6 +60,7 @@ Barry, 68, has worked for the company for 46 years; his only distractions from w
 He finds the new CRM much harder and frustrating than the previous system, which let him connect directly to the backend database with a non-expiring stored credential. He forgets or mis-types his password frequently, so sets it to something very simple. His new passwords are often rejected because he recently used them. He is impatient with the authentication process and thinks the security and IT teams are a bunch of dramatic busybodies.
 
 | ![Barry resetting passwords](/images/wrongpassword.jpeg) |
+|---|
 | *How Barry feels when resetting passwords* |
 
 ### User Story 2.1
@@ -78,6 +80,7 @@ Emma, 26, loves knitting and true crime podcasts. She has worked for the company
 Emma doesn&#39;t log in to the CRM, but gets a lot of calls from people who do. She gets more password reset requests about it than any other application, and thinks the Sales teams are the most entitled, disrespectful, and impatient in the company. She doesn&#39;t have a lot of respect for the judgement of senior Sales and IT leaders because the CRM&#39;s security is so poor; the authentication barely meets the requirements and doesn&#39;t provide many useful indicators of unauthorized access.
 
 | ![Emma's internal monologue when dealing with Sales](/images/CSRperspective.jpeg) |
+|---|
 | *Emma's internal monologue when dealing with Sales* |
 
 ### User Story 2.1
