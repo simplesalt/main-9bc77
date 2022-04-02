@@ -53,5 +53,3 @@ I am smart and get things done.  I find complicated technical things easy and en
 
 *   BA Math and Chemistry, St. Olaf College
 
-
-## testing push ability
