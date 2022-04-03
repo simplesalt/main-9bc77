@@ -113,7 +113,6 @@ pre {
 blockquote {
   border-bottom: 1px solid _palette(secondary);
   border-top: 3px solid _palette(secondary);
-  font-family: 'Source Code Pro', monospace;
   font-size: 1.88889em;
   line-height: 1.25;
   margin: 2rem 0;
@@ -126,6 +125,7 @@ blockquote {
 
   p {
     margin-bottom: 0.5em;
+    font-family: 'Source Code Pro', monospace;
 
     &:last-child {
       margin-bottom: 0;
