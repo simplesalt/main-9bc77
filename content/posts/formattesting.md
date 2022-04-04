@@ -1,17 +1,17 @@
 ---
-title: "Better Security through solid UX 2: An example"
-subtitle: "We look at an example security capability and write some user stories"
-date: '2022-03-30'
+title: "Testing 2"
+subtitle: "Bananas"
+date: '2022-04-02'
 excerpt: >-
-  We extend the principles of User Experience to a practical example: authenticating to a CRM.
+  We do some testing.
 seo:
-  title: "Better Security through solid UX 2: An example"
-  description: "We extend the principles of User Experience to a practical example: authenticating to a CRM"
+  title: "Testing 2"
+  description: "Bananas"
   robots: []
   extra: []
 layout: post
-thumb_img_path: /images/wrongpassword.jpeg
-thumb_img_alt: Wrong Password Purgatory
+thumb_img_path: /images/hamiltondroppingopinions.png
+thumb_img_alt: Some more stuff
 ---
 [Last week](https://saltyonsecurity.net/posts/uxforsecurity1/), we discussed how User Experience design can help you identify the best opportunities to improve the experience of your internal customers. Today, we&#39;ll make those lessons real with an extended example, constructing some user stories within the experience of authenticating to a model CRM. Each starts with a persona, a fictitious person that represent the perspective of a meaningful portion of your users. I&#39;ve included personal details for each. While not necessary for assessing different user experiences, it&#39;s often helpful when starting out to help your design team empathize with users and their perspectives.
 
