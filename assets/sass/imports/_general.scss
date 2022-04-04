@@ -414,7 +414,11 @@ img {
   height: auto;
   max-width: 100%;
 }
-
+p {
+  img{
+    max-width: 100%;
+  }
+}
 .post-image,
 .post-content,
 .block {
