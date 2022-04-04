@@ -401,13 +401,7 @@ video {
 /* Images */
 img {
   height: auto;
-  
-}
-p {
-  img{
-
-  }
-}
+  max-width: 100%;
 
 .post-image,
 .post-content,
