@@ -34,7 +34,7 @@ seo:
       relativeUrl: true
 layout: post
 ---
-At DevOpsDays KC, several people expressed interest in this [CI/CD pipeline picture](/images/sample%20CICD%20flow.pdf).  The pipeline is designed to help large-ish groups (5+) of developers to contribute to the same codebase.  In the spirit of devops, this pipeline is not intended to be built all at once.  Find your maturity level (color-coded, lower left) and then work on the next best improvement. 
+At DevOpsDays KC, several people expressed interest in this [CI/CD pipeline picture](/images/sampleCICDflow1.pdf).  The pipeline is designed to help large-ish groups (5+) of developers to contribute to the same codebase.  In the spirit of devops, this pipeline is not intended to be built all at once.  Find your maturity level (color-coded, lower left) and then work on the next best improvement. 
 
 Maturity levels are ranked by priority and dependence: there's not a lot of value in doing library governance if you aren't using a central repo and automating your builds and deployments.  
 

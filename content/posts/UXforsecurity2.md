@@ -55,7 +55,7 @@ _As_ Janet, _I want to_ stay logged in _so that_ I don&#39;t have to waste time 
 
 Barry, 68, has worked for the company for 46 years; his only distractions from work are on TV; he loves the Broncos and true crime drama. He is an accountant and pulls sales forecasting data out of the CRM several times a month as part of his FP&amp;A work.
 
-#### What is Barry&#39;s likely experience?
+### What is Barry&#39;s likely experience?
 
 He finds the new CRM much harder and frustrating than the previous system, which let him connect directly to the backend database with a non-expiring stored credential. He forgets or mis-types his password frequently, so sets it to something very simple. His new passwords are often rejected because he recently used them. He is impatient with the authentication process and thinks the security and IT teams are a bunch of dramatic busybodies.
 
@@ -75,7 +75,7 @@ _As_ Barry, _I want to_ avoid dealing with passwords _so that_ I waste less time
 
 Emma, 26, loves knitting and true crime podcasts. She has worked for the company for 15 months, doing tier 1 security operations: password resets, virus alerts, and phishing reports. She wants to move to security engineering, and volunteers for special projects when they come up.
 
-#### What is Emma&#39;s likely experience?
+### What is Emma&#39;s likely experience?
 
 Emma doesn&#39;t log in to the CRM, but gets a lot of calls from people who do. She gets more password reset requests about it than any other application, and thinks the Sales teams are the most entitled, disrespectful, and impatient in the company. She doesn&#39;t have a lot of respect for the judgement of senior Sales and IT leaders because the CRM&#39;s security is so poor; the authentication barely meets the requirements and doesn&#39;t provide many useful indicators of unauthorized access.
 
