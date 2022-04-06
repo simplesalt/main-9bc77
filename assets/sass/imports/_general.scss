@@ -113,7 +113,7 @@ pre {
 blockquote {
   border-bottom: 1px solid _palette(secondary);
   border-top: 3px solid _palette(secondary);
-  font-size: 1.88889em;
+  font-size: 1.55556em;
   line-height: 1.25;
   margin: 2rem 0;
   padding-bottom: 1.66667rem;
@@ -164,6 +164,10 @@ ul,
 ol {
   margin: 0 0 1.66667em;
   padding: 0 0 0 1.33333em;
+  
+}
+ul {
+  font-family: _font(secondary);
 }
 
 li > ul,
@@ -378,6 +382,10 @@ input[type="reset"],
   width: 2.33333em;
 }
 
+.menu-item {
+  font-family: _font(primary);
+}
+
 #menu-toggle {
   background: 0;
   border: 0;
@@ -403,10 +411,14 @@ video {
 
 /* Images */
 img {
-  height: auto;
+  //height: auto;
   max-width: 100%;
 }
-
+p {
+  img{
+    max-width: 100%;
+  }
+}
 .post-image,
 .post-content,
 .block {
@@ -426,6 +438,7 @@ img {
   padding: 0;
   position: absolute !important;
   width: 1px;
+  font-family: _font(secondary);
 }
 
 /* Heading underline */
