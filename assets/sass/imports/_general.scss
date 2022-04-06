@@ -22,6 +22,7 @@ a {
   transition: border .3s ease, color .3s ease;
 
   &:hover {
+    color: _palette(accent);
     border-color: _palette(accent-blue);
     text-decoration: _palette(accent-blue);
   }
