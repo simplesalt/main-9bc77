@@ -60,11 +60,11 @@ Interested in something? Wanna tell me I'm full of it? Whatever it is, I'd [love
 
   <div class="form-group">
       <label for="name">Name</label>
-        <input type="text" class="form-control" name="name" id="name" placeholder="Your name"/>
+        <input type="text" class="form-control" name="name" id="name" placeholder="Your name:"/>
           </div>
           <div class="form-group">
             <label for="eml">Email</label>
-            <input type="email" class="form-control validate validate_userEmail" name="eml" id="eml" placeholder="Your email" />
+            <input type="email" class="form-control validate validate_userEmail" name="eml" id="eml" placeholder="Your email:" />
           </div>
           <div class="form-group">
             <label for="message">Message</label>
@@ -73,7 +73,7 @@ Interested in something? Wanna tell me I'm full of it? Whatever it is, I'd [love
               class="form-control validate validate_msgText"
               name="message"
               id="message"
-              placeholder="Your message"
+              placeholder="Your message:"
             ></textarea>
           </div>
           <div class="form-group">
