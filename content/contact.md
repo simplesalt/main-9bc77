@@ -120,8 +120,7 @@ Interested in something? Wanna tell me I'm full of it? Whatever it is, I'd [love
   <script> $(document).on("submit", "form.ajax-form", function(e) {
       e.preventDefault();
       var currentForm = $(this);
-      $("[type=submit]", currentForm).attr("disabled", "disabled");
-            $(".msg-container", currentForm)
+      $("[type=submit]", currentForm).attr("disabled", "disabled"); $(".msg-container", currentForm)
         .html("")
         .attr("class", "msg-container text-center")
         .css("display", "hidden");
@@ -136,18 +135,12 @@ Interested in something? Wanna tell me I'm full of it? Whatever it is, I'd [love
         data: formData
       })
         .then(function(response) {
-          var hand = setTimeout(function() {
-            // clear the form if form submitted successfully
-            $(currentForm).trigger("reset");
-            // show returned message
-            $(".msg-container", currentForm)
+          var hand = setTimeout(function() { $(currentForm).trigger("reset"); $(".msg-container", currentForm)
               .addClass("alert alert-success")
               .html(response.data["message"])
               .css("display", "none");
             // enable submit button again
-            var btnLabel = $("[type=submit]", currentForm).data("btn-label");
-            $("[type=submit]", currentForm).removeAttr("disabled");
-            $("[type=submit]", currentForm).html(btnLabel);
+            var btnLabel = $("[type=submit]", currentForm).data("btn-label");$("[type=submit]", currentForm).removeAttr("disabled");$("[type=submit]", currentForm).html(btnLabel);
             clearTimeout(hand);
           }, 1000);
         })
@@ -155,9 +148,7 @@ Interested in something? Wanna tell me I'm full of it? Whatever it is, I'd [love
             .addClass("alert alert-danger")
             .html(error.response.data["message"])
             .css("display", "block");
-          var btnLabel = $("[type=submit]", currentForm).data("btn-label");
-          $("[type=submit]", currentForm).removeAttr("disabled");
-          $("[type=submit]", currentForm).html(btnLabel);
+          var btnLabel = $("[type=submit]", currentForm).data("btn-label");$("[type=submit]", currentForm).removeAttr("disabled");$("[type=submit]", currentForm).html(btnLabel);
           console.log(error);
         });
       return false;
