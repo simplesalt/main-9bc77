@@ -119,30 +119,17 @@ Interested in something? Wanna tell me I'm full of it? Whatever it is, I'd [love
   <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
   <script> $(document).on("submit", "form.ajax-form", function(e) {
       e.preventDefault();
-      var currentForm = $(this); // Get current form object
-    // disable submit button
+      var currentForm = $(this);
       $("[type=submit]", currentForm).attr("disabled", "disabled");
-      // clean up the msg container
-      $(".msg-container", currentForm)
+            $(".msg-container", currentForm)
         .html("")
         .attr("class", "msg-container text-center")
         .css("display", "hidden");
       // remove fields error classes
       currentForm.find(".is-invalid").removeClass("is-invalid");
       // add preloader
-      $("[type=submit]", currentForm).html(
-        $("[type=submit]", currentForm).data("btn-label-processing")
-      );
-
-      let formData = $(this)
-        .serializeArray()
-        .map(
-          function(x) {
-            this[x.name] = x.value;
-            return this;
-          }.bind({})
-        )[0];
-
+      $("[type=submit]", currentForm).html( $("[type=submit]", currentForm).data("btn-label-processing"));
+      let formData = $(this) .serializeArray() .map( function(x) { this[x.name] = x.value; return this; }.bind({}) )[0];
       axios({
         method: $(this).attr("method"),
         url: $(this).attr("action"),
@@ -152,13 +139,11 @@ Interested in something? Wanna tell me I'm full of it? Whatever it is, I'd [love
           var hand = setTimeout(function() {
             // clear the form if form submitted successfully
             $(currentForm).trigger("reset");
-
             // show returned message
             $(".msg-container", currentForm)
               .addClass("alert alert-success")
               .html(response.data["message"])
               .css("display", "none");
-
             // enable submit button again
             var btnLabel = $("[type=submit]", currentForm).data("btn-label");
             $("[type=submit]", currentForm).removeAttr("disabled");
@@ -166,21 +151,15 @@ Interested in something? Wanna tell me I'm full of it? Whatever it is, I'd [love
             clearTimeout(hand);
           }, 1000);
         })
-        .catch(function(error) {
-          // show returned message
-          $(".msg-container", currentForm)
+        .catch(function(error) { $(".msg-container", currentForm)
             .addClass("alert alert-danger")
             .html(error.response.data["message"])
             .css("display", "block");
-
-          // enable submit button again
           var btnLabel = $("[type=submit]", currentForm).data("btn-label");
           $("[type=submit]", currentForm).removeAttr("disabled");
           $("[type=submit]", currentForm).html(btnLabel);
-
           console.log(error);
         });
-
       return false;
     });
   </script>
