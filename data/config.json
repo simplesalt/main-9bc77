@@ -40,9 +40,16 @@
         "social_links": [
             {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/in/dylanevans-makesecuritysimple/",
+                "url": "https://www.linkedin.com/in/dylanevans-makesecuritysimple",
                 "style": "icon",
                 "icon_class": "linkedin",
+                "new_window": true
+            },
+            {
+                "label": "twitter",
+                "url": "https://twitter.com/simplesaltsec",
+                "style": "icon",
+                "icon_class": "twitter",
                 "new_window": true
             }
         ]
