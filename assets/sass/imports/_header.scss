@@ -130,9 +130,12 @@
   list-style: none;
   margin: 0;
   padding: 0;
-  
-  a{ color: _palette(primary); text-decoration: none; transition: all 50ms ease-in-out;}
+}
 
+.ToC a { 
+  color: _palette(primary); 
+  text-decoration: none; 
+  transition: all 50ms ease-in-out;
 }
 
 .ToC a:hover,
