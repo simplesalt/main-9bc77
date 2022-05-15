@@ -15,7 +15,7 @@ thumb_img_alt: Wrong Password Purgatory
 ---
 [Last week](https://saltyonsecurity.net/posts/uxforsecurity1/), we discussed how User Experience design can help you identify the best opportunities to improve the experience of your internal customers. Today, we&#39;ll make those lessons real with an extended example, constructing some user stories within the experience of authenticating to a model CRM. Each starts with a persona, a fictitious person that represent the perspective of a meaningful portion of your users. I&#39;ve included personal details for each. While not necessary for assessing different user experiences, it&#39;s often helpful when starting out to help your design team empathize with users and their perspectives.
 
-After defining your personas, you define user stories: what they would want to do with your product, and why. User Stories are often condensed into a short card that follows the form, &quot;As \&lt;persona\&gt;, I want to \&lt;feature\&gt; so that I can \&lt;goal\&gt;&quot;. Experienced UX teams can usually go straight from personas to realistic User Stories, but I&#39;ve included narratives to help you bridge that gap.
+After defining your personas, you define user stories: what they would want to do with your product, and why. User Stories are often condensed into a short card that follows the form, &quot;As &lt;persona&gt;, I want to &lt;feature&gt; so that I can &lt;goal&gt;&quot;. Experienced UX teams can usually go straight from personas to realistic User Stories, but I&#39;ve included narratives to help you bridge that gap.
 
 # Product: Basic Requirements
 
