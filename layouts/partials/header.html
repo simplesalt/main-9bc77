@@ -64,6 +64,10 @@
           </div><!-- .site-nav-inside -->
         </div><!-- .site-nav-wrap -->
       </nav><!-- .site-navigation -->
+      {{ if gt (len .TableOfContents) 80}}
+      <nav id="TableofContents" class="site-navigation" aria-label="Table of Contents">
+        {{ .TableOfContents }}
+      </nav>
       {{ end }}
 
     </div><!-- .site-header-inside -->
