@@ -135,6 +135,7 @@
 .ToC a { 
   color: _palette(primary); 
   text-decoration: none; 
+  border-bottom: none;
   transition: all 50ms ease-in-out;
 }
 
