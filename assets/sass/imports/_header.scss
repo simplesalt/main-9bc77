@@ -124,6 +124,7 @@
 
 .ToC {
   font-size: 12px;
+  align-items: baseline;
   top: 2rem;
   line-height: 1.5;
   letter-spacing: 0.15em;
@@ -142,6 +143,12 @@
 .ToC a:hover,
 .ToC a:focus {
 	color: _palette(primary);
+}
+
+.ToC ul, ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
 .ToC li.active > a {
