@@ -8,6 +8,9 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+  tableOfContents:
+    endLevel: 2
+    startLevel: 1
 disqusShortname: saltyonsecurity-net
 domain: saltyonsecurity.net
 sitemap:
