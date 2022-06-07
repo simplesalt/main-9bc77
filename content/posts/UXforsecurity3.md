@@ -36,7 +36,7 @@ When he installs new hardware, Frankie updates the CMDB by uploading a CSV with 
 
 Frankie never puts his name on the assets he uploads because he doesn't want confused executives or application teams calling him in the middle of the night asking if he can fix their outage—if it was his problem to fix, he'd already have an automated text about it.
 
-He has painful memories of being forced to apply a patch to quickly eliminate a vulnerability, but the patch caused overnight alerts, downtime, angry people, and had to be painfully reverted. These make him distrust the security team, and he has a personal policy of only applying patches after they've been out for 6 months.
+He has painful memories of being forced to apply a patch to quickly eliminate a vulnerability, but the patch caused problems later that night: he got overnight alerts, downtime, angry people, and had to be painfully reverted. These make him distrust the security team, and he has a personal policy of only applying patches after they've been out for 6 months.
 
 Updating assets works well for Frankie, but his assets don't provide useful information to anyone else. He doesn't want tickets about outages or to patch his systems and wouldn't respond to them anyway. Several times, other IT busybodies (including security) have tried to get him to add metadata to his assets, but his manager stuck up for him, saying that they don't have the resources.
 
