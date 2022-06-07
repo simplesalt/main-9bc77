@@ -14,7 +14,7 @@ thumb_img_path: /images/sarah_executive.jpg
 thumb_img_alt: Sarah
 ---
 
-Last time, we introduced User Experience and how it can help you improve perceptions of the security team and your overall influence. Last week, we made it real with a practical example about authenticating to a CRM. Today, we'll extend with another example, writing 6 more user stories centered on adding assets to a CMDB at a hypothetical organization. We will leave common threads and best next steps as an exercise, with my observations the following week.
+[Earlier,](/posts/uxforsecurity1/), we introduced User Experience and how it can help you improve perceptions of the security team and your overall influence. [Last time](/posts/uxforsecurity2), we made it real with a practical example about authenticating to a CRM. Today, we'll extend with another example, writing 6 more user stories centered on adding assets to a CMDB at a hypothetical organization. We will leave common threads and best next steps as a thought experiment for you, with my observations the following week.
 
 Perhaps you, like many, subscribe to the [wisdom of CIS](https://saltyonsecurity.net/posts/why_cis/) and campaign for an accurate [IT Asset Inventory](https://saltyonsecurity.net/posts/cis1_1/). Working with the IT Infrastructure and the CMDB teams, you've plumbed in [discovery](https://saltyonsecurity.net/posts/cis1_3-5/) of on-prem server assets with your vulnerability scanner.
 
