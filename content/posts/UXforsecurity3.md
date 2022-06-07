@@ -1,4 +1,22 @@
-Better Security through Solid UX: Example Two
+---
+title: "Better Security through Solid UX 3: Another example"
+subtitle: "What's the user experience of your CMDB?"
+date: '2022-066-30'
+excerpt: >-
+  Perhaps you, like many, subscribe to the wisdom of CIS and campaign for an accurate IT Asset Inventory. Working with the IT Infrastructure and the CMDB teams, you've plumbed in discovery of on-prem server assets with your vulnerability scanner.
+
+You still need IT people to add useful information to the discovered assets, and need them to manually add cloud-hosted assets and worker endpoints.
+
+Consider the following user stories for managing IT Assets in the CMDB. Next week, we’ll unravel common threads, opportunities, and potential fixes.
+seo:
+  title: "Better Security through solid UX 3: Another example"
+  description: "What's the user experience of your CMDB?"
+  robots: []
+  extra: []
+layout: post
+thumb_img_path: /images/sarah_executive.jpg
+thumb_img_alt: Sarah
+---
 
 Last time, we introduced User Experience and how it can help you improve perceptions of the security team and your overall influence. Last week, we made it real with a practical example about authenticating to a CRM. Today, we'll extend with another example, writing 6 more user stories centered on adding assets to a CMDB at a hypothetical organization. We will leave common threads and best next steps as an exercise, with my observations the following week.
 
