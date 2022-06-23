@@ -53,13 +53,13 @@ No clear value
 The most likely root cause for observed frustration might be that the CMDB’s value isn’t clear. If there is value to its existence and accuracy, it should be narrowly tailored to deliver that value at the least cost and friction to the organization. That value should also be used to drive investment in accuracy such as automatic data sources. If the data is needed, paying people to manually update records is a poor financial decision; each integration will probably pay for itself in several months. If the data is not worth the cost, discontinue the façade of collecting it.
 
 
-| ![Nobody got time for that!](/images/nobodygottime.jpg) |
+| ![Nobody got time for that!](/images/nobodygottime.jpeg) |
 |:---:|
 | *A fundamental truth of human nature: ain't nobody got time, especially for that.* |
 
 The value proposition of the CMDB will also inform design decisions about the desired experience. If the intended value of the CMDB is merely IT governance such as configuration, patching, and change management, there’s no point to recording SaaS apps like Sarah’s. If it’s used for security, compliance governance, and informing enterprise risk decisions, the CMDB should include SaaS apps and the forms should be adjusted to enable that intent.
 
-Not designed for (internal) customers
+## Not designed for (internal) customers
 
 Frequently, teams and departments that don’t directly serve external customers implicitly prioritize their own efficiency over the teams they serve. This can be a culture problem or KPI problem or even a making-work-visible problem, and it shows up in lots of places.
 
@@ -73,7 +73,7 @@ The conversations usually happen the same way: imagine a network engineer is try
 | ![A fence in front of a well-trodden path.](/images/notmyjob.jpg) |
 |:---:|
 | *Ineffective attempts to control behavior abound.* |
-\<notmyjob.jpg\>
+\<notmyjob.jpeg\>
 
 Over the next three years, the server request form accumulates eight other mandatory fields that help other fulfillers solve edge cases, but adds time and friction to the form. More and more customers try to circumvent the form or just develop unsanctioned ways of getting through it with the least pain possible.
 
