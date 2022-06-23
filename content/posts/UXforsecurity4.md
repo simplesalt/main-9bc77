@@ -70,10 +70,10 @@ Sometimes this manifests as “not my job” or “please refile ticket in X”,
 The conversations usually happen the same way: imagine a network engineer is trying to parse a server request ticket for what segmentation rules apply. The network engineer feels like the world would be a much better place if server requesters just took a minute to understand the current VLAN design and told him where their server should fit, so he petitions the server request team to add “VLAN ID” to the form and make it mandatory so those lazy architects would actually do their job before coming to him to implement their half-baked plan. The network engineer isn’t directly affected by the increased frustration that his change caused to requests that don’t need VLAN assignment (most of them), so he still sees the change as beneficial, despite potentially costing hundreds of wasted hours every year while maybe saving him ten.
 
 
-| ![A fence in front of a well-trodden path.](/images/notmyjob.jpg) |
+| ![A fence in front of a well-trodden path.](/images/notmyjob.jpeg) |
 |:---:|
 | *Ineffective attempts to control behavior abound.* |
-\<notmyjob.jpeg\>
+
 
 Over the next three years, the server request form accumulates eight other mandatory fields that help other fulfillers solve edge cases, but adds time and friction to the form. More and more customers try to circumvent the form or just develop unsanctioned ways of getting through it with the least pain possible.
 
