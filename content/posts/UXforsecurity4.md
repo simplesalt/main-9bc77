@@ -48,7 +48,7 @@ The answer to these questions depends on your organization, but in my experience
 
 # Lessons
 
-No clear value
+## No clear value
 
 The most likely root cause for observed frustration might be that the CMDB’s value isn’t clear. If there is value to its existence and accuracy, it should be narrowly tailored to deliver that value at the least cost and friction to the organization. That value should also be used to drive investment in accuracy such as automatic data sources. If the data is needed, paying people to manually update records is a poor financial decision; each integration will probably pay for itself in several months. If the data is not worth the cost, discontinue the façade of collecting it.
 
@@ -77,6 +77,6 @@ The conversations usually happen the same way: imagine a network engineer is try
 
 Over the next three years, the server request form accumulates eight other mandatory fields that help other fulfillers solve edge cases, but adds time and friction to the form. More and more customers try to circumvent the form or just develop unsanctioned ways of getting through it with the least pain possible.
 
-## Takeaways
+# Takeaways
 
 Do you see other root causes, threads, or possible fixes? If you were tasked by the CIO to fix CMDB accuracy and these were the results of your initial user story generation, what would you do first? What next?
