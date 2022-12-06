@@ -10,25 +10,17 @@ sections:
     form_action: /api/contactform
     form_fields:
       - input_type: text
-        name: Name
-        label: You
+        name: You
         is_required: true
         default_value: Name
       - input_type: email
         name: email
-        label: Email
         default_value: Your email
         is_required: true
       - input_type: textarea
         name: message
-        label: Message
         default_value: Your message
-      - input_type: checkbox
-        name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
-    submit_label: Send Message
+    submit_label: Send
 seo:
   title: Contact
   description: This is the contact page
