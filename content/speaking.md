@@ -8,7 +8,7 @@ seo:
 layout: advanced
 sections:
   - section_id: available-topics
-    type: section_form
+    type: section_content
     content: >
       Talks and workshops I frequently deliver are listed below. Each can be adapted to fill a slot between from 30 and 60 minutes. Custom topics and setups are also available upon request; inquire below. 
 
