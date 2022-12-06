@@ -31,6 +31,11 @@
                 "style": "link"
             },
             {
+                "label": "Speaking",
+                "url": "/speaking/",
+                "style": "link"
+            },
+            {
                 "label": "Contact",
                 "url": "/contact/",
                 "style": "link"
