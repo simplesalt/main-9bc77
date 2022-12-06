@@ -47,4 +47,3 @@ Also available as a 90-minute workshop; each participant will generate an action
 ### Why most Lean Six Sigma initiatives fail
 
 Since the 1980s, the business world has been awash in Lean or Six Sigma efforts. Often billed as the path for transformations to unlock double or triple-digit growth, they usually fail to deliver and are cut at the next reorg. Yet every decade since has been dotted with highly successful organizations that swear by its principles. This talk explains the underlying value proposition of Lean Six Sigma, why most companies fail at it, and how to unlock the value it promises.
----
