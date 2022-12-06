@@ -11,7 +11,7 @@ sections:
   - section_id: available-topics
     type: section_content
     content: 
-      Talks and workshops I frequently deliver are listed below. Each can be adapted to fill a slot between from 30 and 60 minutes. Custom topics and setups are also available upon request; inquire below. 
+      "Talks and workshops I frequently deliver are listed below. Each can be adapted to fill a slot between from 30 and 60 minutes. Custom topics and setups are also available upon request; inquire below. 
 
       ## For Consumers
 
@@ -50,7 +50,7 @@ sections:
       Since the 1980s, the business world has been awash in Lean or Six Sigma efforts. Often billed as the path for transformations to unlock double or triple-digit growth, they usually fail to deliver and are cut at the next reorg. Yet every decade since has been dotted with highly successful organizations that swear by its principles. This talk explains the underlying value proposition of Lean Six Sigma, why most companies fail at it, and how to unlock the value it promises.
 
       ## Book a Talk
-      Please include your desired topic, length, date, venue, audience profile, and any other details you think relevant.
+      Please include your desired topic, length, date, venue, audience profile, and any other details you think relevant."
   - section_id: speaking-form
     type: section_form
     form_id: SpeakingForm
