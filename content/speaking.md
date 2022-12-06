@@ -8,15 +8,41 @@ seo:
   extra: []
 layout: advanced
 sections:
+  - section_id: speaking-form
+    type: section_form
+    content: Please include your desired topic, length, date, venue, audience profile, and any other details you think relevant.
+    form_id: SpeakingForm
+    form_action: /api/contactform
+    form_fields:
+      - input_type: text
+        name: Name
+        label: You
+        is_required: true
+        default_value: Name
+      - input_type: email
+        name: email
+        label: Email
+        default_value: Your email
+        is_required: true
+      - input_type: textarea
+        name: message
+        label: Your desired topic
+        default_value: 
+      - input_type: checkbox
+        name: consent
+        label: >-
+          I understand that this form is storing my submitted information so I
+          can be contacted.
+    submit_label: Send Message
   - section_id: available-topics
     type: section_content
-    content: 
+    content: >
       "Talks and workshops I frequently deliver are listed below. Each can be adapted to fill a slot between from 30 and 60 minutes. Custom topics and setups are also available upon request; inquire below. 
 
       ## For Consumers
 
       ### The Only Way to Stop Identity Theft
-      There is a lot of press, scare tactics, and snake oil in the identity-protection world. We separate what works from what doesn't. Sneak peek - effective protection is surprisingly easy. Also available as a 90-minute workshop; participants will apply the protections for themselves and get easy-to-follow procedures for maintaining them.
+      There are a lot of scare tactics and snake oil in the identity-protection world. We separate what works from what doesn't. Sneak peek - effective protection is surprisingly easy. Also available as a 90-minute workshop; participants will apply the protections for themselves and get easy-to-follow procedures for maintaining them.
 
       ### How to stop Internet crime and save time 
       Passwords are annoying, and it seems impossible to follow all the advice. Password Managers are here to save your day - used correctly, they are also one of the best ways to stop internet crime. We explain how. Also appropriate for leaders of businesses 5-50. Also available as a workshop; participants set up a recommended password manager on their devices and learn to use it correctly. 
@@ -49,31 +75,5 @@ sections:
       ### Why most Lean Six Sigma initiatives fail
       Since the 1980s, the business world has been awash in Lean or Six Sigma efforts. Often billed as the path for transformations to unlock double or triple-digit growth, they usually fail to deliver and are cut at the next reorg. Yet every decade since has been dotted with highly successful organizations that swear by its principles. This talk explains the underlying value proposition of Lean Six Sigma, why most companies fail at it, and how to unlock the value it promises.
 
-      ## Book a Talk
-      Please include your desired topic, length, date, venue, audience profile, and any other details you think relevant."
-  - section_id: speaking-form
-    type: section_form
-    form_id: SpeakingForm
-    form_action: /api/contactform
-    form_fields:
-      - input_type: text
-        name: Name
-        label: You
-        is_required: true
-        default_value: Name
-      - input_type: email
-        name: email
-        label: Email
-        default_value: Your email
-        is_required: true
-      - input_type: textarea
-        name: message
-        label: Your desired topic
-        default_value: 
-      - input_type: checkbox
-        name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
-    submit_label: Send Message
+
 ---
