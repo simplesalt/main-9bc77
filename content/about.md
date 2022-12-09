@@ -29,27 +29,29 @@ seo:
       relativeUrl: true
 layout: page
 ---
-I want to help you find the most effective ways to solve your security problems.  I believe strongly in well-chosen metrics, continuous improvement, and doing simple things well.
+I help people find the most effective ways to stop internet crime.  I approach most challenges through continuous improvement, well-chosen metrics, and doing simple things well.  I make hard things easy. 
 
-My mission is to persuade the people around me that they are valuable, worth loving, and are capable of good.
+I am here to help make things better. My top priority is to persuade the people around me that they are valuable, worth loving, and are capable of good.  
 
-I am smart and get things done.  I find complicated technical things easy and enjoy explaining them simply.  I believe that scalable excellence depends on an honest assessment of the current state, so believe strongly in hard truths over pleasant lies. I enjoy collaboration, high-trust environments, building people up, and long-term success. 
+I find complicated concepts easy and enjoy explaining them simply. 
 
 ## Credentials
 
-*   6Sigma Black Belt, ASQ
+### Execution & Operations
+*   [6Sigma Black Belt](https://asq.org/quality-resources/six-sigma/belts-executives-champions)
 
-*   PMP
+*   [PMP](https://www.pmi.org/certifications/project-management-pmp)
+### Traditional Cybersecurity
 
-*   CISSP
+*   [CISSP](https://en.wikipedia.org/wiki/Certified_Information_Systems_Security_Professional)
 
-*   AWS Solutions Architect – Professional
+### Cloud Systems Design
 
-*   AWS Security - Specialty
+*   [AWS Solutions Architect – Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
 
-*   Microsoft Certified: Azure Solutions Architect Expert
+*   [AWS Security - Specialty](https://aws.amazon.com/certification/certified-security-specialty)
 
-*   Microsoft Certified: Azure Security Engineer Associate
+*   [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/)
 
-*   BA Math and Chemistry, St. Olaf College
+*   [Microsoft Certified: Azure Security Engineer Associate](https://learn.microsoft.com/en-us/certifications/azure-security-engineer/)
 
