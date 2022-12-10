@@ -52,14 +52,20 @@ h1 {
 
 h2 {
   font-size: 1.88889em;
+  color: _palette(accent-dark);
+  font-weight: normal;
+  font-style: italic;
 }
 
 h3 {
   font-size: 1.55556em;
+  color: _palette(accent-dark);
+  font-weight: normal;
 }
 
 h4 {
   font-size: 1.33333em;
+  font-style: italic;
 }
 
 h5 {
