@@ -37,7 +37,7 @@ I bring clarity to projects, teams, and strategies. Throughout my years in cyber
 
 I frequently speak on security, process design, and management strategy. If you are interested in booking me for an event or workshop, [go here](/book-speaking).
 
-## [Simple Salt](simple-salt.com)
+## [Simple Salt](https://simple-salt.com)
 
 I started Simple Salt to help underserved businesses prevent internet crime through simple changes to the way they handle risky activities. The conventional tech and compliance approach proscribed by the security industry is cost-prohibitive and ineffective against modern internet crime for smaller organizations. We apply unconventional, process-first strategies that meaningfully address the everyday threats that end businesses.  
 
