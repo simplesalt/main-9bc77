@@ -5,7 +5,9 @@ sections:
   - section_id: contact-form
     type: section_form
     content: >
-      Interested in something?  Wanna tell me I'm full of it?  Whatever it is, I'd love to hear it.  
+      Interested in something?  Want to chat? I'd love to hear from you.
+
+      If you want to book me for speaking, [go here](/book_speaking).
     form_id: contactForm
     form_action: /api/contactform
     form_fields:

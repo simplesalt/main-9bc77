@@ -29,11 +29,22 @@ seo:
       relativeUrl: true
 layout: page
 ---
-I help people find the most effective ways to stop internet crime.  I approach most challenges through continuous improvement, well-chosen metrics, and doing simple things well.  I make hard things easy. 
+I make hard things easy. I approach most challenges through continuous improvement, well-chosen metrics, and doing simple things well. 
 
-I am here to help make things better. My top priority is to persuade the people around me that they are valuable, worth loving, and are capable of good.  
+I bring clarity to projects, teams, and strategies. Throughout my years in cybersecurity, I've noticed that adjustments to business process and management strategy usually deliver better results than the conventional practice of extra tech spend. Many businesses overspend on security for only nominal protection, usually because their security priorities or strategy are unclear. 
 
-I find complicated concepts easy and enjoy explaining them simply. 
+## [Speaking](/speaking)
+
+I frequently speak on security, process design, and management strategy. If you are interested in booking me for an event or workshop, [go here](/book-speaking).
+
+## [Simple Salt](simple-salt.com)
+
+I started Simple Salt to help underserved businesses prevent internet crime through simple changes to the way they handle risky activities. The conventional tech and compliance approach proscribed by the security industry is cost-prohibitive and ineffective against modern internet crime for smaller organizations. We apply unconventional, process-first strategies that meaningfully address the everyday threats that end businesses.  
+
+## Personal
+My top priority is to persuade the people around me that they are valuable, worth loving, and are capable of good. I have little use for performative work, shame, or pleasant lies. I am here to make things better; to identify and execute on my next right step and help others do the same.
+
+
 
 ## Credentials
 
