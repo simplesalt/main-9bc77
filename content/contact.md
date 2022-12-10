@@ -5,30 +5,24 @@ sections:
   - section_id: contact-form
     type: section_form
     content: >
-      Interested in something?  Wanna tell me I'm full of it?  Whatever it is, I'd love to hear it.  
+      Interested in something?  Want to chat? I'd love to hear from you.
+
+      If you want to book me for speaking, [go here](/book_speaking).
     form_id: contactForm
     form_action: /api/contactform
     form_fields:
       - input_type: text
-        name: Name
-        label: You
+        name: You
         is_required: true
         default_value: Name
       - input_type: email
         name: email
-        label: Email
         default_value: Your email
         is_required: true
       - input_type: textarea
         name: message
-        label: Message
         default_value: Your message
-      - input_type: checkbox
-        name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
-    submit_label: Send Message
+    submit_label: Send
 seo:
   title: Contact
   description: This is the contact page

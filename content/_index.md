@@ -6,16 +6,20 @@ sections:
     type: section_hero
     title: Salty On Security
     content: |
-      Opinions about security and organization health.
+      Opinions about security, management strategy, and organizational culture.
   - section_id: about
     type: section_content
-    title: About
     content: >
-      Security is misunderstood. It's not as complicated as it seems, and there's a lot of common sense available if you want it. Further, the
-      practices that make products and organizations excellent tend to also generate strong security. I'd like to share these with you.
+      Security is misunderstood. It's not as complicated as it seems, and there's a lot of common sense available if you want it. Further, the practices that make products and organizations excellent tend to also generate strong security. 
     actions:
-      - label: Hit me up
+      - label: Get in touch
         url: /contact
+        style: button
+      - label: More about me
+        url: /about
+        style: button
+      - label: Speaking and Workshops
+        url: /speaking
         style: button
   - section_id: recent-posts
     type: section_posts
