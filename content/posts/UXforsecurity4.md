@@ -1,7 +1,7 @@
 ---
-title: "Better Security through Solid UX: Example Two, part 2"
+title: "Better Security through Solid UX 4: Example Two, continued"
 subtitle: "We look at an example security capability and write some user stories"
-date: '2022-06-13'
+date: '2022-12-06'
 excerpt: >-
   Last time, we talked through six user stories across three personas in IT Asset Management. Today, I’ll walk through what jumped out at me — please comment with your thoughts and considerations — there’s a lot going on here.
 seo:
@@ -70,7 +70,7 @@ Sometimes this manifests as “not my job” or “please refile ticket in X”,
 The conversations usually happen the same way: imagine a network engineer is trying to parse a server request ticket for what segmentation rules apply. The network engineer feels like the world would be a much better place if server requesters just took a minute to understand the current VLAN design and told him where their server should fit, so he petitions the server request team to add “VLAN ID” to the form and make it mandatory so those lazy architects would actually do their job before coming to him to implement their half-baked plan. The network engineer isn’t directly affected by the increased frustration that his change caused to requests that don’t need VLAN assignment (most of them), so he still sees the change as beneficial, despite potentially costing hundreds of wasted hours every year while maybe saving him ten.
 
 
-| ![A fence in front of a well-trodden path.](/images/notmyjob.jpeg) |
+| ![A fence in front of a well-trodden path.](/images/myjobisdone.jpeg) |
 |:---:|
 | *Ineffective attempts to control behavior abound.* |
 
