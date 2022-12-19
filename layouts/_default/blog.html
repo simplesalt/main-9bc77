@@ -12,7 +12,7 @@
         <div class="post-inside">
           {{ if $post.Params.thumb_img_path }}
           <a class="post-thumbnail" href="{{ $post.RelPermalink }}">
-            <img src="{{ $post.Params.thumb_img_path | relRelPermalink }}" alt="{{ $post.Params.thumb_img_alt }}" />
+            <img src="{{ $post.Params.thumb_img_path | RelPermalink }}" alt="{{ $post.Params.thumb_img_alt }}" />
           </a>
           {{ end }}
           <header class="post-header">
