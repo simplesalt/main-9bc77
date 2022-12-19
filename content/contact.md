@@ -22,6 +22,9 @@ sections:
       - input_type: textarea
         name: message
         default_value: Your message
+      - input_type: CheckBox
+        name: bot_field
+        display: none
     submit_label: Send
 seo:
   title: Contact
