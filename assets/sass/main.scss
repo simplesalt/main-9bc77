@@ -3,7 +3,7 @@
 $font: (
   primary: ('Source Sans Pro', sans-serif),
   secondary: ('Source Serif Pro', serif),
-  monospace: ('Source Code Pro',monospace)
+  monospace: ('Source Code Pro',"Andale Mono","Ubuntu Mono",monospace)
 );
 
 // Palette.
@@ -13,10 +13,10 @@ $palette: (
   meta:          lighten(#555e69, 25%),
   border:        lighten(#555e69, 55%),
   bg:            lighten(#555e69, 60%),
-  accent-green:  #b7ce63,
+  accent:        #1de2bc,
   accent-blue:   #10bcf9,
-  accent-violet:   #466365,
-  accent-orange:  #c7d59f
+  accent-violet: #9371e6,
+  accent-orange: #fc6e51
 );
 
 @import "imports/functions";
