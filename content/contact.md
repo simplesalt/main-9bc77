@@ -19,9 +19,6 @@ sections:
         name: email
         default_value: Your email
         is_required: true
-      - input_type: CheckBox
-        name: bot_field
-        display: none
       - input_type: textarea
         name: message
         default_value: Your message
