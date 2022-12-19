@@ -24,7 +24,7 @@ sections:
         default_value: Your message
       - input_type: CheckBox
         name: bot_field
-        style: "display: none"
+        style: "display:none"
     submit_label: Send
 seo:
   title: Contact
