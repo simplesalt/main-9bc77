@@ -10,7 +10,7 @@ layout: page
 ---
 I speak at events, conventions, and seminars; see below for a list of common topics. Each can be adapted to fill a slot between thirty and sixty minutes long. Custom topics and setups are available upon request.
 
-See something you like? Book engagements [here](https://saltyonsecurity.net/book_speaking).
+See something you like? Book engagements [here](/book_speaking).
 
 ## For Consumers
 

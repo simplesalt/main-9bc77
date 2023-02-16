@@ -17,13 +17,13 @@ sections:
       - input_type: text
         name: Name
         is_required: true
-        default_value: Name
+        default_value: Your name
       - input_type: email
         name: email
         default_value: Your email
         is_required: true
       - input_type: textarea
         name: message
-        default_value: Please include your desired topic, length, date, venue, audience profile, and any other details you think relevant.
+        default_value: Please include your desired topic, length, date, venue, audience profile, and any other details.
     submit_label: Request a talk
 ---
