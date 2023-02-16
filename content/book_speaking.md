@@ -10,8 +10,7 @@ layout: advanced
 sections:
   - section_id: speaking-form
     type: section_form
-    content:  See [here](/speaking) for a list of common topics for talks and workshops. Custom topics and setups are also available upon request. 
-    Use the form below to book Dylan for a talk.
+    content:  Use the form below to book Dylan for a talk. See [here](/speaking) for a list of common topics for talks and workshops. Custom topics and setups are also available upon request. 
     form_id: SpeakingForm
     form_action: /api/contactform
     form_fields:
