@@ -4,13 +4,14 @@ hide_title: false
 excerpt: 'Book Dylan for talks and workshops. Custom topics and setups are also available upon request'
 seo:
   title: Speaking
-  description: 'I speak at events for a variety of audiences.'
+  description: 'I speak at events for a variety of audiences.' 
   extra: []
 layout: advanced
 sections:
   - section_id: speaking-form
     type: section_form
-    content:  See [here](/speaking) for a list of common topics for talks and workshops.
+    content:  See [here](/speaking) for a list of common topics for talks and workshops. Custom topics and setups are also available upon request. 
+    Use the form below to book Dylan for a talk.
     form_id: SpeakingForm
     form_action: /api/contactform
     form_fields:
