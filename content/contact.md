@@ -23,8 +23,7 @@ sections:
         name: message
         default_value: Your message
       - input_type: CheckBox
-        name: bot_field
-        style: "display: none"
+        name: newsletter_consent
     submit_label: Send
 seo:
   title: Contact

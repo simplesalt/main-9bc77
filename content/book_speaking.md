@@ -23,7 +23,7 @@ sections:
         default_value: Your email
         is_required: true
       - input_type: CheckBox
-        name: bot_field
+        name: newsletter_consent
         display: none
       - input_type: textarea
         name: message
