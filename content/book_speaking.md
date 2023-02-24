@@ -24,7 +24,8 @@ sections:
         is_required: true
       - input_type: CheckBox
         name: newsletter_consent
-        display: hidden
+        display: none
+        appearance: none
       - input_type: textarea
         name: message
         default_value: Please include your desired topic, length, date, venue, audience profile, and any other details.

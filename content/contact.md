@@ -24,7 +24,8 @@ sections:
         default_value: Your message
       - input_type: CheckBox
         name: newsletter_consent
-        display: hidden
+        display: none
+        appearance: none
     submit_label: Send
 seo:
   title: Contact
