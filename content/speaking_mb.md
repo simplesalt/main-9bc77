@@ -1,9 +1,9 @@
 ---
 title: Speaking - Medium Businesses
 hide_title: false
-excerpt: 'Practical approaches to avoiding internet crime for leaders of businesses between 100-500. Talks focus on dispelling myths, easy wins, and luddite-friendly explanations. '
+excerpt: 'Practical approaches to avoiding internet crime for leaders of businesses between 100-500. Talks focus on dispelling myths, easy wins, and luddite-friendly explanations.'
 seo:
- title: title: Speaking - Medium Businesses
+ title: Speaking - Medium Businesses
  description: 'I explain how medium businesses can best stop internet crime.'
  extra: []
 layout: page
