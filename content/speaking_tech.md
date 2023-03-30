@@ -1,7 +1,7 @@
 ---
 title: Speaking - Tech Audiences
 hide_title: false
-excerpt: 'I make security strategy practical by demystifying common security misconceptions to IT, developer, and cybersecurity teams.
+excerpt: 'I make security strategy practical by demystifying common security misconceptions to IT, developer, and cybersecurity teams.'
 seo:
  title: Speaking - Tech Audiences
  description: 'I speak at IT, developer, and security events.'
