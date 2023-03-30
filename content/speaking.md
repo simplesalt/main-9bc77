@@ -1,16 +1,25 @@
 ---
 title: Speaking
 hide_title: false
-excerpt: 'Talks and workshops I frequently deliver are listed below. Each can be adapted to fill a slot between from 30 and 60 minutes. Custom topics and setups are also available upon request'
+excerpt: 'I make security exciting; educating community and professional audiences about practical ways to stop internet crime from affecting them. I focus on dispelling myths, easy wins, and luddite-friendly explanations.'
 seo:
  title: Speaking
- description: 'I speak at events for a variety of audiences.'
+ description: 'I explain how to stop internet crime at community and professional events.'
  extra: []
 layout: page
 ---
-I speak at events, conventions, and seminars; see below for a list of common topics. Each can be adapted to fill a slot between thirty and sixty minutes long. Custom topics and setups are available upon request.
+I make security exciting; educating community and professional audiences about practical ways to stop internet crime from affecting them. I focus on dispelling myths, easy wins, and luddite-friendly explanations. 
 
-See something you like? Book engagements [here](/book_speaking).
+Not sure what topics would be best? Browse common talks by audience:
+
+- [For the public](/speaking_public) 
+- [For leaders of organizations 10-100](/speaking_sb)
+- [For leaders of organizations 100-500](/speaking_mb)
+- [For technical audiences](/speaking_tech)
+
+Ready? Book engagements [here](/book_speaking).
+
+Media inquiries: find a press kit [here](/static/images/dylan_one_sheet.pdf). 
 
 ## For Consumers
 
@@ -20,9 +29,9 @@ There are a lot of scare tactics and snake oil in the identity-protection world.
 
 Also available as a ninety-minute workshop; participants will apply the protections for themselves and get easy-to-follow procedures for maintaining them.
 
-### How to Stop Internet Crime and Save Time
+### Protect Yourself and Get More Done: Password Managers Done Right
 
-Passwords are annoying, and it feels impossible to follow all the advice. Password Managers are here to save your day. Used correctly, they are one of the best ways to stop internet crime. We explain how.
+Passwords are annoying, and it feels impossible to follow all the advice. Password Managers are here to save your day. Used correctly, they are one of the best ways to stop internet crime. I explain how.
 
 Equally appropriate for leaders of businesses 5–50.
 
