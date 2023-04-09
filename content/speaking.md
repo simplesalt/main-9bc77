@@ -19,4 +19,4 @@ Not sure what topics would be best? Browse common talks by audience:
 
 Ready? Book engagements [here](/book_speaking).
 
-Media inquiries: find a press kit [here](/static/images/dylan_one_sheet.pdf). 
+Media inquiries: find a press kit [here](/images/dylan_one_sheet.pdf). 
