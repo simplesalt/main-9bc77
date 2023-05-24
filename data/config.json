@@ -51,6 +51,27 @@
                 "new_window": true
             },
             {
+                "label": "Medium",
+                "url": "https://medium.com/@dylan-evans",
+                "style": "icon",
+                "icon_class": "medium",
+                "new_window": true
+            },
+            {
+                "label": "Mastodon",
+                "url": "https://infosec.exchange/@simplesalt",
+                "style": "icon",
+                "icon_class": "mastodon",
+                "new_window": true
+            },
+            {
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/in/dylanevans-makesecuritysimple",
+                "style": "icon",
+                "icon_class": "linkedin",
+                "new_window": true
+            },
+            {
                 "label": "twitter",
                 "url": "https://twitter.com/simplesaltsec",
                 "style": "icon",
