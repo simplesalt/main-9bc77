@@ -12,5 +12,5 @@ You can stay updated on my content through social platforms, see links in the le
 
 ##  Sensible Security Newsletter
 
-{{< hp5 "https://cdn.forms-content.sg-form.com/82f244fa-fa1d-11ed-9dd7-2257e72fde42" >}}
+{{<% hp5 "https://cdn.forms-content.sg-form.com/82f244fa-fa1d-11ed-9dd7-2257e72fde42" %>}}
 ---
