@@ -29,40 +29,40 @@ seo:
       relativeUrl: true
 layout: page
 ---
-I make hard things easy. I approach most challenges through continuous improvement, well-chosen metrics, and doing simple things well. 
+I make hard things easy. I approach most challenges through continuous improvement, well-chosen metrics, and doing simple things well.
 
-I bring clarity to projects, teams, and strategies. Throughout my years in cybersecurity, I've noticed that adjustments to business process and management strategy usually deliver better results than the conventional practice of extra tech spend. Many businesses overspend on security for only nominal protection, usually because their security priorities or strategy are unclear. 
+I bring clarity to projects, teams, and strategies. Throughout my years in cybersecurity, I've noticed that adjustments to business process and management strategy usually deliver better results than the conventional practice of extra tech spend. Many businesses overspend on security for only nominal protection.
 
-## [Speaking](/speaking)
+## Speaking
 
-I frequently speak on security, process design, and management strategy. If you are interested in booking me for an event or workshop, [go here](/book-speaking).
+I [frequently speak](/speaking) on security, process design, and management strategy. If you are interested in booking me for an event or workshop, [go here](/book-speaking).
 
-## [Simple Salt](https://simple-salt.com)
+## Simple Salt
 
-I started Simple Salt to help underserved businesses prevent internet crime through simple changes to the way they handle risky activities. The conventional tech and compliance approach proscribed by the security industry is cost-prohibitive and ineffective against modern internet crime for smaller organizations. We apply unconventional, process-first strategies that meaningfully address the everyday threats that end businesses.  
+I started [Simple Salt](https://simple-salt.com) to help underserved businesses prevent internet crime through simple changes to the way they handle risky activities. The conventional tech and compliance approach proscribed by the security industry is cost-prohibitive and ineffective against modern internet crime for smaller organizations. We apply creative, common-sense strategies that meaningfully address the everyday threats that end businesses.  
 
 ## Personal
-My top priority is to persuade the people around me that they are valuable, worth loving, and are capable of good. I have little use for performative work, shame, or pleasant lies. I am here to make things better; to identify and execute on my next right step and help others do the same.
 
-
+I persuade the people around me that they are valuable, worth loving, and are capable of good. I have no use for performative work, shame, or pleasant lies. I am here to make things better; to identify and execute on my next right step and help others do the same.
 
 ## Credentials
 
 ### Execution & Operations
-*   [6Sigma Black Belt](https://asq.org/quality-resources/six-sigma/belts-executives-champions)
 
-*   [PMP](https://www.pmi.org/certifications/project-management-pmp)
+* [6 Sigma Black Belt](https://asq.org/quality-resources/six-sigma/belts-executives-champions)
+
+* [PMP](https://www.pmi.org/certifications/project-management-pmp)
+
 ### Traditional Cybersecurity
 
-*   [CISSP](https://en.wikipedia.org/wiki/Certified_Information_Systems_Security_Professional)
+* [CISSP](https://en.wikipedia.org/wiki/Certified_Information_Systems_Security_Professional)
 
 ### Cloud Systems Design
 
-*   [AWS Solutions Architect – Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
+* [AWS Solutions Architect – Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
 
-*   [AWS Security - Specialty](https://aws.amazon.com/certification/certified-security-specialty)
+* [AWS Security - Specialty](https://aws.amazon.com/certification/certified-security-specialty)
 
-*   [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/)
+* [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/)
 
-*   [Microsoft Certified: Azure Security Engineer Associate](https://learn.microsoft.com/en-us/certifications/azure-security-engineer/)
-
+* [Microsoft Certified: Azure Security Engineer Associate](https://learn.microsoft.com/en-us/certifications/azure-security-engineer/)

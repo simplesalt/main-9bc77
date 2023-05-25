@@ -49,8 +49,28 @@ sourceMapping:
     target:
       file: config.yml
       fieldPath: 'params.header.social_links[3].url'
+        - source:
+      fieldPath: social.medium.url
+    target:
+      file: config.yml
+      fieldPath: 'params.header.social_links[3].url'
+        - source:
+      fieldPath: social.mastodon.url
+    target:
+      file: config.yml
+      fieldPath: 'params.header.social_links[3].url'
+        - source:
+      fieldPath: social.substack.url
+    target:
+      file: config.yml
+      fieldPath: 'params.header.social_links[3].url'
   - source:
       fieldPath: social.devto.url
+    target:
+      file: config.yml
+      fieldPath: 'params.header.social_links[4].url'
+  - source:
+      fieldPath: social.mastodon.url
     target:
       file: config.yml
       fieldPath: 'params.header.social_links[4].url'
@@ -486,6 +506,9 @@ models:
         options:
           - dev
           - facebook
+          - mastodon
+          - medium
+          - substack
           - github
           - instagram
           - linkedin
