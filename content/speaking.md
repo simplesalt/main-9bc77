@@ -8,7 +8,13 @@ seo:
  extra: []
 layout: page
 ---
-I make security exciting by educating community and professional audiences about practical ways to stop internet crime from affecting them. I focus on dispelling myths, and luddite-friendly explanations. 
+I make security easy and interesting. 
+
+Typical audience: | professionals
+Goal: | stop internet crime
+Focus: | easy wins
+| dispelling myths
+| no tech knowledge required
 
 Not sure what topics would be best? Browse common talks by audience:
 
