@@ -26,7 +26,9 @@
       <nav id="main-navigation" class="site-navigation" aria-label="Main Navigation">
         <div class="site-nav-wrap">
           <div class="site-nav-inside">
-
+            {{ if .Params.noindex }}
+            <meta name="robots" content="noindex" /> 
+            {{ end }}
             {{ if $.Site.Data.config.header.has_nav }}
             <ul class="menu">
               {{ range $action := $.Site.Data.config.header.nav_links }}
