@@ -64,13 +64,14 @@
                 "icon_class": "mastodon",
                 "new_window": true
             },
-            {
+//          fill in if you start using a substack
+/*            {
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/in/dylanevans-makesecuritysimple",
                 "style": "icon",
                 "icon_class": "substack",
                 "new_window": true
-            },
+            },*/
             {
                 "label": "twitter",
                 "url": "https://twitter.com/simplesaltsec",
