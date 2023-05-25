@@ -10,9 +10,9 @@ layout: page
 ---
 ## I believe
 
-The biggest lie we are told is that we should be enough by ourselves – to be independent, to be strong, to do it all yourself. To need help is shameful: an indication that you are a less-valuable person.
+The biggest lie is that we should be enough – to be independent, to be strong, to do it all yourself. To need help is shameful: an indication that you are a less-valuable person.
 
-The truth is that we are each deeply imperfect, and our best moments are when we accomplish things together, whether achieving together or asynchronously.
+The truth is that we are each deeply imperfect, and our best moments are when we accomplish things together, whether achieving at the same time or asynchronously.
 
 I am deeply interested in the wellbeing of the people around me and invest effort toward their benefit. I also value my time – there’s a lot I want to do. If you’re the same, let’s talk about how we could help each other.
 

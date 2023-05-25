@@ -8,15 +8,17 @@ seo:
   extra: []
 layout: page
 ---
+
+
 ## Introductions
 
 ### Content Partners
 
-I would like to meet thoughtful people who talk about risk in finance, legal, and technology. If you think we would have good chemistry and complementary messages, please let me know.
+I would like to meet thoughtful people who talk about risk in finance, legal, and technology. If you think we would have good chemistry and complementary messages, connect us.
 
 ## Event organizers
 
-I speak at industry events, demystifying security and internet crime. Connect me to people who need sensible security talks.
+I speak at industry events, demystifying security and internet crime. Connect me to people who need sensible security content.
 
 ### Referral partners
 
@@ -39,10 +41,13 @@ I look forward to helping you. Let me know:
 ### Referrals
 
 Who is your ideal client? Industry, size, culture, budget, problems.
+
 How do you most frequently engage with new clients? What are you most known for?
 
 ### Beyond customer acquisition
 
 What are your goals?
+
 What is your biggest bottleneck or problem?
+
 Who would you like to meet?
