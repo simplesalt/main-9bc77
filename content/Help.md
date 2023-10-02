@@ -40,14 +40,14 @@ I look forward to helping you. Let me know:
 
 ### Referrals
 
-Who is your ideal client? Industry, size, culture, budget, problems.
+ - Who is your ideal client? Industry, size, culture, budget, problems.
 
-How do you most frequently engage with new clients? What are you most known for?
+ - How do you most frequently engage with new clients? What are you most known for?
 
 ### Beyond customer acquisition
 
-What are your goals?
+ - What are your goals?
 
-What is your biggest bottleneck or problem?
+ - What is your biggest bottleneck or problem?
 
-Who would you like to meet?
+ - Who would you like to meet?
