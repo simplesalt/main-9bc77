@@ -10,12 +10,20 @@ layout: page
 ---
 I make security easy and interesting.
 
-|Usual audience:|non-technical business leaders|
-|Their Goal:|stop internet crime|
-|My Focus:|easy wins
-Whys and Hows
-dispelling myths
-no nerds required|
+## Usual audience
+
+non-technical business leaders
+
+## Their Goal
+
+stop internet crime
+
+## My Focus
+
+ - easy wins
+ - Whys and Hows
+ - dispelling myths
+ - no nerds required
 
 Not sure what topics would be best? Browse common talks by audience:
 
