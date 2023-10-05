@@ -63,12 +63,12 @@
                 "style": "icon",
                 "icon_class": "mastodon",
                 "new_window": true
-            },
+            }, 
             {
-                "label": "twitter",
-                "url": "https://twitter.com/simplesaltsec",
+                "label": "LiveJournal",
+                "url": "https://github.com/dylannevans/LiveJournal",
                 "style": "icon",
-                "icon_class": "twitter",
+                "icon_class": "livejournal",
                 "new_window": true
             }
         ]
