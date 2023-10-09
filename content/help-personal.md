@@ -12,23 +12,39 @@ layout: page
 
 The biggest lie is that we should be enough – to be independent, to be strong, to do it all yourself. To need help is shameful: an indication that you are a less-valuable person.
 
-The truth is that we are each deeply imperfect, and our best moments are when we accomplish things together, whether achieving at the same time or asynchronously.
+The truth is that we are each deeply imperfect, and our best moments are when we accomplish things together, whether achieving together or asynchronously.
 
-I am deeply interested in the wellbeing of the people around me and invest effort toward their benefit. I also value my time – there’s a lot I want to do. If you’re the same, let’s talk about how we could help each other.
+## My purpose
+
+I am made to grow and to help others with their growth.
+
+### What success looks like
+
+We grow by learning. We learn by iteratively practicing and reflecting.
+
+We grow faster by practicing more effectively and reflecting more immediately. Practicing is accelerated by building productive habits and deconstructing unhelpful ones. Reflecting relies on insight provided by others.
+
+I am deeply interested in the wellbeing of the people around me and invest effort toward their benefit. I also value my time – there’s a lot I want to do and become. If you feel the same, let’s talk about how we could help each other.
 
 ## How you could help me
 
 ### Feedback
 
-The rate of my growth is sometimes bottlenecked to the rate I receive new perspectives and hard truths from others. If you notice that there are more effective ways to do something, please tell me.
+My growth is sometimes limited in reflection. If you notice that I am trapped by implicit lies or unexamined assumptions, please explain them to me.
+
+My growth is sometimes limited in practice. If you notice a pattern within me that seems to block a desired habit, please ask me about it.
 
 ### External Processing
 
 My growth is sometimes bottlenecked by my ability to think through new ideas. I have noticed that I am much faster at this when doing so collaboratively. If you’d like to get together to talk about the patterns in life, I’m usually looking for more opportunities to bounce ideas back and forth.
 
+### Addressing Shame & Escapism
+
+My growth is sometimes set back by an instinct to escape the feeling of failure and inadequacy. This can turn into a nasty cycle of increasing shame and avoidance. If you see me doing this, please en***courage*** me to persist over that instinct.
+
 ### Encouragement
 
-I appreciate any positive connection – engaging with content, tagging, holding me accountable to my stated goals, or sending specific positive messages.
+I appreciate any specific positive connection – engaging with content, tagging, holding me accountable to my stated goals, or sending specific positive messages.
 
 ## How I can help you
 
