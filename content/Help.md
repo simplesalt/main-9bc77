@@ -12,21 +12,21 @@ layout: page
 
 ## Introductions
 
-### Content Partners
+### Content partners
 
 I would like to meet thoughtful people who talk about risk in finance, legal, and technology. If you think we would have good chemistry and complementary messages, connect us.
 
-## Event organizers
+### Event organizers
 
 I speak at industry events, demystifying security and internet crime. Connect me to people who need sensible security content.
 
 ### Referral partners
 
-We often come alongside management consulting teams to cover security as part of their larger strategic advisory engagements. This is especially true for fractional CFOs and CIOs. If a consulting firm with matching values is looking for a security partner, please connect us.
+We often come alongside management consulting teams to cover security as part of their larger strategic advisory engagements. If a consulting firm with matching values is looking for a security partner, please connect us.
 
-### Direct Clients
+### Direct clients
 
-Businesses who need to protect themselves from internet crime. This is often high-trust professional services firms between 50-200.
+Businesses who need to protect themselves from internet crime. This is often high-trust professional services firms between 50-200M.
 
 ## Feedback
 
@@ -40,14 +40,14 @@ I look forward to helping you. Let me know:
 
 ### Referrals
 
-Who is your ideal client? Industry, size, culture, budget, problems.
+ - Who is your ideal client? Industry, size, culture, budget, problems.
 
-How do you most frequently engage with new clients? What are you most known for?
+ - How do you most frequently engage with new clients? What are you most known for?
 
 ### Beyond customer acquisition
 
-What are your goals?
+ - What are your goals?
 
-What is your biggest bottleneck or problem?
+ - What is your biggest bottleneck or problem?
 
-Who would you like to meet?
+ - Who would you like to meet?
