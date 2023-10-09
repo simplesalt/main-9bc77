@@ -12,19 +12,19 @@ layout: page
 
 The biggest lie is that we should be enough – to be independent, to be strong, to do it all yourself. To need help is shameful: an indication that you are a less-valuable person.
 
-The truth is that we are each deeply imperfect, and our best moments are when we accomplish things together, whether achieving at the same time or asynchronously.
+The truth is that we are each deeply imperfect, and our best moments are when we accomplish things together, whether achieving together or asynchronously.
 
-I am deeply interested in the wellbeing of the people around me and invest effort toward their benefit. I also value my time – there’s a lot I want to do and become. If you feel the same, let’s talk about how we could help each other.
+## My purpose
 
-## My goals
+I am made to grow and to help others with their growth.
 
-I am made to grow.
-
-I am made to help others grow.
+### What success looks like
 
 We grow by learning. We learn by iteratively practicing and reflecting.
 
-We grow faster by practicing more effectively and reflecting more quickly. Practicing is accelerated by building productive habits and deconstructing unhelpful ones. Reflecting relies on insight provided by others.
+We grow faster by practicing more effectively and reflecting more immediately. Practicing is accelerated by building productive habits and deconstructing unhelpful ones. Reflecting relies on insight provided by others.
+
+I am deeply interested in the wellbeing of the people around me and invest effort toward their benefit. I also value my time – there’s a lot I want to do and become. If you feel the same, let’s talk about how we could help each other.
 
 ## How you could help me
 
