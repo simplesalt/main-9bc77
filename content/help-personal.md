@@ -40,7 +40,7 @@ My growth is sometimes bottlenecked by my ability to think through new ideas. I 
 
 ### Addressing Shame & Escapism
 
-My growth is sometimes set back by an instinct to escape the feeling of failure and inadequacy. This can turn into a nasty spiral of shame and avoidance. If you see me doing this, please en*courage* me to persist over that instinct.
+My growth is sometimes set back by an instinct to escape the feeling of failure and inadequacy. This can turn into a nasty cycle of increasing shame and avoidance. If you see me doing this, please en***courage*** me to persist over that instinct.
 
 ### Encouragement
 
