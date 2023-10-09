@@ -14,7 +14,7 @@ The biggest lie is that we should be enough – to be independent, to be strong,
 
 The truth is that we are each deeply imperfect, and our best moments are when we accomplish things together, whether achieving at the same time or asynchronously.
 
-I am deeply interested in the wellbeing of the people around me and invest effort toward their benefit. I also value my time – there’s a lot I want to do. If you’re the same, let’s talk about how we could help each other.
+I am deeply interested in the wellbeing of the people around me and invest effort toward their benefit. I also value my time – there’s a lot I want to do and become. If you feel the same, let’s talk about how we could help each other.
 
 ## My goals
 
@@ -30,7 +30,9 @@ We grow faster by practicing more effectively and reflecting more quickly. Pract
 
 ### Feedback
 
-My growth is sometimes bottlenecked by the insight and hard truths I receive from others. If you notice that I am trapped by implicit lies or unexamined assumptions, please explain them to me. If you notice a habit within me that seems to block the growth I intend to practice, please ask me about it.
+My growth is sometimes limited in reflection. If you notice that I am trapped by implicit lies or unexamined assumptions, please explain them to me.
+
+My growth is sometimes limited in practice. If you notice a pattern within me that seems to block a desired habit, please ask me about it.
 
 ### External Processing
 
@@ -38,7 +40,7 @@ My growth is sometimes bottlenecked by my ability to think through new ideas. I 
 
 ### Addressing Shame & Escapism
 
-I sometimes avoid practicing by shame about my failure and an instinct to escape from the self-perception of inadequacy. If you see me doing this, please en*courage* me to persist over that instinct.
+My growth is sometimes set back by an instinct to escape the feeling of failure and inadequacy. This can turn into a nasty spiral of shame and avoidance. If you see me doing this, please en*courage* me to persist over that instinct.
 
 ### Encouragement
 
