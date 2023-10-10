@@ -38,9 +38,9 @@ My growth is sometimes limited in practice. If you notice a pattern within me th
 
 My growth is sometimes bottlenecked by my ability to think through new ideas. I have noticed that I am much faster at this when doing so collaboratively. If you’d like to get together to talk about the patterns in life, I’m usually looking for more opportunities to bounce ideas back and forth.
 
-### Addressing Shame & Escapism
+### Confronting Shame & Avoidance
 
-My growth is sometimes set back by an instinct to escape a sense of shame. If you see me doing this, please en***courage*** me to persist over that instinct.
+My growth is sometimes set back by my instinct toward escapism, to run from shame. If you see me doing this, please en***courage*** me to persist.
 
 ### Encouragement
 
