@@ -24,7 +24,7 @@ We grow by learning. We learn by iteratively practicing and reflecting.
 
 We grow faster by practicing more effectively and reflecting more immediately. Practicing is accelerated by building productive habits and deconstructing unhelpful ones. Reflecting relies on insight provided by others.
 
-I am deeply interested in the wellbeing of the people around me and invest effort toward their benefit. I also value my time – there’s a lot I want to do and become. If you feel the same, let’s talk about how we could help each other.
+I am deeply interested in the wellbeing of the people around me and invest effort toward their growth and benefit. I also value my time – there’s a lot I want to do and become. If you feel the same, let’s talk about how we could help each other.
 
 ## How you could help me
 
@@ -37,10 +37,6 @@ My growth is sometimes limited in practice. If you notice a pattern within me th
 ### External Processing
 
 My growth is sometimes bottlenecked by my ability to think through new ideas. I have noticed that I am much faster at this when doing so collaboratively. If you’d like to get together to talk about the patterns in life, I’m usually looking for more opportunities to bounce ideas back and forth.
-
-### Confronting Shame & Avoidance
-
-My growth is sometimes set back by my instinct toward escapism, to run from shame. If you see me doing this, please en***courage*** me to persist.
 
 ### Encouragement
 
