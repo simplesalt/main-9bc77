@@ -11,14 +11,14 @@ layout: page
 I make security strategy practical by demystifying common security misconceptions to IT and developer teams. Each can be adapted to fill a slot between thirty and sixty minutes long. Custom topics and setups are available upon request.
 
 Ready? Book engagements [here](/book_speaking).
-Want ideas for a different audience? Go [here](/speaking) for an overview. 
+Want ideas for a different audience? Go [here](/speaking) for an overview.
 
 ## Topics
 
 ### Cop vs Lawyer: the Evolving Mindset of Security Leaders
 
-At many organizations, the security team because synonymous with the word "no". Progress was made in spite of security, not because of it. 
-Today, some security teams have overcome that legacy and are building value through partnerships with technical, product, and even marketing teams. We talk about how your security department can do the same. 
+At many organizations, the security team because synonymous with the word "no". Progress was made in spite of security, not because of it.
+Today, some security teams have overcome that legacy and are building value through partnerships with technical, product, and even marketing teams. We talk about how your security department can do the same.
 
 ### The Most Secure Platform is the one People Use
 
