@@ -27,7 +27,7 @@ I need to know what my audience wants to hear about. [Tell me](https://forms.wix
 
 ## Draft Feedback
 
-I have drafts of the talks and articles I'm working on. You can find them listed below. Each draft allows comments - please add your thoughts directly to the draft. If you don't want to attach your name, just shoot them to me however you want. I include specific questions as comments in the beginning of each piece. You cannot mess anything up, so let it rip.
+I have drafts of the talks and articles I'm working on. You can find them listed below. Each draft allows comments - please add your thoughts directly to the draft. If you want your comments private, just shoot them to me however you want. I include specific questions as comments in the beginning of each piece. You cannot mess anything up, so let it rip.
 
 ### Specifics
 
