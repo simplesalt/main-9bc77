@@ -1,14 +1,14 @@
 ---
 title: Speaking – Tech Audiences
 hide_title: false
-excerpt: 'I make security strategy practical by demystifying common security misconceptions to IT, developer, and cybersecurity teams.'
+excerpt: 'I make security strategy practical by demystifying common misconceptions to IT and developers.'
 seo:
  title: Speaking – Tech Audiences
- description: 'I speak at IT, developer, and security events.'
+ description: 'I explain security to IT and developers.'
  extra: []
 layout: page
 ---
-I make security strategy practical by demystifying common security misconceptions to IT, developer, and cybersecurity teams. Each can be adapted to fill a slot between thirty and sixty minutes long. Custom topics and setups are available upon request.
+I make security strategy practical by demystifying common security misconceptions to IT and developer teams. Each can be adapted to fill a slot between thirty and sixty minutes long. Custom topics and setups are available upon request.
 
 Ready? Book engagements [here](/book_speaking).
 Want ideas for a different audience? Go [here](/speaking) for an overview. 

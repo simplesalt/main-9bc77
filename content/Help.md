@@ -22,17 +22,15 @@ I speak at industry events, demystifying security and internet crime. Connect me
 
 ### Referral partners
 
-We often come alongside management consulting teams to cover security as part of their larger strategic advisory engagements. This is especially true for fractional CFOs and CIOs. If a consulting firm with matching values is looking for a security partner, please connect us.
+We often come alongside management consulting teams to cover security as part of a larger offering. This is especially true for managed finance and managed IT. If a consulting firm with matching values is looking for a security partner, please connect us.
 
 ### Direct Clients
 
-Businesses who need to protect themselves from internet crime. This is often high-trust professional services firms between 50-200.
+Businesses who need to protect themselves from internet crime. This is often high-trust professional services firms between 50-200M.
 
-## Feedback
+## Content Feedback
 
-I usually have several open questions I want opinions about. You can find the current set here:
-
-* [Speaking topic suggestions](https://forms.wix.com/f/7064931963936702757)
+I invest a lot to make my articles and talks the best they can be. [Help me](/help-content) make them better.
 
 ## How I can help you
 
