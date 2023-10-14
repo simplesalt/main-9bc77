@@ -35,7 +35,7 @@ I bring clarity to projects, teams, and strategies. Throughout my years in cyber
 
 ## Speaking
 
-I [frequently speak](/speaking) on security, process design, and management strategy. If you are interested in booking me for an event or workshop, [go here](/book-speaking).
+I [frequently speak](/speaking) on security, process design, and management strategy. If you are interested in booking me for an event or workshop, [go here](/book_speaking).
 
 ## Simple Salt
 
