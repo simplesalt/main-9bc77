@@ -517,6 +517,8 @@ models:
           - twitter
           - vimeo
           - youtube
+          - livejournal
+          - tiktok
         default: dev
       - type: boolean
         name: new_window
