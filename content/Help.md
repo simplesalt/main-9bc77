@@ -18,17 +18,18 @@ I would like to meet thoughtful people who talk about risk in finance, legal, an
 
 ### Event organizers
 
-I speak at industry events, demystifying security and internet crime. Connect me to people who need sensible security content.
+I [speak](/speaking/) at industry events, demystifying security and internet crime. Connect me to people who need sensible security content.
 
 ### Referral partners
 
-We often come alongside management consulting teams to cover security as part of a larger offering. This is especially true for managed finance and managed IT. If a consulting firm with matching values is looking for a security partner, please connect us.
+Simple Salt comes alongside management consultants to provide security strategy as part of a larger strategic engagement. If a consulting firm with matching values is looking for a security partner, please connect us.
 
 ### Direct clients
+### Direct clients
 
-Businesses who need to protect themselves from internet crime. This is often high-trust professional services firms between 50-200M.
+Simple Salt helps businesses who need to protect themselves from internet crime. This is often high-trust professional services firms between 50-200M.
 
-## Content Feedback
+## Content feedback
 
 I invest a lot to make my articles and talks the best they can be. [Help me](/help-content) make them better.
 
@@ -44,8 +45,8 @@ I look forward to helping you. Let me know:
 
 ### Beyond customer acquisition
 
- - What are your goals?
+- What are your goals?
 
- - What is your biggest bottleneck or problem?
+- What is your biggest bottleneck or problem?
 
  - Who would you like to meet?

@@ -19,7 +19,7 @@ My [standard help](/help) page identifies the practice opportunities that would 
 
 ### Brand identity
 
-I want to be known as insightful, entertaining, and irreverent. I want to be a thought leader in security, business health, and organizational culture. 
+I want to be known as insightful, entertaining, and irreverent. I want to be a thought leader in security, business health, and organizational culture.
 
 ## Content Ideas
 

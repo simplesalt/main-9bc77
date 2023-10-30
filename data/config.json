@@ -70,6 +70,13 @@
                 "style": "icon",
                 "icon_class": "livejournal",
                 "new_window": true
+            }, 
+            {
+                "label": "tiktok",
+                "url": "https://github.com/dylannevans/LiveJournal",
+                "style": "icon",
+                "icon_class": "tiktok",
+                "new_window": true
             }
         ]
     },
