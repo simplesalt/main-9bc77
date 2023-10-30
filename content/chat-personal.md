@@ -29,7 +29,5 @@ sections:
     title: Get together some evening
     content: >
       Evenings are a bit less predictable; I'll confirm your slot within a couple business days. Please bother me if I don't.
-      {{< hubspot_scheduler "https://meetings.hubspot.com/bob-bobson/demo?embed=true">}}
-    
-
+      {{< hubspot_scheduler "https://meetings.hubspot.com/bob-bobson/demo?embed=true" >}}
 ---
