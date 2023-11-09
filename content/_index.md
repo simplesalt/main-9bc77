@@ -18,13 +18,13 @@ sections:
       - label: More about me
         url: /about
         style: button
-      - label: Speaking and workshops
+      - label: Speaking and Workshops
         url: /speaking
         style: button
   - section_id: recent-posts
     type: section_posts
-    title: Posts
-    posts_number: 8
+    title: Recent Posts
+    posts_number: 4
     actions:
       - label: View Blog
         url: blog/index.html

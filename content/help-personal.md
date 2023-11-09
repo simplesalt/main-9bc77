@@ -11,13 +11,7 @@ layout: page
 
 ## How you could help me
 
-I need partners and friends to grow and achieve my goals.
-
-### Feedback
-
-If I missed the real root cause on something important, please ask me about it.
-
-If bad habits block my top goals and I seem stuck, please ask me about them.
+I need partners and friends to grow and achieve my goals. I most benefit from:
 
 ### Collaboration
 
@@ -30,6 +24,12 @@ I get huge benefit from adhoc positive outreach, especially:
 * helping me stay focused on my goals. This can be as simple as an out-of-the-blue, "What is your top priority right now? What is your next step? How much of that step can you do today?"
 * responding thoughtfully to ideas I've shared
 * appreciation for effort I applied to your benefit
+
+### Feedback
+
+If I missed the real root cause on something important, please ask me about it.
+
+If bad habits block my top goals and I seem stuck, please ask me about them.
 
 ## How I can help you
 
@@ -48,12 +48,12 @@ If you have thoughts you want to verbalize, need another perspective, or need to
 People frequently characterize me as:
 
 * salty
-* blunt
 * intense
+* thoughtful
 * demanding
+* confident
 * forgetful
 * analytical
-* confident
 * bad at follow-through
 * excessively authentic
 * inconsiderate

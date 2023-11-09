@@ -16,7 +16,7 @@ layout: page
 
 I would like to meet thoughtful people who talk about risk in finance, legal, and technology. If you think we would have good chemistry and complementary messages, connect us.
 
-## Event organizers
+### Event organizers
 
 I [speak](/speaking/) at industry events, demystifying security and internet crime. Connect me to people who need sensible security content.
 
@@ -32,9 +32,11 @@ Simple Salt helps businesses who need to protect themselves from internet crime.
 
 I invest a lot to make my articles and talks the best they can be. [Help me](/help-content) make them better.
 
+
+
 ## How I can help you
 
-I look forward to helping you. Let me know:
+Let me know:
 
 ### The fundamentals
 
