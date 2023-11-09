@@ -33,9 +33,11 @@ Simple Salt helps businesses who need to protect themselves from internet crime.
 
 I invest a lot to make my articles and talks the best they can be. [Help me](/help-content) make them better.
 
+
+
 ## How I can help you
 
-I look forward to helping you. Let me know:
+Let me know:
 
 ### Referrals
 

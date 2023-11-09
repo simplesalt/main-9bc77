@@ -44,8 +44,16 @@ I am generally looking for:
 
 | Audience | Title | Notes |
 | --- | --- | --- |
-| CIOs of startups 10-200 | [Security Compliance for Noobs](https://docs.google.com/document/d/1714mepzNXwlUEAHMirGamPMNynbRrkzdNoy-Mid3iJ8/edit) | Intended to answer everything the audience could possibly need to know about security compliance. Requested by an editor who didn’t realize the scope. About 3/4 done, expected 12k words. |
-| CIOs of bricknmortar companies 50+ | [Securing your Cloud: Three Objectives you Must get Right](https://app.yoodli.ai/share/Dw6CZ3sg) | not my target content or brand, done to build audience generally, topic was requested. |
+| CIOs of startups 10-200 | [Article: Ultimate Guide to Security Compliance](https://docs.google.com/document/d/1714mepzNXwlUEAHMirGamPMNynbRrkzdNoy-Mid3iJ8/edit) | Intended to answer everything the audience needs to know about security compliance. Requested by an editor who didn’t realize the scope. About 3/4 done, expected 12k words. |
 | Business leaders | [Succeed, Trust, Improve](https://share.descript.com/view/j0AHjp834GN) | A motivational/Ted-talkish piece about the foundational elements of success within a business context. |
-| CFOs or managing partners of high-trust professional svcs firms | [Simple Salt intro pitch](https://share.descript.com/view/eK61aJt9HXT) | I don't always say all this in most sales calls. These are the available ideas in case they're relevant. Each slide is really an opportunity to ask them questions about their own experience with security. |
 | Lawyers | [thinking about risk](https://app.yoodli.ai/share/qJmDWvP8) | created for a podcast appearance. I never got to deliver it because the host took my interview in another direction. |
+
+### complete
+
+I've polished and delivered these. I'm still interested in the same feedback, though not as urgently.
+
+| Audience | Title | Notes |
+| --- | --- | --- |
+| CIOs of bricknmortar companies 50+ | [Securing your Cloud: Three Objectives you Must get Right](https://app.yoodli.ai/share/Dw6CZ3sg) | not my target content or brand, done to build audience generally, topic was requested. |
+| CFOs or managing partners of high-trust professional svcs firms | [Simple Salt intro pitch](https://share.descript.com/view/eK61aJt9HXT) | I don't always say all this in most sales calls. These are the available ideas in case they're relevant. Each slide is really an opportunity to ask them questions about their own experience with security. |
+| Owners of businesses <50 | [Stop Internet crime and grow your business by outsourcing IT and finance](https://app.yoodli.ai/share/A8hnTCw5) | Thought provoking but probably better at a slower pace. |
