@@ -1,14 +1,23 @@
 ---
 title: Speaking – Smaller Businesses
 hide_title: false
-excerpt: 'Practical approaches to avoiding internet crime for smaller law firms. Talks focus on easy wins, dispelling myths, and luddite-friendly explanations. '
+excerpt: 'Practical approaches for attorneys and law firms to protect sensitive client data. Talks focus on practical techniques and why they work.'
 seo:
  title: Speaking – Smaller Businesses
  description: 'I explain how smaller businesses can best stop internet crime.'
  extra: []
 layout: page
 ---
-I explain practical ways that law firms can best avoid internet crime. All talks are CLE-eligible and focus on the easy and effective ways to protect client's sensitive data from theft and you from disastrous loss. Each fills a standard 50-minute slot.
+I explain practical ways that attorneys and law firms can best protect their clients from internet crime.
+
+"I have not met a more engaging security speaker. Informative, practical, and entertaining." - Some dude I will find. [More Testimonials](#testimonials)
+
+All talks are CLE-eligible and focus on the easy and effective ways to protect:
+
+- funds and sensitive client data from theft
+- you from damage, liability, and loss of client trust
+
+Each fills a standard 50-minute slot.  Workshops are best in-person and require NDAs in advance from all participants.
 
 Ready? Book engagements [here](/book_speaking).
 
@@ -28,7 +37,7 @@ Everyone agrees: passwords are annoying. They slow us down, break things when mo
 
 This talk teaches my proven solution to these problems. It is easy, luddite-friendly, and is usually the single most effective way to prevent internet crime for firms under 50.
 
-Also available as a 2-hour live workshop; participants get set up, practice the methods, and create a detailed plan to implement it firm-wide.
+Also available as a 2-hour workshop; participants get set up, practice the methods, and create a detailed plan to implement it firm-wide.
 
 ### What Title Companies can Teach Us
 
@@ -38,7 +47,7 @@ The title industry was one of the first to be comprehensively and methodically a
 ### How to Think about Cybersecurity Insurance
 
 _qualifying CLEs: practice management_
-Attorneys have mixed feelings about cyber insurance: policies are expensive, demand extensive documentation for eligibility, and have so many carve-outs that sometimes even attorneys don't read the whole policy. Yet in an age of exploding internet crime, it would be foolhardy to skip. This talk explains how different firms' risk compares to the most common coverage, how the right policy should fit into an overall risk plan, and even how the wrong carrier can increase your risk of attack.
+Attorneys have mixed feelings about cyber insurance: policies are expensive, demand extensive documentation for eligibility, and have so many carve-outs that sometimes even they don't read the whole policy. Yet in an age of exploding internet crime, it would be foolhardy to skip. This talk explains how different firms' risk profile compares to common coverage, how the right policy should fit into an overall risk plan, and even how the wrong carrier can increase your risk of attack.
 
 ### The Best Way to Protect Sensitive Client Information
 
@@ -52,18 +61,20 @@ Many firms must satisfy customer due diligence security requirements. This can b
 
 Also available as a 2-hour workshop; participants examine their Why for security compliance, apply the strategies, generate concrete solutions and next steps, and walk away with a personalized and ready-to-execute compliance delivery plan.
 
-### Assessing Security Risk
+### How Worried Should I Be? Assessing Security Risk
 
 _qualifying CLEs: practice management_
-Attorneys have mixed feelings about cyber insurance: policies are an expensive add-on to existing professional liability policies, demand extensive documentation for eligibility, and have so many carve-outs that sometimes even attorneys don't read the whole policy. Yet in an age of exploding internet crime, it would be foolhardy to skip. This talk explains how well standard policies cover risk for different types of firms, how the right policy should fit into an overall crime-prevention plan, and even how the wrong carrier can increase your risk of attack.
+The cyber and audit industries have an open secret: their one-size-fits-all approach is designed for CYA and defensibility at the expense of effective crime prevention or accurate risk advisory. In truth, practical security risk differs wildly between firms, depending on their business model, customers, culture, and more.
+
+This talk explains a practical guide to estimating the risk security threats pose to your firm's financial health and goals.
+
+Also available as a 2-hour workshop; participants will complete a statistical model and walk away with a clear financial picture of their firm's risk from internet crime.
 
 ## Testimonials
 
-"Funny and interesting" - Joe Abboud, CEO ____
-"ok, I guess. Doesn't my IT guy magically solve all this for me?" - Sarah Fiona Phillips, Owner ____
-"fell out of my chair laughing. Didn't know security could be so crazy." - Jacob Winter, JD
-"The stars - everything is so clear now. I now know what I must do." - Pete Glasser, Construction Attorney
-"I just wanted to know which doohicky at Best Buy would do the crime-stopping, but this yahoo kept nattering on about process, metrics, and how to handle settlement disbursements." - Jim Dash, partner Carlson and Dash, LLP
-"better than any other cyber CLE I've seen" - Alejandra Escobar, personal injury attorney.
-
-open call to highrise - series targeting lawyers, with each of the above talks, once a week? Ask for real testimonials.
+- "Funny and interesting" - Joe Abboud, CEO ____
+- "ok, I guess. I was mostly on my phone, but this stuff sounds like work that would cut into my golfing-with-clients time. Doesn't my IT guy eliminate all security risk?" - Sarah Fiona Phillips, Owner ____
+- "I was riveted and inspired. " - Jacob Winter, JD
+- "The stars - everything is so clear now. I now know what I must do." - Pete Glasser, Construction Attorney
+- "I just wanted to know which doohicky at Best Buy would do the crime-stopping, but this yahoo kept nattering on about process, metrics, and how to handle settlement disbursements." - Jim Dash, partner Carlson and Dash, LLP
+- "better than any other cyber CLE I've seen. I loved the ferret story." - Alejandra Escobar, personal injury attorney.
