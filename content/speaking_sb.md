@@ -8,12 +8,13 @@ seo:
  extra: []
 layout: page
 ---
-I offer practical approaches to avoiding internet crime. Talks focus on easy wins, dispelling myths, and luddite-friendly explanations. Each can be adapted to fill a slot between thirty and sixty minutes long. 
+I offer practical approaches to avoiding internet crime. Talks focus on easy wins, dispelling myths, and luddite-friendly explanations. Each can be adapted to fill a slot between thirty and sixty minutes long.
 
 Ready? Book engagements [here](/book_speaking).
 Want ideas for a different audience? Go [here](/speaking) for an overview.
 
 ## Topics
+
 ### Protect Yourself from Internet Crime by Outsourcing IT and Finance
 
 Delegating IT and Finance to dedicated vendors can help you grow your business and improve your resistance to internet crime.
