@@ -36,7 +36,7 @@ _qualifying CLEs: ethics, wellbeing_
 
 Paradoxically, one of the best strategies for preventing internet crime usually grows firm business, decreases client delinquency, and lowers partner stress. In this talk, I explain how the proper outsourcing approach can help you protect sensitive client data and get more clients.
 
-### Protect Yourself and Get More Done: Passwords Done Right
+### Passwords Done Right
 
 _qualifying CLE: wellbeing, practice management_
 
@@ -58,10 +58,10 @@ _qualifying CLEs: practice management_
 
 Attorneys have mixed feelings about cyber insurance: policies are expensive, demand extensive documentation for eligibility, and have so many carve-outs that sometimes even they don't read the whole policy. Yet in an age of exploding internet crime, it would be foolhardy to skip. This talk explains how different firms' risk profile compares to common coverage, how the right policy should fit into an overall risk plan, and even how the wrong carrier can increase your risk of attack.
 
-### The Best Way to Protect Sensitive Client Information
+### Protecting Sensitive Client Information
 
 _qualifying CLEs: ethics_
-Safeguarding client secrets is critical to maintaining your firm's reputation. But clients can be inconsistent, misinformed, or even sloppy about protecting their own secrets. If their failure results in a material cyber incident, you both stand to lose. How can you help them stay safe without straying into their accountability?
+Safeguarding client secrets is critical to maintaining your firm's reputation. But clients can be inconsistent, misinformed, or even sloppy about protecting their own secrets. If their failure results in a material cyber incident, you both stand to lose. How can you help them stay safe without straying into their lane?
 
 ### Security Compliance done Cheap and Easy
 
