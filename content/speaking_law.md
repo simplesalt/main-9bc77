@@ -1,16 +1,16 @@
 ---
 title: Security for Lawyers
 hide_title: false
-excerpt: 'Practical approaches for attorneys and law firms to protect sensitive client data. Talks focus on practical techniques and why they work.'
+excerpt: 'I explain practical ways that attorneys and law firms can best protect their clients from internet crime. Talks focus on practical techniques and why they work.'
 seo:
  title: Security for Lawyers
- description: 'I explain practical ways that attorneys and law firms can best protect their clients from internet crime.'
+ description: 'Practical approaches for attorneys and law firms to protect sensitive client data.'
  extra: []
 layout: page
 ---
-I explain practical ways that attorneys and law firms can best protect their clients from internet crime.
+I explain practical ways that attorneys and law firms can best protect their clients from internet crime. Talks focus on practical techniques and why they work.
 
-"I have not met a more engaging security speaker. Informative, practical, and entertaining." - Some dude I will find. [More Testimonials](#testimonials)
+> "I have not met a more engaging security speaker. Informative, practical, and entertaining." - Some dude I will find. [More Testimonials](#testimonials)
 
 All talks are CLE-eligible and focus on the easy and effective ways to protect:
 
