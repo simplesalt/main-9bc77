@@ -1,10 +1,10 @@
 ---
-title: Speaking – Smaller Businesses
+title: Security for Lawyers
 hide_title: false
 excerpt: 'Practical approaches for attorneys and law firms to protect sensitive client data. Talks focus on practical techniques and why they work.'
 seo:
- title: Speaking – Smaller Businesses
- description: 'I explain how smaller businesses can best stop internet crime.'
+ title: Security for Lawyers
+ description: 'I explain practical ways that attorneys and law firms can best protect their clients from internet crime.'
  extra: []
 layout: page
 ---
