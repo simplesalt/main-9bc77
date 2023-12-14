@@ -12,11 +12,16 @@ I make security easy and interesting.
 
 Not sure what topics would be best? Browse common talks by audience:
 
-- [For the public](/speaking_public)
-- [For leaders of organizations 10 – 100](/speaking_sb)
-- [For leaders of organizations 100 – 500](/speaking_mb)
-- [For technical audiences](/speaking_tech)
+- [Lawyers and Law Firms](speaking_law)
+- [The Public](/speaking_public)
+- [Smaller Businesses (10 – 100)](/speaking_sb)
+- [Larger Businesses (100 – 500)](/speaking_mb)
+- [Tech Teams](/speaking_tech)
 
-Ready? Book engagements [here](/book_speaking).
+## Ready?
 
-Media inquiries: find a press kit [here](/images/dylan_one_sheet.pdf).
+Book engagements [here](/book_speaking).
+
+## Media inquiries
+
+find a press kit [here](/images/dylan_one_sheet.pdf).
