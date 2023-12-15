@@ -77,7 +77,7 @@ _qualifying CLEs: practice management_
 
 The cyber and audit industries have an open secret: their one-size-fits-all approach is designed for CYA and defensibility at the expense of effective crime prevention or accurate risk advisory. In truth, practical security risk differs wildly between firms, depending on their business model, customers, culture, and more.
 
-This talk explains a practical guide to estimating the risk security threats pose to your firm's financial health and goals.
+This talk explains how to practically estimate the risk that security threats pose to your firm's financial health and goals.
 
 Also available as a 2-hour workshop; participants will complete a statistical model and walk away with a clear financial picture of their firm's risk from internet crime.
 
