@@ -21,9 +21,13 @@ Not sure what topics would be best? Browse common talks by audience:
 
 - [Tech Teams](/speaking_tech)
 
+### Podcasts
+
+[I guest](/speaking-podcasts) on podcasts, speaking about business topics, personal growth, and mental health.
+
 ## Ready?
 
-Book engagements [here](/book_speaking).
+Book engagements [here](/book_speaking). If you'd like a quick intro first, book that [here](/intro).
 
 ## Media inquiries
 

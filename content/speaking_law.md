@@ -10,9 +10,6 @@ layout: page
 ---
 I explain practical ways that attorneys and law firms can best protect their clients from internet crime. Talks focus on practical techniques and why they work.
 
-> "I have not met a more engaging security speaker. Informative, practical, and entertaining."
-> /- Some dude I will find. [More Testimonials](#testimonials)
-
 All talks are CLE-eligible and focus on the easy and effective ways to protect:
 
 - funds and sensitive client data from theft
@@ -80,12 +77,3 @@ The cyber and audit industries have an open secret: their one-size-fits-all appr
 This talk explains how to practically estimate the risk that security threats pose to your firm's financial health and goals.
 
 Also available as a 2-hour workshop; participants will complete a statistical model and walk away with a clear financial picture of their firm's risk from internet crime.
-
-## Testimonials
-
-- "Funny and interesting" - Joe Abboud, CEO ____
-- "ok, I guess. I was mostly on my phone, but this stuff sounds like work that would cut into my golfing-with-clients time. Doesn't my IT guy eliminate all security risk?" - Sarah Fiona Phillips, Owner ____
-- "I was riveted and inspired. " - Jacob Winter, JD
-- "The stars - everything is so clear now. I now know what I must do." - Pete Glasser, Construction Attorney
-- "I just wanted to know which doohicky at Best Buy would do the crime-stopping, but this yahoo kept nattering on about process, metrics, and how to handle settlement disbursements." - Jim Dash, partner Carlson and Dash, LLP
-- "better than any other cyber CLE I've seen. I loved the ferret story." - Alejandra Escobar, personal injury attorney.
