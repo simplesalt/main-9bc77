@@ -13,9 +13,7 @@ I make security easy and interesting.
 Not sure what topics would be best? Browse common talks by audience:
 
 - [Lawyers and Law Firms](/speaking_law)
-
 - [The Public](/speaking_public)
-
 - [Smaller Businesses (10 – 100)](/speaking_sb)
 - [Larger Businesses (100 – 500)](/speaking_mb)
 
@@ -23,7 +21,7 @@ Not sure what topics would be best? Browse common talks by audience:
 
 ### Podcasts
 
-[I guest](/speaking-podcasts) on podcasts, speaking about business topics, personal growth, and mental health.
+[I also guest](/speaking_podcasts) on podcasts, speaking about business, personal growth, and mental health.
 
 ## Ready?
 

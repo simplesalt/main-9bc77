@@ -10,11 +10,15 @@ layout: page
 ---
 I authentically share my stories, realizations, and current journeys in business and personal growth.
 
-Professionally, I demystify security and show business leaders the easy and effective ways to stop internet crime. These topics resonate best with lawyers, finance leaders, and the occasional CEO.
+### Professionally
 
-Personally, I persuade people of their value and that even if painful, their growth is worth pursuing.
+I demystify security and show business leaders the easy and effective ways to stop internet crime. These topics resonate best with lawyers, finance leaders, and the occasional CEO.
 
-These domains are deeply interconnected for me. Any of the Talking Points below can be combined for an interesting conversation.
+### Personally
+
+I persuade people of their value and that even if painful, their growth is worth pursuing.
+
+These domains are deeply interconnected for me.
 
 ## Interested?
 
@@ -28,7 +32,7 @@ Find a press kit [here](/images/dylan_pone_sheet.pdf).
 
 For a sample of topics focused on business audiences, see [speaking overview](/speaking).
 
-For a sample of topics focused on personal growth and mental health, see my [tiktok](https://tiktok.com/simplesalt).
+For a sample of topics focused on personal growth and mental health, see my [tiktok](https://tiktok.com/@simplesalt).
 
 ## Appearances
 
