@@ -19,3 +19,4 @@ sitemap:
   priority: 0.5
 params:
   gtm_id: GTM-MQRRPH3
+enableEmoji: true
