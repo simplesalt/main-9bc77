@@ -28,12 +28,6 @@ Book me [here](/book_speaking).
 
 Find a press kit [here](/images/dylan_pone_sheet.pdf).
 
-## Topics
-
-For a sample of topics focused on business audiences, see 
-
-For a sample of topics focused on personal growth and mental health, see my [tiktok](https://tiktok.com/@simplesalt).
-
 ## Appearances
 
 - [Protecting Your Law Firm From Cyber Risk, Law Firms and Finance, Aug 10, 2023](https://podcasts.apple.com/us/podcast/protecting-your-law-firm-from-cyber-risk-with-dylan-evans/id1610167031?i=1000624115288)
