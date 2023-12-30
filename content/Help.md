@@ -10,17 +10,19 @@ layout: page
 ---
 
 
-## Introductions
+## Help I need
 
-### Business groups
+### Introductions
+
+#### Business groups
 
 I [demystify security](/speaking), providing practical and entertaining presentations for attorneys, finance leaders, and other high-trust professionals. Please connect me to people who need that. 
 
-### Direct clients
+#### Direct referrals
 
-[Simple Salt](https://simple-salt.com) helps businesses protect themselves from internet crime, clearly answering how worried they should be and what they can do about it. Clients are most often commercial law, accounting, and other high-trust professional services firms between 50-300M.
+[Simple Salt](https://simple-salt.com) helps businesses protect themselves from internet crime, clearly explaining how worried they should be and what they can do about it. Clients are most often commercial law, accounting, and other high-trust professional services firms between 50-300M. Firm CFOs and senior partners are usually the most interested.
 
-## Content feedback
+### Content feedback
 
 I make my articles and talks the best they can be, and rely on collaborators for refinement and feedback. [Help me](/help-content) make them better.
 
