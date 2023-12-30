@@ -8,24 +8,29 @@ seo:
   extra: []
 layout: page
 ---
+This page contains how you could help me by providing insight and perspectives I'm missing; I'll keep it updated as I develop new content. If you want to be notified when I post new needs, just paste this page into something like [webcrawl](https://webcrawl.io).
 
-## Goal
 
-I want to be a favorite media channel for mid-market CFOs, CIOs, and managing partners. That requires growing my ability and growing an audience. This is a virtuous cycle with an exponential curve on both: better content comes from practicing, which helps grow my audience, which gives me more opportunities to practice.
+## Goals
 
-My growth toward this goal is limited by opportunities to practice and how quickly I can understand from each effort what could have been better.  Partners help me with both.
+I want to be a favorite content brand for mid-market CFOs, managing partners, GMs, and CIOs. 
 
-My [standard help](/help) page identifies the practice opportunities that would help me the most. Here, I explain how you could help me by providing insight and perspectives I'm missing. This page will change as I develop new content. If you want to be notified when I post new needs, just paste this page into something like [webcrawl](https://webcrawl.io).
+This satisfies two goals: 
+- my personal mission to demystify security.
+- my professional goal to [grow Simple Salt](https://share.descript.com/view/4vY0XRtMzYx).
 
 ### Brand identity
+I want to be uniquely known for the message that the conventional cyber and audit approaches mostly deliver defensibility. For those who want effective crime prevention, there is a better way. 
 
 I want to be known as insightful, entertaining, and irreverent. I want to be a thought leader in security, business health, and organizational culture.
 
-## Content Ideas
+## Needs
+
+### Content Ideas
 
 I need to know what my audience wants to hear about. [Tell me](https://forms.wix.com/f/7064931963936702757) whenever you think of something. Feel free to share this link with others, with the offer that if I get enough requests on a topic, I may answer it.
 
-## Draft Feedback
+### Draft Feedback
 
 I have drafts of the talks and articles I'm working on. You can find them listed below. Each draft allows comments - please add your thoughts directly to the draft. If you want your comments private, just shoot them to me however you want. I include specific questions as comments in the beginning of each piece. You cannot mess anything up, so let it rip.
 
@@ -44,9 +49,9 @@ I am generally looking for:
 
 | Audience | Title | Notes |
 | --- | --- | --- |
-| CIOs of startups 10-200 | [Article: Ultimate Guide to Security Compliance](https://docs.google.com/document/d/1714mepzNXwlUEAHMirGamPMNynbRrkzdNoy-Mid3iJ8/edit) | Intended to answer everything the audience needs to know about security compliance. Requested by an editor who didn’t realize the scope. About 3/4 done, expected 12k words. |
+| mid-market CIOs, CFOs, CEOs | Security Compliance for people with better things to do | Ebook, target publish date: JUN24. A practical guide to security compliance, designed to be read on the plane, etc. About half done, expected 20k words. |
 | Business leaders | [Succeed, Trust, Improve](https://share.descript.com/view/j0AHjp834GN) | A motivational/Ted-talkish piece about the foundational elements of success within a business context. |
-| Lawyers | [thinking about risk](https://app.yoodli.ai/share/qJmDWvP8) | created for a podcast appearance. I never got to deliver it because the host took my interview in another direction. |
+| Lawyers | [Thinking about Risk](https://app.yoodli.ai/share/qJmDWvP8) | created for a podcast appearance. I never got to deliver it because the host took my interview in another direction. |
 
 ### complete
 
