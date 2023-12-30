@@ -39,7 +39,7 @@ I [frequently speak](/speaking) on security, process design, and management stra
 
 ## Simple Salt
 
-I started [Simple Salt](https://simple-salt.com) to help underserved businesses prevent internet crime through simple changes to the way they handle risky activities. The conventional tech and compliance approach proscribed by the security industry is cost-prohibitive and ineffective against modern internet crime for smaller organizations. We apply creative, common-sense strategies that meaningfully address the everyday threats that end businesses.  
+I started [Simple Salt](https://simple-salt.com) to help businesses prevent internet crime easier, better, faster, and stronger than conventional approaches. We apply creative, common-sense strategies that meaningfully address the everyday threats that end businesses.  
 
 ## Personal
 
