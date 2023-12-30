@@ -21,7 +21,7 @@ Not sure what topics would be best? Browse common talks by audience:
 
 ### Podcasts
 
-[I also guest](/speaking_podcasts) on podcasts, speaking about business, personal growth, and mental health.
+[I also guest](/speaking_podcasts) on podcasts, speaking about business and personal growth.
 
 ## Ready?
 

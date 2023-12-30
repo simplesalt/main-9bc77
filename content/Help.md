@@ -10,30 +10,21 @@ layout: page
 ---
 
 
-## Introductions
+## Help I need
 
-### Content partners
+### Introductions
 
-I would like to meet thoughtful people who talk about risk in finance, legal, and technology. If you think we would have good chemistry and complementary messages, connect us.
+#### Business groups
 
-### Event organizers
+I [demystify security](/speaking), providing practical and entertaining presentations for attorneys, finance leaders, and other high-trust professionals. Please connect me to people who need that. 
 
-I [speak](/speaking/) at industry events, demystifying security and internet crime. Connect me to people who need sensible security content.
+#### Direct referrals
 
-### Referral partners
+[Simple Salt](https://simple-salt.com) helps businesses protect themselves from internet crime, clearly explaining how worried they should be and what they can do about it. Clients are most often commercial law, accounting, and other high-trust professional services firms between 50-300M. Firm CFOs and senior partners are usually the most interested.
 
-Simple Salt comes alongside management consultants to provide security strategy as part of a larger strategic engagement. If a consulting firm with matching values is looking for a security partner, please connect us.
+### Content feedback
 
-### Direct clients
-### Direct clients
-
-Simple Salt helps businesses who need to protect themselves from internet crime. This is often high-trust professional services firms between 50-200M.
-
-## Content feedback
-
-I invest a lot to make my articles and talks the best they can be. [Help me](/help-content) make them better.
-
-
+I make my articles and talks the best they can be, and rely on collaborators for refinement and feedback. [Help me](/help-content) make them better.
 
 ## How I can help you
 
