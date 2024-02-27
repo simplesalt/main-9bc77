@@ -34,16 +34,16 @@ I invest a lot to make my articles and talks the best they can be. [Help me](/he
 
 Let me know:
 
-### The fundamentals
-
-What are your goals?
-
-What is your biggest bottleneck or problem?
-
-Who would you like to meet?
-
 ### Referrals
 
-Who is your ideal client? Industry, size, culture, budget, problems.
+- Who is your ideal client? Industry, size, culture, budget, problems.
 
-How do you most frequently engage with new clients? What are you most known for?
+- How do you most frequently engage with new clients? What are you most known for?
+
+### Beyond customer acquisition
+
+- What are your goals?
+
+- What is your biggest bottleneck or problem?
+
+- Who would you like to meet?
