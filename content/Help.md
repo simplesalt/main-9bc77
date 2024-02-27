@@ -10,21 +10,25 @@ layout: page
 ---
 
 
-## Help I need
+## Introductions
 
-### Introductions
+Don't want to read? [watch instead](https://share.descript.com/view/4vY0XRtMzYx).
 
-#### Business groups
+### Industry
 
-I [demystify security](/speaking), providing practical and entertaining presentations for attorneys, finance leaders, and other high-trust professionals. Please connect me to people who need that. 
+I [speak](/speaking/) to professional audiences, demystifying security and internet crime. Most can be tailored for continuing education credit. Connect me to people who need entertaining and sensible content about security.
 
-#### Direct referrals
+### Direct clients
 
-[Simple Salt](https://simple-salt.com) helps businesses protect themselves from internet crime, clearly explaining how worried they should be and what they can do about it. Clients are most often commercial law, accounting, and other high-trust professional services firms between 50-300M. Firm CFOs and senior partners are usually the most interested.
+Simple Salt helps businesses who need to protect themselves from internet crime. Our value is usually most compelling to CFOs with high-trust professional services firms between 50-200M.
 
-### Content feedback
+### Referral partners
 
-I make my articles and talks the best they can be, and rely on collaborators for refinement and feedback. [Help me](/help-content) make them better.
+Simple Salt comes alongside management consultants to provide security strategy as part of a larger strategic engagement. If a consulting firm with matching values is looking for a security partner, please connect us.
+
+## Content feedback
+
+I invest a lot to make my articles and talks the best they can be. [Help me](/help-content) make them better.
 
 ## How I can help you
 
