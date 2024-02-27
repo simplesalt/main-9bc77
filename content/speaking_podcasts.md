@@ -1,14 +1,14 @@
 ---
-title: Security for Lawyers
+title: Podcast Spots
 hide_title: false
 excerpt: 'I like to share .'
 seo:
- title: Security for Lawyers
- description: 'Practical approaches for attorneys and law firms to protect sensitive client data.'
+ title: Podcast Spots
+ description: 'I authentically share my stories, realizations, and current journeys in business and personal growth. '
  extra: []
 layout: page
 ---
-I authentically share my stories, realizations, and current journeys in business and personal growth.
+I authentically share my stories, realizations, and current journeys in business and personal growth. I like to talk about incentives, group dynamics, whys, hows, and the next right step.
 
 ### Professionally
 
@@ -18,7 +18,7 @@ I demystify security and show business leaders the easy and effective ways to st
 
 I persuade people of their value and that even if painful, their growth is worth pursuing. For a sample, see my [tiktok](https://tiktok.com/@simplesalt).
 
-These domains are deeply interconnected for me. I'm happy to talk about most intersections of the common professional and personal growth topics I am passionate about.
+These domains are deeply interconnected for me. I enjoy speaking about the intersections - if you see me speak on two topics and think they may have an interesting connection, I've probably thought about it and would like to share.
 
 ## Interested?
 
@@ -34,6 +34,6 @@ Find a press kit [here](/images/dylan_pone_sheet.pdf).
 
 ### That Wasn't Too Hard
 
-In March 2021, I launched [an educational podcast](https://thatwasnttoohard.win) with Maha Mubarak focused on lean, metrics, business culture, UI design, and other topics. It met some of our learning and growth goals, but we paused the project after 6 months. One of the things we learned is how much work it is to produce a podcast :smiley:.
+In March 2021, I launched [an educational podcast](https://thatwasnttoohard.win) with Maha Mubarak focused on lean, metrics, business culture, UI design, and more. It met some of our learning and growth goals, but we paused the project after 6 months. One of the things we learned is how much work it is to produce a podcast :smiley:.
 
 Someday we might get back to it; we both have passion in the topics.
